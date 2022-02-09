@@ -22,7 +22,7 @@ download: ["forests2heritage.pdf", "PDF"]
 >
 > 19-21 April 2022 - Amsterdam
 >
-> [www.forests2heritage.nl](www.forests2heritage.nl)
+> [www.forests2heritage.nl](https://event.forests2heritage.nl/)
 
 [download pdf](./docs/forests2heritage.pdf)
 
