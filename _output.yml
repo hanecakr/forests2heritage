@@ -2,7 +2,7 @@ bookdown::bs4_book:
   css: style.css
   split_by: chapter
   theme:
-    primary: "#9b1137"
+    primary: "#8b0f31"
   config:
     toc:
       toc_float: true
