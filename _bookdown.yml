@@ -1,0 +1,21 @@
+book_filename: "forests2heritage"
+new_session: true
+before_chapter_script: _common.R
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: [
+  "index.Rmd",
+  "Program.Rmd",
+  "Session_1.Rmd",
+  "Session_2.Rmd",
+  "Session_3.Rmd",
+  "Session_4.Rmd",
+  "Session_5.Rmd",
+  "Session_6.Rmd",
+  "Session_7.Rmd",
+  "Session_8.Rmd",
+  "Participants.Rmd"
+]
+output_dir: "docs"
