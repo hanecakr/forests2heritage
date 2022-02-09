@@ -13,7 +13,7 @@ description: |
   
 cover-image: FORHER22_banner2.jpg
 github-repo: hanecakr/forests2heritage/
-download: ["pdf"]
+download: ["forests2heritage.pdf", "PDF"]
 ---
 
 # Book of abstracts {.unnumbered}
@@ -22,6 +22,8 @@ download: ["pdf"]
 >
 > 19-21 April 2022 - Amsterdam
 >
-> www.forests2heritage.nl
+> [www.forests2heritage.nl](www.forests2heritage.nl)
 
-[![](FORHER22_banner2.jpg){width="100%"}](www.forests2heritage.nl)
+[download pdf](./docs/forests2heritage.pdf)
+
+[![](FORHER22_banner2.jpg){width="100%"}](https://event.forests2heritage.nl/)
