@@ -1,4 +1,4 @@
-# Session 8: Not assinged to session yet {.unnumbered}
+# Session 8: Not assigned to session yet {.unnumbered}
 
 
 ## S?-O-00x {.unnumbered}

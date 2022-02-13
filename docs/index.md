@@ -4,36 +4,33 @@ author:
 - Kristof Haneca
 - Aoife Daly
 - Marta Domínguez-Delmás
-date: "09 februari, 2022"
+date: "13 februari, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 url: hanecakr.github.io/forests2heritage
 description: |
   This website provides easy access to the book of abstracts for the **From Forest to Heritage** conference.
-cover-image: FORHER22_banner2.jpg
+cover-image: bookofAbstracts header.jpg
 github-repo: hanecakr/forests2heritage/
 download:
-- forests2heritage.pdf
+- ForHer22_BOOKofABSTRACTS.pdf
 - PDF
 ---
 
 # Book of abstracts {.unnumbered}
-  
-  
-  
-> **From Forests to Heritage**
->
-> 19-21 April 2022 - Amsterdam
->
-> [www.forests2heritage.nl](https://event.forests2heritage.nl/)
-  
 
-[download pdf](https://github.com/hanecakr/forests2heritage/raw/main/docs/forests2heritage.pdf)
+[![](bookofAbstracts%20header.jpg){width="100%"}](https://event.forests2heritage.nl/)
 
+<!-- > **From Forests to Heritage** -->
 
-  
-<a href="https://hanecakr.github.io/forests2heritage/forests2heritage.pdf" target="_blank">view pdf in browser</a>
+<!-- > -->
 
+<!-- > 19-21 April 2022 - Amsterdam -->
 
-  
-[![](FORHER22_banner2.jpg){width="100%"}](https://event.forests2heritage.nl/)
+<!-- > -->
+
+<!-- > [www.forests2heritage.nl](https://event.forests2heritage.nl/) -->
+
+[download pdf](https://github.com/hanecakr/forests2heritage/raw/main/docs/ForHer22_BOOKofABSTRACTS)
+
+<a href="https://hanecakr.github.io/forests2heritage/ForHer22_BOOKofABSTRACTS" target="_blank">view pdf in browser</a>
