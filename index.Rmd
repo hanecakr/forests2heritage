@@ -18,7 +18,12 @@ download:
 ---
 
 # Book of abstracts {.unnumbered}
-
+  
+  
+  Conference website: <https://www.forests2heritage.nl/>  
+  
+  
+  
 [![](bookofAbstracts%20header.jpg){width="100%"}](https://event.forests2heritage.nl/)
 
 <!-- > **From Forests to Heritage** -->
@@ -31,6 +36,6 @@ download:
 
 <!-- > [www.forests2heritage.nl](https://event.forests2heritage.nl/) -->
 
-[download pdf](https://github.com/hanecakr/forests2heritage/raw/main/docs/ForHer22_BOOKofABSTRACTS.pdf)
+<!-- [download pdf](https://github.com/hanecakr/forests2heritage/raw/main/docs/ForHer22_BOOKofABSTRACTS.pdf) -->
 
-<a href="https://hanecakr.github.io/forests2heritage/ForHer22_BOOKofABSTRACTS.pdf" target="_blank">view pdf in browser</a>
+<!-- <a href="https://hanecakr.github.io/forests2heritage/ForHer22_BOOKofABSTRACTS.pdf" target="_blank">view pdf in browser</a> -->

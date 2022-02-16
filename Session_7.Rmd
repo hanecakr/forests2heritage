@@ -103,6 +103,8 @@ Tree-ring research on such exceptionally large pieces of furniture can be an imp
 
 This paper combines conventional and dendro-CT to answer the age question and the provenance of the wood of the chest. The medical CT-scan proved essential in establishing the exact felling date of the oak tree.
 
+![](./figures/Doeve.png){width=90%}
+
 ## S7-P-002 {.unnumbered}
 
 **Out of the woods phase II**
