@@ -4,9 +4,9 @@
 
 **Musical string instruments: Tree-ring dating and provenancing to verify their authenticity**
 
-Paolo Cherubini^1,2^, Bruce Carlson^3^, Wolfgang Talirz^4^, Malcolm H. Wiener^5^
+Paolo Cherubini^1,\ 2^, Bruce Carlson^3^, Wolfgang Talirz^4^, Malcolm H. Wiener^5^
 
-*^1^ Dendrosciences, Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Birmensdorf, Switzerland. ^2^ Department of Forest and Nature Conservation, Faculty of Forestry, University of British Columbia, Vancouver BC, Canada. ^3^ Luthier, via Amilcare Ponchielli 11, I-26020 Acquanegra Cremonese (Cremona), Italy. ^4^ Musician, violist, Berliner Philharmoniker, Berlin, Germany. ^5^ Institute for Aegean Prehistory, Greenwich, CT, United States of America.*
+*^1^ Dendrosciences, Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Birmensdorf, Switzerland. ^2^ Department of Forest and Nature Conservation, Faculty of Forestry, University of British Columbia, Vancouver BC, Canada. ^3^ Luthier, via Amilcare Ponchielli 11, Acquanegra Cremonese (Cremona), Italy. ^4^ Musician, violist, Berliner Philharmoniker, Berlin, Germany. ^5^ Institute for Aegean Prehistory, Greenwich, CT, United States of America.*
 
 <paolo.cherubini@wsl.ch>
 
@@ -20,7 +20,7 @@ The prime factor which affects the market value of a work of art is its authenti
 
 Pascale Fraiture^1^, Christophe Maggi^1^, Lisa Schindo^1,\ 2^
 
-*^1^ Laboratories department (Dendrochronology Lab), Royal Institute for Cultural Heritage (KIK-IRPA), Brussels. Belgium. ^2^ ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
+*^1^ Laboratories department (Dendrochronology Lab), Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^2^ ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
 
 <pascale.fraiture@kikirpa.be>
 
@@ -74,7 +74,7 @@ The *nudsugana* are subjectivized sculptures with their own life and agency whic
 
 ## S3-O-006 {.unnumbered}
 
-**Looking into Rijksmuseum's Maritime Collection: Provenance and Function of 18th and 19th Century Half Hull Models**
+**Looking into Rijksmuseum's maritime collection: provenance and function of 18th and 19th century half hull models**
 
 Tirza Mol^1^, Paul van Duin^2^, Jeroen ter Brugge^3^, Marta Domínguez-Delmás^4^
 
@@ -92,7 +92,7 @@ A reconstruction of a half model was made to understand the construction sequenc
 
 **Dating Northern-Netherlands cabinets from the late 17th century**
 
-Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,2^
+Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,\ 2^
 
 *^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
 
@@ -106,7 +106,7 @@ Here, we will present the process followed to date the cabinets, from the select
 
 **Unravelling a North Netherlandish 17th-century panel maker**
 
-Jørgen Wadum^1,2^, Marta Domínguez-Delmás^3^, Angela Jager^4^
+Jørgen Wadum^1,\ 2^, Marta Domínguez-Delmás^3^, Angela Jager^4^
 
 *^1^ Nivaagaard Collection, Nivå, Denmark. ^2^ Wadum Art Technological Studies (WATS), Vanlose, Denmark. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, The Netherlands. ^4^ RKD -- Netherlands Institute for Art History, The Hague, The Netherlands.*
 
@@ -124,7 +124,7 @@ To narrow down the location of the unknown panel maker's workshop, we investigat
 
 François Blondel^1^
 
-*^1^ Post-Doc SFNS -C-CIA, Institute from environmental sciences, University of Geneva, Switserland.*
+*^1^ Institute from environmental sciences (ISE), University of Geneva, Switserland.*
 
 <francois.blondel@unige.ch>
 
@@ -140,7 +140,7 @@ The study of these labels is part of a multidisciplinary SNSF project, led by Pr
 
 Petra Doeve^1^, Patrick Goossens^2^
 
-*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, The Netherlands. ^2^ Provomendus Universiteit Antwerpen, Antwerp, Belgium*
+*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, The Netherlands. ^2^  Universiteit Antwerpen, Antwerp, Belgium*
 
 <p.doeve@baac.nl> - <pmhgoossens@gmail.com>
 
@@ -154,7 +154,7 @@ A full-scale dendrochronological study on seven relief presses and two intaglio 
 
 ## S3-P-003 {.unnumbered}
 
-**Thinking inside the box. A dendrochronological and archaeobotanical survey on a 14th C chest made in Antwerp**
+**Thinking inside the box. A dendrochronological and archaeobotanical survey on a 14th century chest made in Antwerp**
 
 Kristof Haneca^1^, Koen Deforce^2,\ 3^, Luc Allemeersch^4^
 
@@ -172,7 +172,7 @@ The combined dendrochronological, archaeobotanical and historical examination no
 
 ## S3-P-004 {.unnumbered}
 
-**Preventive Conservation of Egyptian Wooden Statues back to Late Period Displayed at Egyptian Textile Museum**
+**Preventive conservation of Egyptian wooden statues back to late period displayed at Egyptian textile museum**
 
 Rasha Shaheen^1^, Asmaa Eltobgy^2^
 
@@ -188,7 +188,7 @@ The Egyptian Textile Museum in Cairo houses many unique pieces of art, dating ba
 
 Silke Lange^1^
 
-*^1^ BIAX Consult, Biological Archaeology & Environmental Reconstruction, Zaandam, The Netherlands.*
+*^1^ BIAX Consult, Biological Archaeology & Environmental Reconstruction, Zaandam, the Netherlands.*
 
 <lange@biax.nl>
 
@@ -200,7 +200,7 @@ During the excavations of the Roman fort Velsen in the 70s and 80s of the last c
 
 Sytske Weidema^1^, Angela Jager^1^, Suzanne Laemers^1^
 
-*^1^ RKD -- Netherlands Institute for Art History, The Hague, The Netherlands, in collaboration with dendrochronologists.*
+*^1^ RKD -- Netherlands Institute for Art History, The Hague, the Netherlands.*
 
 <weidema@rkd.nl>
 

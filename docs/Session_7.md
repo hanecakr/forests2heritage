@@ -4,9 +4,9 @@
 
 **Tailoring X-ray imaging techniques for dendrochronology of large wooden objects**
 
-Francien G. Bossema^1,2^, Marta Domínguez-Delmás^2,3^, Willem Jan Palenstijn^1^, Alexander Kostenko^1^, Jan Dorscheid^2^, Sophia Bethany Coban^1^, Erma Hermens^2,3^, K. Joost Batenburg^1,4^
+Francien G. Bossema^1,\ 2^, Marta Domínguez-Delmás^2,\ 3^, Willem Jan Palenstijn^1^, Alexander Kostenko^1^, Jan Dorscheid^2^, Sophia Bethany Coban^1^, Erma Hermens^2,\ 3^, K. Joost Batenburg^1,\ 4^
 
-*^1^ Computational Imaging, Centrum Wiskunde & Informatica, Amsterdam, The Netherlands. ^2^ Conservation and Science department, Rijksmuseum, Amsterdam, The Netherlands. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands. ^4^ Leiden Institute of Advanced Computer Science, Leiden University, Leiden, The Netherlands.*
+*^1^ Computational Imaging, Centrum Wiskunde & Informatica, Amsterdam, the Netherlands. ^2^ Conservation and Science department, Rijksmuseum, Amsterdam, the Netherlands. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands. ^4^ Leiden Institute of Advanced Computer Science, Leiden University, Leiden, the Netherlands.*
 
 <bossema@cwi.nl>
 
@@ -16,7 +16,7 @@ Tree rings are not always accessible on the outside of objects and thus X-ray co
 
 **Micro- and sub-µ X-ray CT scanning of Congolese heritage objects for wood identification**
 
-Sofie Dierickx^1\ 2^, Wannes Hubau^2\ 3^, Hans Beeckman^3^, Siska Genbrugge^1^, Jan van den Bulcke^2,4^
+Sofie Dierickx^1,\ 2^, Wannes Hubau^2,\ 3^, Hans Beeckman^3^, Siska Genbrugge^1^, Jan van den Bulcke^2,\ 4^
 
 *^1^ Collection management, Royal Museum for Central Africa, Tervuren, Belgium. ^2^ UGent-Woodlab, Laboratory of Wood Technology, Faculty of Bioscience Engineering, Ghent University, Gent, Belgium. ^3^ Wood Biology, Royal Museum for Central Africa, Tervuren, Belgium. ^4^ UGCT, UGent Center for X-ray Tomography (UGCT), Gent, Belgium.*
 
@@ -28,7 +28,7 @@ Knowing the wood species of objects in a museum collection can not only add to t
 
 **Unveiling the hidden world of wood. Just how far can computerized tomography take us in the stuy of wooden carvings?**
 
-Emilio Ruiz de Arcaute Martínez^1^
+Emilio Ruiz de Arcaute Martínez^1,\ 2^
 
 *^1^ Restoration Service, Diputación Foral de Álava, Vitoria, Spain. ^2^ Research Group HUM956 - Heritage Conservation: Methods and Techniques, University of Seville, Spain.*
 
@@ -46,9 +46,9 @@ The conclusions of the research on a group of Flemish reliquaries from the 16th 
 
 **Non-invasive dendrochronology of large wooden objects: complex use of 3D X-ray μCT and microscopic imaging helps to date the Saint Louis sculpture**
 
-Rūtilė Pukienė^1^, Elena Jasiūnienė^2,3^, Akmis Lomsargis^4^, Rapolas Vedrickas^5^
+Rūtilė Pukienė^1^, Elena Jasiūnienė^2,\ 3^, Akmis Lomsargis^4^, Rapolas Vedrickas^5^
 
-*^1^ Institute of Geology and Geography, Nature Research Centre, Vilnius, Lithuania. ^2^ Prof. K. Baršauskas Ultrasound Research Institute, Kaunas University of Technology, Kaunas, Lithuania. ^3^ Department of Electronics Engineering, Kaunas University of Technology, Kaunas, Lithuania. ^4^ Vilnius Faculty, Vilnius Academy of Arts, Vilnius, Lithuania. ^5^ Meno kūrinių tyrimai, Vilnius, Lithuania.*
+*^1^ Institute of Geology and Geography, Nature Research Centre, Vilnius, Lithuania. ^2^ Prof. K. Baršauskas Ultrasound Research Institute, Kaunas University of Technology, Kaunas, Lithuania. ^3^ Department of Electronics Engineering, Kaunas University of Technology, Kaunas, Lithuania. ^4^ Vilnius Faculty, Vilnius Academy of Arts, Vilnius, Lithuania. ^5^ Meno kūrinių tyrimai, MB, Vilnius, Lithuania.*
 
 <rutile.pukiene@gamtc.lt>
 
@@ -66,11 +66,24 @@ However, visual inspection of the back side of the sculpture has revealed sharp 
 
 Tamar Hestrin-Grader^1,\ 2,\ 3^, Manu Frederickx^1,\ 4,\ 5^, Marta Domínguez-Delmás^6^, Wolfgang Gard^7^, Ellen Meijvogel-de Koning^8^, Jan Willem van de Kuilen^7^, Francien Bossema^9^, Tristan van Leeuwen^9^, Paul van Duin^10^, Jan Dorscheid^10^, Tirza Mol^10^, Giovanni Paolo di Stefano^11^
 
-*^1^ KASK & Conservatorium (HOGENT-Howest), Ghent, Belgium. ^2^ Rijksmuseum, Amsterdam, the Netherlands. ^3^ Academy of Creative and Performing Arts, Universiteit Leiden, the Netherlands. ^4^ Objects Conservation, Metropolitan Museum of Art, New York, USA. ^5^ Department of Art, Music and Theatre Sciences, Faculty of Arts and Philosophy, University Ghent, Belgium. ^6^ Institute of Art History, Faculty of Humanities, University of Amsterdam, The Netherlands. ^7^ Biobased Structures and Materials, Faculty of Civil Engineering and Geosciences, TU Delft, The Netherlands. ^8^ Laboratory of Geoscience and Engineering, Faculty of Civil Engineering and Geosciences, TU Delft, The Netherlands. ^9^ Computational Imaging, Centrum Wiskunde & Informatica (CWI), Amsterdam, The Netherlands. ^10^ Furniture Conservation, Rijksmuseum Amsterdam, The Netherlands. ^11^ Musical Instruments, Rijksmuseum Amsterdam, The Netherlands.*
+*^1^ KASK & Conservatorium (HOGENT-Howest), Ghent, Belgium. ^2^ Rijksmuseum, Amsterdam, the Netherlands. ^3^ Academy of Creative and Performing Arts, Universiteit Leiden, the Netherlands. ^4^ Objects Conservation, Metropolitan Museum of Art, New York, USA. ^5^ Department of Art, Music and Theatre Sciences, Faculty of Arts and Philosophy, University Ghent, Belgium. ^6^ Institute of Art History, Faculty of Humanities, University of Amsterdam, the Netherlands. ^7^ Biobased Structures and Materials, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^8^ Laboratory of Geoscience and Engineering, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^9^ Computational Imaging, Centrum Wiskunde & Informatica (CWI), Amsterdam, the Netherlands. ^10^ Furniture Conservation, Rijksmuseum Amsterdam, the Netherlands. ^11^ Musical Instruments, Rijksmuseum Amsterdam, the Netherlands.*
 
 <manu.frederickx@metmuseum.org> - <tamarhestringrader@gmail.com>
 
 Complex wooden objects of cultural heritage such as musical instruments present many challenges to the researcher. Particularly keyboard instruments may contain half a dozen different species of wood (some readily identifiable microscopically, others not) from multiple different provenances, many moving parts, overlapping traces of both the tools used during construction and the wear from use, and a variety of physical challenges to the process of examination caused by such factors as the exterior being largely covered in decoration and the interior largely enclosed or difficult to access. This presentation gives an overview of the non-invasive techniques used so far to study the wooden components of one musical instrument: a virginal built in 1640, attributed to Ioannes Ruckers, a member of one of the most important and influential families of plucked keyboard instrument builders in the 17th century. The techniques include microscopy, endoscopy, radiography, dendrochronology and dendroprovenancing, CT scanning, and micro-CT scanning. The authors hope to demonstrate the importance of both simple and well-established techniques as well as the possibilities opened up by more advanced techniques, in the study of wooden musical instruments.
+
+
+## S7-O-006 {.unnumbered}
+
+**Old Wood in a New Light -- A dendrochronological database**
+
+Johannes Edvardsson^1^, Philip Buckland^2^, Anton Hansson^1^, Mattias Sjölander^2^, Johan von Boer^2^, Hans Linderson^1^, Björn Gunnarson^3^, Hans W Linderholm^4^, Igor Drobyshev^5^, Björn Nilsson^6^, Dan Hammarlund^1^
+
+*^1^ Laboratory for Wood Anatomy and Dendrochronology, Department of Geology, Lund University, Lund, Sweden. ^2^ The Environmental Archaeology Lab and the Strategic Environmental Archaeology Database (SEAD), Umeå University, Umeå, Sweden. ^3^ Department of Physical Geography, Stockholm University, Stockholm, Sweden. ^4^ Department of Earth Sciences, University of Gothenburg, Gothenburg, Sweden. ^5^ Southern Swedish Forest Research Centre, The Swedish University of Agricultural Sciences (SLU), Alnarp, Sweden. ^6^ Department of Archaeology and Ancient History, Lund University, Lund, Sweden.*
+
+<johannes.edvardsson@geol.lu.se>
+
+The Old Wood in a New Light project focusses on digitisation and accessibility of the results of dendrochronological samples analysed and archived at the four Swedish university-based tree-ring laboratories located at Lund University, Stockholm University, University of Gothenburg, and the Swedish University of Agricultural Sciences. Collaboration with the Environmental Archaeology Laboratory and Humlab at Umeå University will enable long-term open access to data and metadata. In this project, we will (1) systematically undertake large-scale entry and open access publication of results from scientifically analysed and archived wood samples in Sweden, and their associated metadata, into the SEAD research data infrastructure (Strategic Environmental Archaeology Database; www.sead.se), and (2) actively promote the database as a resource for new and ongoing interdisciplinary research initiatives. Inclusion of dendrochronological data in the SEAD infrastructure will allow for multidisciplinary studies combining major scientific and societal questions. SEAD is already adapted to this purpose, a pilot study has been undertaken and digitisation workflows and time estimates have been confirmed for the more than 70,000 samples archived at the Lund University dendro laboratory, where the project is hosted, and its partners. Broad coverage of research networks, stakeholder interaction and strategic support from the cultural heritage community are guaranteed by the project partners and an established international and multidisciplinary reference group.
 
 ## S7-P-001 {.unnumbered}
 
@@ -78,7 +91,7 @@ Complex wooden objects of cultural heritage such as musical instruments present 
 
 Petra Doeve^1^
 
-*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, The Netherlands.*
+*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, the Netherlands.*
 
 <p.doeve@baac.nl>
 
@@ -94,9 +107,9 @@ This paper combines conventional and dendro-CT to answer the age question and th
 
 **Out of the woods phase II**
 
-Stephan Nicolaij^1,2^, Jelte van der Laan^1,3^
+Stephan Nicolaij^1,\ 2^, Jelte van der Laan^1,\ 3^
 
-*^1^ WOODAN Foundation, Groningen, The Netherlands. ^2^ Qursi Software, Groningen, The Netherlands. ^3^ Cambium Botany, Kleine Huisjes, The Netherlands.*
+*^1^ WOODAN Foundation, Groningen, The Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ Cambium Botany, Kleine Huisjes, the Netherlands.*
 
 <Stephan.nicolaij@woodan.org>
 
@@ -110,11 +123,12 @@ Thanks to the Flanders Heritage Agency we are enabled to do a big synthetic rese
 
 • The publication of the many finds in the WOODAN database
 
+
 ## S7-P-003 {.unnumbered}
 
 **Measuring curved surfaces using photogrammetry**
 
-Sjoerd van Daalen^1^, Maarten Sepers^2,3^
+Sjoerd van Daalen^1^, Maarten Sepers^2,\ 3^
 
 *^1^ Van Daalen Dendrochronologie, Deventer, the Netherlands. ^2^ Department BBT Archaeology, Saxion University of Applied Sciences, Deventer, the Netherlands. ^3^ DDEA, Deventer, the Netherlands.*
 
@@ -128,7 +142,7 @@ In this paper we explore the possibilities of a photogrammetric approach for sev
 
 **X-ray-CT as possibility to date archived samples from Hallstatt, Austria**
 
-Elisabeth Wächter^1^ ,Hans Reschreiter^2^, Kerstin Kowarik^2^, Michael Grabner^1^
+Elisabeth Wächter^1^, Hans Reschreiter^2^, Kerstin Kowarik^2^, Michael Grabner^1^
 
 *^1^ Institute of Wood Technology and Renewable Materials, University of Natural Resources and Life Sciences, Vienna, Austria. ^2^ Department of Prehistory, Natural History Museum, Vienna, Austria.*
 

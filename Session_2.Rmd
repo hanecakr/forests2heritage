@@ -1,6 +1,19 @@
 # Session 2: Shipwrecks and archaeological structures {.unnumbered}
 
+
 ## S2-O-001 {.unnumbered}
+
+**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
+
+Ignacio A. Mundo^1,\ 2^
+
+^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
+
+[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
+
+Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
+
+## S2-O-002 {.unnumbered}
 
 **Piers, wharfs and shipping at Masthugget, Gothenburg -- Investigating private harbours through wood and stone structures**
 
@@ -16,7 +29,7 @@ Most plots and piers were private, and the owners were to a high degree well-kno
 
 The project aims to find out how this foremost private harbour changed over time, how it was used, what the building stock of the piers looked like and how the buildings connected to the various enterprises of the area.
 
-## S2-O-002 {.unnumbered}
+## S2-O-003 {.unnumbered}
 
 **Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland**
 
@@ -30,13 +43,13 @@ Although there is evidence for settlements in the lochs of Scotland from the Neo
 
 In this talk the dendrochronological evidence from SW Scotland will be outlined, and some of the interpretative issues associated with the use of non-oak species will be raised. The impact of high-resolution timescales on our understanding of the dynamics of settlement in this period will also be explored.
 
-## S2-O-003 {.unnumbered}
+## S2-O-004 {.unnumbered}
 
 **Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
 
 Mike Belasus^1^
 
-^1^ Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.
+^*1*^ *Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.*
 
 [belasus\@nihk.de](mailto:belasus@nihk.de){.email}
 
@@ -44,13 +57,13 @@ The perception of wood in connection to shipbuilding of the past seems to be str
 
 This paper will discuss the demands for shipbuilding timber and its quality in North Western Europe as a result of the ERC-TIMBER project (Grant agreement No. 677152). It aims to reflect on possible social, economic or environmental reasons for the shipwrights' choices.
 
-## S2-O-004 {.unnumbered}
+## S2-O-005 {.unnumbered}
 
 **Double checking double Dutch: A reassessment of the construction features of the early modern Scheurrak SO1 shipwreck**
 
 Rik Lettany^1^ , Petra Doeve^2^, Esther Jansma^3^
 
-^*1*^ *Department of World Archaeology, Faculty of Archaeology, Leiden University, Leiden, the Netherlands. ^2^ BAAC Archeologie en Bouwhistorie. ^3^ Cultural Heritage Agency of the Netherlands.*
+^*1*^ *Department of World Archaeology, Faculty of Archaeology, Leiden University, Leiden, the Netherlands. ^2^ BAAC Archeologie en Bouwhistorie, the Netherlands. ^3^ Cultural Heritage Agency of the Netherlands.*
 
 [h.lettany\@arch.leidenuniv.nl](mailto:h.lettany@arch.leidenuniv.nl){.email}
 
@@ -60,13 +73,13 @@ The shipwreck exhibited several peculiar construction details which deviated fro
 
 Reassessment of Scheurrak SO1's construction details within the frame of the interdisciplinary research project "Scheurrak SO1 in the Maritime Cultural Landscape of the Early Modern Netherlands, 1550-1650" at Leiden University, now suggests that the ship may have known multiple building phases. Re-analysis of the available tree-ring curves seems to support this, while analysis of additional samples demonstrate a more dispersed timber provenance than initially deduced. Although research is still ongoing, current results do challenge the known Double Dutch discourse and encourage a reinterpretation of the construction of the Scheurrak SO1 shipwreck.
 
-## S2-O-005 {.unnumbered}
+## S2-O-006 {.unnumbered}
 
 **From a forest to a ship and into a wreck, and back again?**
 
 Minna Koivikko^1^, Tuomas Aakala^2^, Katariina Vuori^3^
 
-^*1*^ *Finnish Heritage Agency, Finland. ^2^ Department, Jyväskylä, Finland. ^3^ Department, Oulu, Finland.*
+^*1*^ *Finnish Heritage Agency, Finland. ^2^ Jyväskylä, Finland. ^3^ Oulu, Finland.*
 
 [minna.koivikko\@museovirasto.fi](mailto:minna.koivikko@museovirasto.fi){.email}
 
@@ -74,17 +87,6 @@ The aim of the project is to develop interpretation of so-called skeleton wrecks
 
 The Lost Navy, Sweden's "Blue" Heritage c. 1450--1850 research programme aims to collect information about the ships in the fleet. It is a joint marine archaeology and - history project in the Baltic Sea region for 2021--2026. In Finland, the research sub-project focuses on wooden wrecks of the Swedish era fleet. The project has a multidisciplinary approach, combining archaeology with shipbuilding, dendrochronology, and forest studies.
 
-## S2-O-006 {.unnumbered}
-
-**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
-
-Ignacio A. Mundo^1,2^
-
-^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
-
-[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
-
-Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
 
 ## S2-O-007 {.unnumbered}
 
@@ -92,7 +94,7 @@ Wood anatomy or xylogeny allows the botanical identification of woody material b
 
 Steven J. Allen^1^
 
-^*1*^ *Conservation Department, York Archaeology.*
+^*1*^ *Conservation Department, York Archaeology, United Kingdom.*
 
 [sallen\@yorkat.co.uk](mailto:sallen@yorkat.co.uk){.email}
 
@@ -134,9 +136,9 @@ In 2003, a river barge dating to the Roman period was found in a former riverbed
 
 **Conservation processes of a painted wooden coffin at Saqqara area**
 
-Abdelmoniem M. Abdelmoniem^1^ , Naglaa Mahmoud^1^, Wael S. Mohamed^2^,
+Abdelmoniem M. Abdelmoniem^1^, Naglaa Mahmoud^1^, Wael S. Mohamed^2^
 
-^*1*^*Conservation Department, Faculty of Archaeology, Fayoum University, Fayoum, Egypt. ^2^ Polymer department, National Research Centre, Dokki, Giza, Egypt.*
+^*1*^ *Conservation Department, Faculty of Archaeology, Fayoum University, Fayoum, Egypt. ^2^ Polymer department, National Research Centre, Dokki, Giza, Egypt.*
 
 [ama63\@fayoum.edu.eg](mailto:ama63@fayoum.edu.eg){.email}
 
@@ -154,7 +156,7 @@ The conservation process included mechanical cleaning using soft brushes, chemic
 
 Angela Balzano^1^, Maks Merela^1^, Katarina Čufar^1^
 
-^*1*^ *Biotechnical Faculty, University of Ljubljana, SI1000 Ljubljana, Slovenia.*
+^*1*^ *Biotechnical Faculty, University of Ljubljana, Ljubljana, Slovenia.*
 
 [Angela.Balzano\@bf.uni-lj.si](mailto:Angela.Balzano@bf.uni-lj.si){.email}
 
@@ -200,4 +202,4 @@ Ronald M. Visser^1^, Yardeni Vorst^2^
 
 Over the past decades various Roman-period river barges were found in the Lower Rhine region. These ships were large vessels of over twenty meters in length. Many were excavated in order to document the constructions and some were lifted from the ground and conserved for future display. The first barges that were found (fifty years ago), the Zwammerdam ships, were among those that were preserved. This has more recently allowed for a re-examination of their ship constructions using more modern techniques. Research on the constructions including a dendroarchaeological study of the timbers has been undertaken by Y. Vorst. The provenance of the wood has been studied by both researchers, based on a recently published approach (Visser 2021). This approach uses networks to visualize and explore dendrochronological relations based on similarity. In addition, these networks give insight in other aspects of ship building practices, such as wood use and the construction. The combined studies have led to a better understanding of past practices in shipbuilding and timber transport and use during the Roman period.
 
-Visser, RM. 2021 Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. Journal of Computer Applications in Archaeology 4(1): 230--253. DOI: <https://doi.org/10.5334/jcaa.79>.
+Visser, R.M. 2021 Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. *Journal of Computer Applications in Archaeology* 4(1): 230--253. DOI: <https://doi.org/10.5334/jcaa.79>.

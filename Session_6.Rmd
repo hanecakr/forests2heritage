@@ -1,18 +1,18 @@
 # Session 6: Novel methods for dating and provenance analysis {.unnumbered}
 
-## S6-O-001 (remote) {.unnumbered}
+## S6-O-001 {.unnumbered}
  
 **Isotope dendrochronology in New Zealand**
 
-Gretel Boswijk^1^, Neil Loader^2^, Giles Young^2,3^, Alan Hogg^4^
+Gretel Boswijk^1^, Neil Loader^2^, Giles Young^2,\ 3^, Alan Hogg^4^
 
 *^1^ School of Environment Te Kura Taiao, University of Auckland Waipapa Taumata Rau, New Zeeland. ^2^ Department of Geography, Swansea University Prifysgol Abertawe, Wales. ^3^ Natural Resources Finland (LUKE), Helsinki, Norway. ^4^ Te Aka Mātuatua School of Science, University of Waikato Te Whare Wānanga o Waikato, New Zeeland.*
 
 <g.boswijk@auckland.ac.nz>
 
-Ring-width dendrochronology has enabled the development of precise chronology in Aotearoa New Zealand. Whilst much of this work has focussed on kauri (Agathis australis) from the upper North Island, other species such as matai (Prumnopitys taxifolia), miro (P. ferruginea), and totara (Podocarpus totara) are also present in the environment as living trees, as conserved artefacts (taonga), or in the archaeological record. Unfortunately, inter-species dating using existing kauri chronologies has so far proved unsuccessful, so the development of well-replicated tree-ring chronologies for these species, which are also long-lived and have national coverage would represent an important step in understanding the socio-cultural and environmental histories of these islands. Despite the optimism of early researchers, recent analysis of ring-width variability in matai and miro has shown these species to be very challenging for ring-width dendrochronology. Analysis of the chemical (stable isotope) composition of tree-rings may however provide an alternative approach to support chronology building and precision dating for these species. This paper presents initial proof-of-concept for the further investigation and development of isotope dendrochronology in New Zealand.
+Ring-width dendrochronology has enabled the development of precise chronology in Aotearoa New Zealand. Whilst much of this work has focussed on kauri (*Agathis australis*) from the upper North Island, other species such as matai (*Prumnopitys taxifolia*), miro (*P. ferruginea*), and totara (*Podocarpus totara*) are also present in the environment as living trees, as conserved artefacts (taonga), or in the archaeological record. Unfortunately, inter-species dating using existing kauri chronologies has so far proved unsuccessful, so the development of well-replicated tree-ring chronologies for these species, which are also long-lived and have national coverage would represent an important step in understanding the socio-cultural and environmental histories of these islands. Despite the optimism of early researchers, recent analysis of ring-width variability in matai and miro has shown these species to be very challenging for ring-width dendrochronology. Analysis of the chemical (stable isotope) composition of tree-rings may however provide an alternative approach to support chronology building and precision dating for these species. This paper presents initial proof-of-concept for the further investigation and development of isotope dendrochronology in New Zealand.
 
-## S6-O-002 (remote) {.unnumbered}
+## S6-O-002 {.unnumbered}
 
 **Solar bursts recorded in tree rings**
 
@@ -26,15 +26,15 @@ Tree rings record past extreme solar bursts as radiocarbon spikes. Thus far, sev
 
 ## S6-O-003 {.unnumbered}
 
-**Provenancing construction timber using a multi-variable approach. A preliminary study on living oak trees**
+**Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees**
 
-Roberta D'Andrea^1^, Christophe Corona^2,3^, Christelle Belingard^1^, Anne Poszwa^4^, Guy Costa^5^, Alan Crivellaro^6,7,8^, Sandrine Paradis-Grenouillet^1,8^
+Roberta D’Andrea^1^, Christophe Corona^2,\ 3^, Anne Poszwa^4^, Alan Crivellaro^5,\ 6,\ 7^, Christelle Belingard^1^, Fabien Cerbelaud^1^, Rémi Crouzevialle^1^, Guy Costa^8^, Sandrine Paradis-Grenouillet^1,\ 7^
 
-*^1^ Laboratoire de Géographie Physique et Environnementale, Université de Limoges, Limoges, France. ^2^ Laboratoire de Géographie Physique et Environnementale, Université Clermont Auvergne, Clermont-Ferrand, France. ^3^ French National Centre for Scientific Research -- CNRS, France. ^4^ Laboratoire Interdisciplinaire des Environnements Continentaux, Université de Lorraine, Nancy, France. ^5^ Laboratoire PEIRENE, Université de Limoges, Limoges, France. ^6^ Department of Geography, University of Cambridge, Cambridge, UK. ^7^ Forest Biometrics Laboratory, Faculty of Forestry, University of Suceava, Suceava, Ukraine. ^7^ Eveha, Bureau d'étude archéologique, Limoges, France.*
+*^1^ Laboratoire de Géographie Physique et Environnementale, Université de Limoges, Limoges, France. ^2^  Laboratoire de Géographie Physique et Environnementale, Université Clermont Auvergne, Clermont-Ferrand, France. ^3^ French National Centre for Scientific Research – CNRS, France. ^4^ Laboratoire Interdisciplinaire des Environnements Continentaux, Université de Lorraine, Nancy, France. ^5^ Department of Geography, University of Cambridge, United Kingdom. ^6^ Forest Biometrics Laboratory, Faculty of Forestry, University of Suceava, Ukraine. ^7^ Éveha, Bureau d’étude archéologique, Limoges, France. ^8^ Laboratoire PEIRENE, Université de Limoges, Limoges, France.*
 
 <roberta.dandrea@etu.unilim.fr>
 
-A study focusing on timber-framed houses in Limoges (France) is currently being carried out to pinpoint the exact source areas of construction timbers, and consequently to understand how local forests were exploited and managed for housing needs between the 15th and the 19th century. To do so, four sub-regional reference chronologies are being created using living oak trees and old wooden structures of the historical region Limousin (France). Moreover, following the example of several dendroprovenancing studies carried out in the last years, we developed a multi-proxy method which will allow us to locate the origin of timber with more precision. This method includes wood anatomical variables, stable strontium isotopes ratios and DNA analyses. Before conducting these analyses on archaeological timber, we used the living oak trees included in the four reference chronologies to test the potential of each parameter. We present the results of the wood anatomical study. Time series of anatomical variables have been produced, and the PCGA (principal component gradient analysis) approach (Buras et al. 2016) has been used to cluster the series based on ecological gradients. The results show that combining ring-width-related variables (latewood) and vessel-related variables (cell density) allows to assign trees to their origin more efficiently than using TRW alone.
+A study focusing on timber-framed houses in Limoges (France) is currently being carried out to pinpoint the exact source areas of construction timbers, and consequently to understand how local forests were exploited and managed for housing needs between the 15th and the 19th century. To do so, four sub-regional reference chronologies are being created using living oak trees and old wooden structures of the French department Haute-Vienne. Following the example of several dendroprovenancing studies carried out in the last years, we developed a multi-proxy method which we expect to help locate the origin of timber with more precision. This method includes wood anatomical variables, stable strontium isotopes (^87^Sr/^86^Sr) signatures and DNA and it is tested for the first time at such a small geographic scale. Before conducting these analyses on archaeological timber, we used the living oak trees included in the four sub-regional chronologies to test the potential of each parameter. We present the results of the quantitative wood anatomical (QWA) study and the preliminary results of the isotopic analyses. As regards the QWA study, time series of anatomical variables have been produced, and the principal component gradient analysis (PCGA) approach (Buras *et al.* 2016) has been used to cluster the series based on ecological gradients. Moreover, stable strontium isotopes ratios have been measured in a subsample from each site. The results show that combining TRW with vessel-related variables and ^87^Sr/^86^Sr ratios allows to assign trees to their origin more efficiently than using TRW alone.
 
 ## S6-O-004 {.unnumbered}
 
@@ -62,9 +62,9 @@ This method could be easily extrapolated to several application fields of dendro
 
 **Advancing Elm Dendrochronology in the United Kingdom**
 
-Neil .J. Loader^1^, Danny McCarroll^1^, Daniel Miles^2^, Martin Bridge^3^, Darren. Davies^1^, Christopher Bronk Ramsey^2^
+Neil J. Loader^1^, Danny McCarroll^1^, Daniel Miles^2^, Martin Bridge^3^, Darren Davies^1^, Christopher Bronk Ramsey^2^
 
-*^1^ Department of Geography, Swansea University, Swansea, UK. ^2^ Department of Archaeology, University of Oxford, Oxford, UK. ^3^ Institute of Archaeology, University College London, London, UK.*
+*^1^ Department of Geography, Swansea University, Swansea, United Kingdom. ^2^ Department of Archaeology, University of Oxford, Oxford, United Kingdom. ^3^ Institute of Archaeology, University College London, London, United Kingdom.*
 
 <n.j.loader@Swansea.ac.uk>
 
@@ -76,15 +76,15 @@ These problems arise in the UK due to a lack of elm reference chronologies, an a
 
 Early application of stable isotope dendrochronology to samples of elm indicate that the strong common signal preserved in oak tree-ring stable isotopes can be used to securely date elm and may also provide an approach for developing ringwidth chronologies for this genus. New opportunities now exist to explore the chronology, distribution and use of elm in the UK.
 
-Bridge, M. 2020. Vernacular Architecture, 51 (1) DOI: 10.1080/03055477.2020.1794245.
+Bridge, M. 2020. *Vernacular Architecture* 51 (1) DOI: <https://doi.org/10.1080/03055477.2020.1794245>.
 
 ## S6-O-006 {.unnumbered}
 
 **Oxygen Isotopes assist dating buildings in Sussex (UK)**
 
-Martin Bridge^1,2^
+Martin Bridge^1,\ 2^
 
-*^1^ UCL Institute of Archaeology, London, UK. ^2^ Oxford Dendrochronology Laboratory, Mapledurham, Oxfordshire, UK.*
+*^1^ UCL Institute of Archaeology, London, United Kingdom. ^2^ Oxford Dendrochronology Laboratory, Mapledurham, Oxfordshire, United Kingdom.*
 
 <martin.bridge@ucl.ac.uk>
 
@@ -94,11 +94,11 @@ Other examples from southern England have already provided dates not available t
 
 ## S6-O-007 {.unnumbered}
 
-**Exact Dating of the First Europeans in the Americas**
+**Exact dating of the first Europeans in the Americas**
 
 Michael Dee^1^, Margot Kuitems^1^
 
-*^1^ Centre for Isotope Research, University of Groningen, Groningen, Netherlands.*
+*^1^ Centre for Isotope Research, University of Groningen, Groningen, the Netherlands.*
 
 <m.w.dee@rug.nl>
 
@@ -108,7 +108,7 @@ Dendrochronology is a precise dating technique, but it requires long sequences o
 
 **The potential of tree-ring drought atlases for dating and provenancing archaeological timbers**
 
-Mukund Palat Rao^1,2,3^, Marta Domínguez-Delmás^4^, Edward R. Cook^3^
+Mukund Palat Rao^1,\ 2,\ 3^, Marta Domínguez-Delmás^4^, Edward R. Cook^3^
 
 *^1^ University Corporation for Atmospheric Research, USA. ^2^ University of California Davis, USA. ^3^ Lamont-Doherty Earth Observatory of Columbia University, USA. ^4^ Institute of Art History, Faculty of Humanities, University of Amsterdam/Rijksmuseum, the Netherlands.*
 
@@ -168,8 +168,8 @@ Despite these methodological difficulties, we assume that the use of MXD paramet
 
 Kévin Liévens^1^, Victor Deklerck^2^, Mélissa Rousseau^1^, Nils Bourland^1^, Hans Beeckman^1^
 
-*^1^ Service of Wood Biology, Royal Museum for Central Africa (RMCA), Tervuren, Belgium. ^2^ Royal Botanic Gardens Kew, Richmond, Surrey, TW9 3AE, United Kingdom.*
+*^1^ Service of Wood Biology, Royal Museum for Central Africa (RMCA), Tervuren, Belgium. ^2^ Royal Botanic Gardens Kew, Richmond, Surrey, United Kingdom.*
 
 <kevin.lievens@africamuseum.be>
 
-Rosewood is a commercial term encompassing hardwood species with a pink to brown heartwood, from different botanical taxa from tropical America, Africa and Asia. Rosewoods have often been used for style furniture, interior joinery and sculptures. Harvests historically originated from Asia, Central America and South America. Today, rosewood species continue to be intensively sought after for furniture, especially in Asia, resulting in high pressure on the remaining populations in continental Africa and Madagascar. Especially wood from the Dalbergia and Pterocarpus genus is of particular high concern for forest and species conservation. There is evidence that taxa from the latter genus are now being harvested mostly unlawfully and at a rate that could reach economic and biological extinctions in some range States. Consequently, many Dalbergia and some Pterocarpus species are listed in CITES Appendixes, making measures of conservation and enforcement of trade regulations dramatically needed. Notably because of CITES requirements, those measures ask for identification of the timber to the species level. This is not always feasible with classical wood anatomical assessments. A approach has been proposed based on DART-FOMS analysis of the metabolites in the heartwood after a wood anatomical screening. We discuss this approach with four case-studies of wood identification of historical furniture : an armchair design by Josef Hoffmann in 1901, a virginal built by Henri Van Casteel in 1770, a Chinese table Huanghuali & a batch of rosewood guitars recently confiscated by the Belgian customs.
+Rosewood is a commercial term encompassing hardwood species with a pink to brown heartwood, from different botanical taxa from tropical America, Africa and Asia. Rosewoods have often been used for style furniture, interior joinery and sculptures. Harvests historically originated from Asia, Central America and South America. Today, rosewood species continue to be intensively sought after for furniture, especially in Asia, resulting in high pressure on the remaining populations in continental Africa and Madagascar. Especially wood from the Dalbergia and Pterocarpus genus is of particular high concern for forest and species conservation. There is evidence that taxa from the latter genus are now being harvested mostly unlawfully and at a rate that could reach economic and biological extinctions in some range States. Consequently, many Dalbergia and some Pterocarpus species are listed in CITES Appendixes, making measures of conservation and enforcement of trade regulations dramatically needed. Notably because of CITES requirements, those measures ask for identification of the timber to the species level. This is not always feasible with classical wood anatomical assessments. A approach has been proposed based on DART-FOMS analysis of the metabolites in the heartwood after a wood anatomical screening. We discuss this approach with four case-studies of wood identification of historical furniture : an armchair design by Josef Hoffmann in 1901, a virginal built by Henri Van Casteel in 1770, a Chinese table Huanghuali and a batch of rosewood guitars recently confiscated by the Belgian customs.

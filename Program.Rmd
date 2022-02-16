@@ -2,4 +2,78 @@
 
 # Program {.unnumbered}
 
-comming soon...
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+
+opts <- options(knitr.kable.NA = "")
+
+prog <- read_xlsx("./ForHer22_PROGRAM.xlsx") %>% 
+  select(-7) %>% 
+  mutate(event = if_else(str_detect(event, "S1-|S2-|S3-|S4-|S5-|S6-|S7-"), paste0("[", event, "](#", tolower(event), ")"), event))
+
+```
+
+## Monday: 18 April 2022 {.unnumbered}
+
+
+```{r, echo=FALSE}
+prog %>% 
+  filter(!is.na(day)) %>%
+  filter(day == "Monday 18/4") %>% 
+  select(-day) %>% 
+  kbl() %>%
+  kable_paper("hover", full_width = T) %>% 
+  column_spec(column = c(1,2), width = "100px") %>% 
+  row_spec(row = 1, background = "#D6EAF8")
+
+```
+
+
+## Tuesday: 19 April 2022 {.unnumbered}
+
+```{r, echo=FALSE}
+prog %>% 
+  filter(!is.na(day)) %>%
+  filter(day == "Tuesday 19/4") %>% 
+  select(-day) %>% 
+  kbl() %>%
+  kable_paper("hover", full_width = T) %>% 
+  column_spec(column = c(1,2), width = "100px") %>% 
+  row_spec(row = c(1, 2, 3, 9, 15, 16, 24, 25, 30), background = "#D6EAF8")
+
+```
+
+
+## Wednesday: 20 April 2022 {.unnumbered}
+
+```{r, echo=FALSE}
+prog %>% 
+  filter(!is.na(day)) %>%
+  filter(day == "Wednesday 20/4") %>% 
+  select(-day) %>% 
+  kbl() %>%
+  kable_paper("hover", full_width = T) %>% 
+  column_spec(column = c(1,2), width = "100px") %>% 
+  row_spec(row = c(1, 11, 12, 19, 20, 27), background = "#D6EAF8")
+
+```
+
+
+## Thursday: 21 April 2022 {.unnumbered}
+
+```{r, echo=FALSE}
+prog %>% 
+  filter(!is.na(day)) %>%
+  filter(day == "Thursday 21/4") %>%
+  select(-day) %>% 
+  kbl() %>%
+  kable_paper("hover", full_width = T) %>% 
+  column_spec(column = c(1,2), width = "100px") %>% 
+  row_spec(row = c(1, 11, 12, 19, 20, 28, 29, 32, 35), background = "#D6EAF8")
+
+```
+

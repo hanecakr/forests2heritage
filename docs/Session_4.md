@@ -1,6 +1,6 @@
 # Session 4: Built heritage {.unnumbered}
 
-## S4-O-001 (remote) {.unnumbered}
+## S4-O-001 {.unnumbered}
 
 **Roof constructions in Austria -- an overview**
 
@@ -16,11 +16,11 @@ Parallel to the dendro-dating, building historians have been analysing the typol
 
 The existing tree-ring-database makes it possible to present new insights on the historical roof trusses. At 982 buildings roof constructions were sampled and analysed -- ending with 13,916 samples. The time span reaches from the oldest roof truss at the church in Salzburg dated to 1135, to the youngest one in Vienna dated to 1997.
 
-69.0% of the sampled elements were made out of Norway spruce followed by Silver fir with 19.6%. All other species played a minor role: pine (5.0%), larch (3.6%), Oak (2.7%), followed by few elements made out of Stone pine, elm, beech and poplar. The share of wood species represents clearly the huge influence of the alpine region. Within the city of Vienna, where all building material was rafted, the amount of spruce wood is 72.3%. There were no clearly visible changes in the share of wood species over time.
+69.0% of the sampled elements were made out of Norway spruce followed by Silver fir with 19.6%. All other species played a minor role: pine (5.0%), larch (3.6%), oak (2.7%), followed by few elements made out of Stone pine, elm, beech and poplar. The share of wood species represents clearly the huge influence of the alpine region. Within the city of Vienna, where all building material was rafted, the amount of spruce wood is 72.3%. There were no clearly visible changes in the share of wood species over time.
 
 The wood species composition in Austria is different to other regions, where often oak is dominating; or tremendous changes in the share can be seen.
 
-## S4-O-002 (remote) {.unnumbered}
+## S4-O-002 {.unnumbered}
 
 **A 2ka-long tree-ring chronology for hinoki cypress from central Japan and its dendroarchaeological application**
 
@@ -36,9 +36,9 @@ We present a 2ka-long ring-width chronology of hinoki cypress and its applicatio
 
 **Lonely Brussels. Destination: the old built heritage and its woods**
 
-Paulo Charruadas^1^, Sarah Cremer^2^, Patrick Hoffummer^4^, Sylvianne Modrie^3^, Philippe Sosnowska^1,\ 4^, Armelle Weitz^2^
+Paulo Charruadas^1^, Sarah Cremer^2^, Patrick Hoffummer^3^, Sylvianne Modrie^4^, Philippe Sosnowska^1,\ 3^, Armelle Weitz^2^
 
-*^1^ Université libre de Bruxelles, Avenue F.D. Roosevelt 50 -- CP133, 1050 Bruxelles, Belgium. ^2^ KIK-IRPA, Institut royal du Patrimoine artistique, Parc du Cinquantenaire 1, 1000 Bruxelles, Belgium. ^3^ Service public régional Bruxelles Urbanisme et Patrimoine - urban.brussels, Mont des Arts 10-13, 1000 Bruxelles, Belgium. ^4^ Université de Liège, Boulevard de la Constitution 41, 4020 Liège, Belgium.*
+*^1^ Université libre de Bruxelles, Brussels, Belgium. ^2^ Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^3^ Université de Liège, Liège, Belgium. ^4^ Service public régional Bruxelles Urbanisme et Patrimoine - urban.brussels, Brussels, Belgium.*
 
 <armelle.weitz@kikirpa.be>
 
@@ -56,7 +56,7 @@ We would like to outline some of the general characteristics of the the use of w
 
 Gavin Simpson^1^
 
-*^1^ Honorary Research Associate, Humanities Department, University of Nottingham, Nottingham, UK.*
+*^1^ Honorary Research Associate, Humanities Department, University of Nottingham, Nottingham, United Kingdom.*
 
 <Gavin.Simpson@Nottingham.ac.uk>
 
@@ -66,11 +66,11 @@ The WH roof had an estimated external span of 25m. Clearly William was unable to
 
 ## S4-O-005 {.unnumbered}
 
-**Convex shaped church tiebeams from the 11th - 13 th century in the Diocese of Lund compared with European examples**
+**Convex shaped church tiebeams from the 11th - 13th century in the Diocese of Lund compared with European examples**
 
 Karl-Magnus Melin^1^, Petter Jansson^2^, Johannes Edvardsson^3^, Anton Hansson^3^, Hans Linderson^3^, Heikki Ranta^4^
 
-*^1^ Conservation, Universityof Gothenburg, Gothenburg, Sweden. ^2^ Regional Museum, Kristianstad, Sweden. ^3^ Department of Geology, University of Lund, Lund, Sweden. ^3^ Diocese of Lund, Swedish church, Lund, Sweden.*
+*^1^ Conservation, University of Gothenburg, Gothenburg, Sweden. ^2^ Regional Museum, Kristianstad, Sweden. ^3^ Department of Geology, University of Lund, Lund, Sweden. ^3^ Diocese of Lund, Swedish church, Lund, Sweden.*
 
 <kalle@timmermanskonst.se>
 
@@ -78,11 +78,11 @@ Tie beams from about 25 churches in the Diocese of Lund (part of Denmark until 1
 
 ## S4-O-006 {.unnumbered}
 
-**The use and results of dendrochronological research in building history research in Leiden (NL)**
+**The use and results of dendrochronological research in building history research in Leiden (the Netherlands)**
 
 Edwin Orsel^1^
 
-*^1^ Erfgoed Leiden en Omstreken, Leiden, The Netherlands.*
+*^1^ Erfgoed Leiden en Omstreken, Leiden, the Netherlands.*
 
 <e.orsel@erfgoedleiden.nl>
 
@@ -94,9 +94,9 @@ The results of dendrochronological research in Leiden provide insight into the d
 
 **Unveiling the innovation behind the roof constructions of the Medieval Churches in Finland**
 
-Liisa Seppänen^1^, Laura Laine^2^, Panu Savolainen^2^
+Liisa Seppänen^1^, Panu Savolainen^2^, Laura Laine^2^
 
-^1^ Department of Archaeology, University of Helsinki, Finland. ^2^ Architectural History Research Group, Department of Architecture, Aalto University, Helsinki, Finland.
+*^1^ Department of Archaeology, University of Helsinki, Finland. ^2^ Architectural History Research Group, Department of Architecture, Aalto University, Helsinki, Finland.*
 
 <liseppa@utu.fi> - <liisa.h.seppanen@helsinki.fi>
 
@@ -114,9 +114,9 @@ The research has been performed in an on-going project "Structural innovations i
 
 **Dendrochronological research in Amsterdam monuments. Timber trade, construction and methodological implications**
 
-Gabri van Tussenbroek^1,2^
+Gabri van Tussenbroek^1,\ 2^
 
-^1^ City of Amsterdam, Monuments & Archaeology. ^2^ University of Amsterdam, Faculty of Humanities, dept. Art History.
+*^1^ City of Amsterdam, Monuments & Archaeology. ^2^ University of Amsterdam, Faculty of Humanities, Department of Art History, the Netherlands.*
 
 <g.vantussenbroek@uva.nl>
 
@@ -136,7 +136,7 @@ In my contribution, after a brief general overview of the collected data set, I 
 
 Adomas Vitas^1^
 
-^1^ Environmental Research Centre, Faculty of Natural Sciences, Vytautas Magnus University, Kaunas, Lithuania.
+*^1^ Environmental Research Centre, Faculty of Natural Sciences, Vytautas Magnus University, Kaunas, Lithuania.*
 
 <ad8advi@gmail.com>
 
@@ -144,11 +144,11 @@ Oak timber in Lithuania was used in building constructions in Klaipėda oldtown 
 
 ## S4-P-002 {.unnumbered}
 
-**The oldest known roof construction in Ghent (BE) sheds new light on medieval building history**
+**The oldest known roof construction in Ghent (Belgium) sheds new light on medieval building history**
 
 Vincent Debonne^1^, Kristof Haneca^1^
 
-^1^ Flanders Heritage Agency, Brussels, Belgium
+*^1^ Flanders Heritage Agency, Brussels, Belgium.*
 
 <Vincent.Debonne@vlaanderen.be>
 
@@ -166,15 +166,16 @@ These new results and the wider dataset for the Ghent region now allow to develo
 
 **Utilization of wood species in timber constructions across the Czech lands from the 15th to the 19th century**
 
-Tomáš Kolář^1,2^, Petr Dobrovolný^2,3^, Péter Szabó^4^, Tomáš Mikita^5^, Tomáš Kyncl^6^, Josef Kyncl^6^, Irena Sochová^1,2^, Micha Rybníček^1,2^
+Tomáš Kolář^1,\ 2^, Petr Dobrovolný^2,\ 3^, Péter Szabó^4^, Tomáš Mikita^5^, Tomáš Kyncl^6^, Josef Kyncl^6^, Irena Sochová^1,\ 2^, Micha Rybníček^1,\ 2^
 
-^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, 613 00 Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences (CzechGlobe), 603 00 Brno, Czech Republic. ^3^ Department of Geography, Faculty of Science, Masaryk University, 613 00 Brno, Czech Republic. ^4^ Department of Vegetation Ecology, Institute of Botany of the Czech Academy of Sciences, Lidická 25/27, 602 00 Brno, Czech Republic. ^5^ Department of Forest Management and Applied Geoinformatics, Faculty of Forestry and Wood Technology, Mendel University in Brno, 613 00 Brno, Czech Republic. ^6^ DendroLab Brno, 616 00 Brno, Czech Republic.
+*^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences (CzechGlobe), Brno, Czech Republic. ^3^ Department of Geography, Faculty of Science, Masaryk University, Brno, Czech Republic. ^4^ Department of Vegetation Ecology, Institute of Botany of the Czech Academy of Sciences, Brno, Czech Republic. ^5^ Department of Forest Management and Applied Geoinformatics, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^6^ DendroLab Brno, Brno, Czech Republic.*
 
 <koldatom@gmail.com>
 
-Wood represents fundamental material for buildings either as part of houses made of bricks and/or stone or as a whole house (e.g. log houses). Utilization of individual species for buildings could substantially change in space and time due to regional availability of the species. In this study, we present 8´135 dendrochronologically exactly dated timber constructions, represented mainly by roofs and ceilings, across the Czech Lands in order to investigate variations in wood species selection between the 15th and the 19th century. Our results show that availability of individual species, wood properties, and stem geometry played a key role for the utilization wood species in historical timber constructions. Vast majority of historical constructions (99.7%) were made of fir, spruce, pine, and oak. Timber constructions in eastern part of the Czech Republic are mostly made of fir, whereas in central and western part of spruce. Pine and oak constructions are typical of specific regions, which reflects natural occurrence of the species at lower elevated central Bohemia and southern Moravia. Representation of individual wood species changed in time especially due to planting of spruce monocultures starting in the 19th century. Whereas fir prevailed in timber construction until the end of the 18th century, spruce utilization started to increase significantly at the end of the 19th century. Our study shows that dendrochronological datasets may be used to investigate wood utilization in the past.
+Wood represents fundamental material for buildings either as part of houses made of bricks and/or stone or as a whole house (e.g. log houses). Utilization of individual species for buildings could substantially change in space and time due to regional availability of the species. In this study, we present 8135 dendrochronologically exactly dated timber constructions, represented mainly by roofs and ceilings, across the Czech Lands in order to investigate variations in wood species selection between the 15th and the 19th century. Our results show that availability of individual species, wood properties, and stem geometry played a key role for the utilization wood species in historical timber constructions. Vast majority of historical constructions (99.7%) were made of fir, spruce, pine, and oak. Timber constructions in eastern part of the Czech Republic are mostly made of fir, whereas in central and western part of spruce. Pine and oak constructions are typical of specific regions, which reflects natural occurrence of the species at lower elevated central Bohemia and southern Moravia. Representation of individual wood species changed in time especially due to planting of spruce monocultures starting in the 19th century. Whereas fir prevailed in timber construction until the end of the 18th century, spruce utilization started to increase significantly at the end of the 19th century. Our study shows that dendrochronological datasets may be used to investigate wood utilization in the past.
 
 Acknowledgments: This work was supported by the SustES -- Adaptation strategies for sustainable ecosystem services and food security under adverse environmental conditions project, ref. CZ.02.1.01/0.0/0.0/16_019/0000797, and by long-term research development project no. RVO 67985939.
+
 
 ## S4-P-004 {.unnumbered}
 
@@ -182,7 +183,7 @@ Acknowledgments: This work was supported by the SustES -- Adaptation strategies 
 
 Linda Lindblad^1^
 
-^1^ The Craft Laboratory, Department of Conservation, Faculty of Science, University of Gothenburg, Mariestad, Sweden.
+*^1^ The Craft Laboratory, Department of Conservation, Faculty of Science, University of Gothenburg, Mariestad, Sweden.*
 
 <linda.lindblad@conservation.gu.se>
 
@@ -192,13 +193,14 @@ In the examinations we will investigate; what kind of timber these buildings wer
 
 Dendrochronological analyses will then be used as a tool to further understand the properties of the timber, felling season, tree ring widths and which type of forests the trees once grew in, the felling years will be of minor importance. Together craft researchers and dendrochronologists will try to solve the main and important questions: How can wooden living houses last for several hundred years? Can we by understanding the timber quality, used techniques and historic forestry today and in the future build longlasting sustainable wooden houses?
 
+
 ## S4-P-005 {.unnumbered}
 
 **Methodological approach of wood anatomy and dendrochronology in cultural heritage**
 
 Maks Merela^1^, Katarina Čufar^1^, Luka Krže^1^, Angela Balzano^1^
 
-^1^Biotechnical Faculty, University of Ljubljana, Department of Wood Science and Technology, Ljubljana, Slovenia.
+*^1^Biotechnical Faculty, University of Ljubljana, Department of Wood Science and Technology, Ljubljana, Slovenia.*
 
 <Maks.Merela@bf.uni-lj.si>
 
@@ -208,13 +210,14 @@ Finally, we will address the need for ongoing maintenance of reference chronolog
 
 The right choice of methods (conventional and modern) allows us to extract a long list of information from the wood of cultural heritage objects.
 
+
 ## S4-P-006 {.unnumbered}
 
 **Dendrochronological dating of historical sacral constructions in Transcarpathian Ukraine**
 
-Irena Sochová^1,2^, Tomáš Kolář^1,2^, Michal Rybníček^1,2^
+Irena Sochová^1,\ 2^, Tomáš Kolář^1,\ 2^, Michal Rybníček^1,\ 2^
 
-^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, Zemědělská 3, 613 00 Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences, Bělidla 4a, 603 00 Brno, Czech Republic.
+*^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences, Brno, Czech Republic.*
 
 <sochova.irena@seznam.cz>
 

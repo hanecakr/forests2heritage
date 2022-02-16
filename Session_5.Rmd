@@ -1,6 +1,6 @@
 # Session 5: Evidence of timber trade and transport {.unnumbered}
 
-## S5-O-001 (remote) {.unnumbered}
+## S5-O-001 {.unnumbered}
 
 **Short distance log transport in Austria.**
 
@@ -40,11 +40,11 @@ The identification of timbers from a common stand or even stem-identical timbers
 
 ## S5-O-003 {.unnumbered}
 
-**Timber rafting on upper Garonne river : from Pyrenean Mountain forests to heritage**
+**Timber rafting on upper Garonne river: from Pyrenean Mountain forests to heritage**
 
 Anh Linh François^1^, Vincent Labbas^2,\ 3^, Camille Fabre^4^, Sylvain Burri^5^
 
-*^1^ ArScan UMR 7041 CNRS-Université Paris 1: Panthéon-Sorbonne, Paris, France. ^2^ Liege University, Liege, Belgium. ^3^ Laboratory of dendrochronology, KIK-IRPA, Brussels, Belgium. ^4^ Centre Roland Mousnier UMR 8596 CNRS-Université Paris IV : Paris-Sorbonne, Paris, France. ^5^ TRACES UMR 5608 CNRS-Université Toulouse Jean Jaurès, Toulouse, France.*
+*^1^ ArScan UMR 7041 CNRS-Université Paris 1: Panthéon-Sorbonne, Paris, France. ^2^ Liège University, Liège, Belgium. ^3^ Laboratory of dendrochronology, KIK-IRPA, Brussels, Belgium. ^4^ Centre Roland Mousnier UMR 8596 CNRS-Université Paris IV: Paris-Sorbonne, Paris, France. ^5^ TRACES UMR 5608 CNRS-Université Toulouse Jean Jaurès, Toulouse, France.*
 
 <anhlinh.francois@gmail.com>
 
@@ -54,7 +54,7 @@ In preindustrial Europe, rafting was the main transportation strategy implemente
 
 **Past timber resources in northern Europe: a holistic approach?**
 
-Aoife Daly^1,2^
+Aoife Daly^1,\ 2^
 
 *^1^ Saxo Institute, University of Copenhagen, Copenhagen, Denmark. ^2^ Dendro.dk, Copenhagen, Denmark.*
 
@@ -74,7 +74,7 @@ The project "Northern Europe's timber resource - chronology, origin and exploita
 
 Paul Borghaerts^1^
 
-^1^ Borghaerts Houtdatering, Easterein (Friesland), The Netherlands.
+*^1^ Borghaerts Houtdatering, Easterein (Friesland), the Netherlands.*
 
 <pdata@borghaerts.nl>
 
@@ -96,7 +96,7 @@ As a result, an increasingly clearer picture is emerging of the ever-shifting re
 
 Coralie Mills^1,\ 2^
 
-^1^ Dendrochronicle, Edinburgh. ^2^ School of Earth and Environmental Sciences, University of St Andrews.
+*^1^ Dendrochronicle, Edinburgh. ^2^ School of Earth and Environmental Sciences, University of St Andrews.*
 
 <coralie.mills@dendrochronicle.co.uk>
 
@@ -110,7 +110,7 @@ In SESOD, a reconnaissance phase to locate candidate sites revealed how few oak 
 
 Dawn Elise Mooney^1^, Élie Pinta^2^, Lísabet Guðmundsdóttir^3^
 
-^1^ Museum of Archaeology, University of Stavanger, Stavanger, Norway. ^2^ Université Paris 1 Panthéon-Sorbonne, UMR8906 Archéologie des Ameriques, Paris, France. ^3^ Department of Archaeology, University of Iceland, Reykjavík, Iceland.
+*^1^ Museum of Archaeology, University of Stavanger, Stavanger, Norway. ^2^ Université Paris 1 Panthéon-Sorbonne, UMR8906 Archéologie des Ameriques, Paris, France. ^3^ Department of Archaeology, University of Iceland, Reykjavík, Iceland.*
 
 <dawn.e.mooney@uis.no>
 
@@ -122,7 +122,7 @@ The North Atlantic islands of the Faroe Islands, Iceland and Greenland have alwa
 
 Petra Doeve^1^, Silke Lange^2^
 
-^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, The Netherlands. ^2^ BIAX Consult, Biological Archaeology & Environmental Reconstruction, Zaandam, The Netherlands
+*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, the Netherlands. ^2^ BIAX Consult, Biological Archaeology & Environmental Reconstruction, Zaandam, the Netherlands.*
 
 <p.doeve@baac.nl> - <lange@biax.nl>
 
@@ -140,7 +140,7 @@ In total 141 oak foundation posts were measured from the road which was construc
 
 Damian M Goodburn^1^
 
-^1^ Museum of London Archaeology, London, England.
+*^1^ Museum of London Archaeology, London, England.*
 
 <futtock.goodburn@gmail.com>
 
@@ -162,7 +162,7 @@ Due to limited native woodland in Greenland, which was not suitable for larger c
 
 **The production of barrels and casks in the Netherlands in Late Middle Ages and Early Modern period**
 
-Jeroen Oosterbaan^1,2^ , Petra Doeve^3^
+Jeroen Oosterbaan^1,\ 2^ , Petra Doeve^3^
 
 ^1^ Department of World Archaeology, Faculty of Archaeology, Leiden University, Leiden, the Netherlands. ^2^ Saxion University of Applied Sciences, Deventer, the Netherlands. ^3^ BAAC Archeologie en bouwhistorie, 's-Hertogenbosch, the Netherlands.
 
@@ -178,9 +178,9 @@ This paper explores the way the production of barrels and casks was organized an
 
 **From research on timber supply in rural areas to regional watersheds**
 
-Vincent Labbas^1,2^, Sarah Cremer^2^, Pascale Fraiture^2^, Patrick Hoffsummer^1^, Christophe Maggi^2^, Armelle Weitz^2^
+Vincent Labbas^1,\ 2^, Sarah Cremer^2^, Pascale Fraiture^2^, Patrick Hoffsummer^1^, Christophe Maggi^2^, Armelle Weitz^2^
 
-*^1^ Liege University, Liege, Belgium. ^2^ Laboratorary of dendrochronology, KIK-IRPA, Brussels, Belgium.*
+*^1^ Liège University, Liège, Belgium. ^2^ Laboratory of dendrochronology, KIK-IRPA, Brussels, Belgium.*
 
 <vincent.labbas@univ-tlse2.fr> - <vincent.labbas@kikirpa.be>
 
@@ -188,29 +188,30 @@ The project Deep in Heritage (FED-tWIN2020-prf024, BELSPO), led by the dendro la
 
 The methods used and the results obtained within the framework of this « mountain research » will lead to a re-interrogation of timber supply between the Meuse and Seine watersheds and will contribute to the creation of tools for modelling the provenances and terroirs of origin of the wood.
 
-## S5-O-013 (+ poster?) {.unnumbered}
+## S5-O-013 {.unnumbered}
 
 **MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
 
-Marieke van Vlierden^1,2^, Seppe Roels^2,\ 3^, Michael Rief^4^
+Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^
 
-^1^ Independent art historian, Utrecht, The Netherlands. ^2^ associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, The Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^3^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany.
+*^1^ Independent art historian, Utrecht, the Netherlands. ^2^ Associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^4^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany.*
 
-<info@mariekevanvlierden.nl>
+<info@mariekevanvlierden.nl> - <conservatie@sepperoels.be>
 
 The RKD -- Netherlands Institute for Art History has been developing the MARKS ON ART database in close cooperation with the two specialists who devised it, art historian Marieke van Vlierden and conservator-restorer Seppe Roels. The purpose of this new database, which will become accessible online in due course, is to gather and share detailed information on a range of different marks that can be found on sculptures, furniture and the backs of panel paintings, dating from 1300 to 1700.
 
-Besides the more commonly encountered marks -- signatures, monograms, master\'s marks, quality control marks and panel maker's marks which provide unique information about such things as the maker, when and where the object was produced, -- the MARKS ON ART database also includes so-called forest marks. Those large marks are exclusively found on Baltic wainscot, for example on the backs of panel paintings, sculptures, retables and pieces of furniture. They are probably marks of the owner of the forest or the wood (timber) merchant. Created or added in an early stage of processing the basic raw material, the above mentioned marks provide unique information about the trade and transportation of the wood of which the works of art are made.
+Besides the more commonly encountered marks – signatures, monograms, master's marks, quality control marks and panel maker’s marks which provide unique information about such things as the maker, when and where the object was produced, – the MARKS ON ART database also includes so-called forest marks. Those large marks are exclusively found on Baltic wainscot, for example on the backs of panel paintings, sculptures, retables and pieces of furniture. They are probably marks of the owner of the forest or the wood (timber) merchant. Created or added in an early stage of processing the basic raw material, the above mentioned marks provide unique information about the trade and transportation of the wood of which the works of art are made.
 
-35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks (Rief) and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525 (Roels/Van Vlierden).
+35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
+
 
 ## S5-P-001 {.unnumbered}
 
-**Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres (c. 1200 -- 1400 CE)**
+**Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 -- 1400 CE)**
 
 Kristof Haneca^1^, Koen De Groote^1^
 
-^1^ Flanders Heritage Agency, Brussels, Belgium.
+*^1^ Flanders Heritage Agency, Brussels, Belgium.*
 
 <Kristof.Haneca@vlaanderen.be>
 
