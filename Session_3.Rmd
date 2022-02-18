@@ -134,25 +134,8 @@ These corpuses of mummy labels offer many possibilities. The one concerning thei
 
 The study of these labels is part of a multidisciplinary SNSF project, led by Prof. S. R. Huebner, at the Universities of Basel and Geneva, which aims to characterise the interaction between climatic changes, environmental stress and societal transformations in the Roman Empire during the 3rd century AD. These mummy labels are perfect witnesses, both for reflecting on the modes of manufacture and uses of wood, on the provenance of the selected species, whether local or imported, and on their dendrochronological potential.
 
+
 ## S3-P-002 {.unnumbered}
-
-**Stop the presses; writing the history of Museum Plantin-Moretus printing presses with tree-rings**
-
-Petra Doeve^1^, Patrick Goossens^2^
-
-*^1^ Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, The Netherlands. ^2^  Universiteit Antwerpen, Antwerp, Belgium*
-
-<p.doeve@baac.nl> - <pmhgoossens@gmail.com>
-
-The Printing Revolution in Europe led to an unprecedented increase in the spread of knowledge, ideas and communication. Few examples of the iconic printing presses from the various early printing houses remain. Museum Plantin-Moretus in Antwerp holds an impressive collection of nine printing presses, two of which date back to the 1500's and younger ones dating to the 17th, 18th and/or 19th century.
-
-The collection is a unique testimony of the technological development of the printing press. The former printing house of Christoffel Plantin (1520-1589), his son in law Jan I Moretus (1543 -- 1610) and their successors continued and survived to become a museum in 1877. The 16th century building with its workshop, the presses and the typographical collection became UNESCO World Heritage in 2005.
-
-A full-scale dendrochronological study on seven relief presses and two intaglio presses, combined with a thorough archive and literature research, was conducted to learn more about the age and life-biography of the presses. The results shed new light on the age of the presses in the museum and the history of printing.
-
-<https://www.museumplantinmoretus.be/>
-
-## S3-P-003 {.unnumbered}
 
 **Thinking inside the box. A dendrochronological and archaeobotanical survey on a 14th century chest made in Antwerp**
 
@@ -170,7 +153,7 @@ During the examination, a collection of wooden boxes inside the chest drew the a
 
 The combined dendrochronological, archaeobotanical and historical examination now demonstrates that this medieval chest was a privileged witness of the city\'s turbulent history.
 
-## S3-P-004 {.unnumbered}
+## S3-P-003 {.unnumbered}
 
 **Preventive conservation of Egyptian wooden statues back to late period displayed at Egyptian textile museum**
 
@@ -182,7 +165,7 @@ Rasha Shaheen^1^, Asmaa Eltobgy^2^
 
 The Egyptian Textile Museum in Cairo houses many unique pieces of art, dating back to the Pharaonic times, and are prone to damage from climate change. This paper present preventive conservation of wooden statues to protect them from negative impact of climate change to keep the sustainability of these unique artifacts. It is a Statuette of an old man wearing an elaborate cloak over one shoulder that covers his body from neck to mid-calf (looks like Ka-aper statue). His shaven head resembles representations of Egyptian priests. This heavy type of garment also occurs on a relief dating to this period. Late Period, 30th Dynasty, 380 - 343 BC, Abusir, Giza. The piece suffer from the presence of calcified salts on the surface as a result of the bad displaying of the statue, due to the different coefficient of expansion and contraction between different materials. As well as, the wood from the materials absorb moisture from the surrounding environment, which led to the emergence of salts on the surface. The pieces were documented by the digital microscope. The pieces were cleaned mechanically by blower to remove dust and then use soft brushes. The pieces were placed in the humidification chamber to treat dehydration and salts removal. The pieces were consolidated with Paraloid. The pieces were display in especial a showcase for wooden pieces.
 
-## S3-P-005 {.unnumbered}
+## S3-P-004 {.unnumbered}
 
 **Wooden artefacts from the castellum Velsen I, the Netherlands**
 
@@ -194,7 +177,7 @@ Silke Lange^1^
 
 During the excavations of the Roman fort Velsen in the 70s and 80s of the last century, a large amount of find material came to light. The fort which was located about 20 km northwest of Amsterdam, dates back to the Augustan/Tiberian period. Thanks to the waterlogged conditions, organic material was well preserved. Commissioned by the Cultural Heritage Agency of the Netherlands, the analysis of the wooden finds was carried out only recently and led to some amazing revelations. For example, the find assemblage includes kitchen utensils, writing tablets, tent pegs, footwear and furniture parts, but also a Centurion staff and a fragment of a pan flute were recognized. The study of the wooden objects has provided insight into the use of wood and woodworking, as well as an insight into the distribution of standardised and commissioned utensils throughout the Roman Empire.
 
-## S3-P-006 {.unnumbered}
+## S3-P-005 {.unnumbered}
 
 **Dendro4Art. The repository for dendrochronological research data on early modern paintings and sculpture**
 

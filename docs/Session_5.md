@@ -24,9 +24,9 @@ There are cases where short distance timber transport can be proven contrary to 
 
 **The internal and external relations of Roman well timbers**
 
-Manuel Broich^1^, Barbara Diethelm^1^, Thomas Frank^2^, Thorsten Westphal^1^, Karl Peter Wendt^3^
+Manuel Broich^1^, Barbara Diethelm^1^, Thomas Frank^2^, Georg Roth^3^, Thorsten Westphal^1^, Karl Peter Wendt^4^
 
-*^1^ Laboratory of Dendroarchaeology, Department of Prehistoric Archaeology, University of Cologne, Cologne, Germany. ^2^ Lindlar, Germany. ^3^ Department of Prehistoric Archaeology, University of Cologne, Cologne, Germany.*
+*^1^ Laboratory of Dendroarchaeology, Department of Prehistoric Archaeology, University of Cologne, Cologne, Germany. ^2^ Lindlar, Germany. ^3^ Institute of Prehistoric Archaeology, Freie Universität Berlin, Germany. ^4^ Department of Prehistoric Archaeology, University of Cologne, Cologne, Germany.*
 
 <mbroich8@uni-koeln.de>
 

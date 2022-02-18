@@ -84,6 +84,72 @@ timing & event & presenter & title & session\\
 #> turn the table into a tabu environment where colors are not
 #> really easily configable with this package. Please consider
 #> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
 ```
 
 
@@ -105,9 +171,19 @@ timing & event & presenter & title & session\\
 \hline
 10:15 - 10:30 & [S1-O-004](\#s1-o-004) & Sabrina Bianco & Wood for funerary pyres in Barcino (Barcelona, NE Iberian Peninsula): investigating cremation structures in two necropolis (1st-3rd centuries CE) starting from charcoal analysis & 1. Forest history\\
 \hline
-10:30 - 10:35 &  &  &  & 1. Forest history posters (4)\\
+\cellcolor[HTML]{D6EAF8}{10:30 - 10:35} & \cellcolor[HTML]{D6EAF8}{posters} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{one-minute poster pitches} & \cellcolor[HTML]{D6EAF8}{1. Forest history posters (4)}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S1-P-001](\#s1-p-001)} & \cellcolor[HTML]{F2F2F2}{Pascoal Gota} & \cellcolor[HTML]{F2F2F2}{Our history does not exist in the books: forest patches framing new identities for heritage and environmental conservation} & \cellcolor[HTML]{F2F2F2}{1. Forest history}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S1-P-002](\#s1-p-002)} & \cellcolor[HTML]{F2F2F2}{Andreas Rais} & \cellcolor[HTML]{F2F2F2}{Mechanical wood properties over the past 100 years} & \cellcolor[HTML]{F2F2F2}{1. Forest history}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S1-P-003](\#s1-p-003)} & \cellcolor[HTML]{F2F2F2}{Sveva Longo} & \cellcolor[HTML]{F2F2F2}{Dendrochronological investigation of monumental trees from “Villa Medicea di Castello” in Florence, Italy} & \cellcolor[HTML]{F2F2F2}{1. Forest history}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S1-P-004](\#s1-p-004)} & \cellcolor[HTML]{F2F2F2}{Caroline Vermeeren1} & \cellcolor[HTML]{F2F2F2}{History of woodland management: the Neolithic } & \cellcolor[HTML]{F2F2F2}{1. Forest history}\\
 \hline
 \cellcolor[HTML]{D6EAF8}{10:35 - 11:00} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
+\hline
+11:00 - 11:15 & [S1-O-005](\#s1-o-005) & María Martín-Seijo & Woody resources and their management during Iron Age in northwest Iberia & 1. Forest history\\
 \hline
 11:15 - 11:30 & [S1-O-006](\#s1-o-006) & Oriol López-Bultó & Sorting the trees: new evidences of woodland management at La Draga (Banyoles, Spain) & 1. Forest history\\
 \hline
@@ -135,7 +211,17 @@ timing & event & presenter & title & session\\
 \hline
 14:45 - 15:00 & [S6-O-002](\#s6-o-002) & Fusa Miyake & Solar bursts recorded in tree rings & 6. Novel methods for dating and provenance analysis PRERECORDED\\
 \hline
-15:00 - 15:05 & posters &  & one-minute poster pitches & 2. Shipwrecks and archaeological structures posters (5)\\
+\cellcolor[HTML]{D6EAF8}{15:00 - 15:05} & \cellcolor[HTML]{D6EAF8}{posters} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{one-minute poster pitches} & \cellcolor[HTML]{D6EAF8}{2. Shipwrecks and archaeological structures posters (5)}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S2-P-001](\#s2-p-001)} & \cellcolor[HTML]{F2F2F2}{Abdelmoniem M. Abdelmoniem} & \cellcolor[HTML]{F2F2F2}{Conservation processes of a painted wooden coffin at Saqqara area} & \cellcolor[HTML]{F2F2F2}{2. Shipwrecks and archaeological structures}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S2-P-002](\#s2-p-002)} & \cellcolor[HTML]{F2F2F2}{Angela Balzano} & \cellcolor[HTML]{F2F2F2}{Microscopy techniques for the examination of waterlogged archaeological wood} & \cellcolor[HTML]{F2F2F2}{2. Shipwrecks and archaeological structures}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S2-P-003](\#s2-p-003)} & \cellcolor[HTML]{F2F2F2}{Daniel Peter Dalicsek} & \cellcolor[HTML]{F2F2F2}{Practices of shipwreck timber sampling for dendrochronology} & \cellcolor[HTML]{F2F2F2}{2. Shipwrecks and archaeological structures}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S2-P-004](\#s2-p-004)} & \cellcolor[HTML]{F2F2F2}{Anton Hansson} & \cellcolor[HTML]{F2F2F2}{The Gribshunden Barrels} & \cellcolor[HTML]{F2F2F2}{2. Shipwrecks and archaeological structures}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S2-P-005](\#s2-p-005)} & \cellcolor[HTML]{F2F2F2}{Ronald M. Visser} & \cellcolor[HTML]{F2F2F2}{Connecting ships: using dendrochronological network analysis to determine provenance and ship building practices of Roman-period river barges found in the Lower Rhine region} & \cellcolor[HTML]{F2F2F2}{2. Shipwrecks and archaeological structures}\\
 \hline
 \cellcolor[HTML]{D6EAF8}{15:05 - 15:30} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
 \hline
@@ -158,6 +244,42 @@ timing & event & presenter & title & session\\
 
 
 ```
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
 #> Warning in latex_new_row_builder(target_row, table_info,
 #> bold, italic, monospace, : Setting full_width = TRUE will
 #> turn the table into a tabu environment where colors are not
@@ -218,7 +340,17 @@ timing & event & presenter & title & session\\
 \hline
 10:15 - 10:30 & [S3-O-007](\#s3-o-007) & Paul van Duin & Dating Northern-Netherlands cabinets from the late 17th century & 3. Furniture and works of art\\
 \hline
-10:30 - 10:45 & posters &  & one-minute poster pitches & 3. Furniture and works of art posters (6)\\
+\cellcolor[HTML]{D6EAF8}{10:30 - 10:35} & \cellcolor[HTML]{D6EAF8}{posters} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{one-minute poster pitches} & \cellcolor[HTML]{D6EAF8}{3. Furniture and works of art posters (6)}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S3-P-001](\#s3-p-001)} & \cellcolor[HTML]{F2F2F2}{François Blondel} & \cellcolor[HTML]{F2F2F2}{Mummy labels: a witness to the use and processing of wood in Roman Egypt} & \cellcolor[HTML]{F2F2F2}{3. Furniture and works of art}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S3-P-002](\#s3-p-002)} & \cellcolor[HTML]{F2F2F2}{Kristof Haneca} & \cellcolor[HTML]{F2F2F2}{Thinking inside the box. A dendrochronological and archaeobotanical survey on a 14th century chest made in Antwerp} & \cellcolor[HTML]{F2F2F2}{3. Furniture and works of art}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S3-P-003](\#s3-p-003)} & \cellcolor[HTML]{F2F2F2}{Rasha Shaheen} & \cellcolor[HTML]{F2F2F2}{Preventive Conservation of Egyptian Wooden Statues back to Late Period Displayed at Egyptian Textile Museum} & \cellcolor[HTML]{F2F2F2}{3. Furniture and works of art}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S3-P-004](\#s3-p-004)} & \cellcolor[HTML]{F2F2F2}{Silke Lange} & \cellcolor[HTML]{F2F2F2}{Wooden artefacts from the castellum Velsen I, the Netherlands} & \cellcolor[HTML]{F2F2F2}{3. Furniture and works of art}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S3-P-005](\#s3-p-005)} & \cellcolor[HTML]{F2F2F2}{Sytske Weidema} & \cellcolor[HTML]{F2F2F2}{Dendro4Art. The repository for dendrochronological research data on early modern paintings and sculpture} & \cellcolor[HTML]{F2F2F2}{3. Furniture and works of art}\\
 \hline
 \cellcolor[HTML]{D6EAF8}{10:35 - 11:00} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
 \hline
@@ -226,7 +358,7 @@ timing & event & presenter & title & session\\
 \hline
 11:00 - 11:15 & [S3-O-008](\#s3-o-008) & Jørgen Wadum & Unravelling a North Netherlandish 17th-century panel maker & 3. Furniture and works of art\\
 \hline
-11:15 - 11:30 & [S4-O-003](\#s4-o-003) & Paulo Charruadas/ Armelle Weitz & Lonely Brussels. Destination: the old built heritage and its woods & 4. Built heritage\\
+11:15 - 11:30 & [S4-O-003](\#s4-o-003) & Philippe Sosnowska & Lonely Brussels. Destination: the old built heritage and its woods & 4. Built heritage\\
 \hline
 11:30 - 11:45 & [S4-O-004](\#s4-o-004) & Gavin Simpson & Building Westminster Hall; modelling the roof structure & 4. Built heritage\\
 \hline
@@ -314,6 +446,84 @@ timing & event & presenter & title & session\\
 #> turn the table into a tabu environment where colors are not
 #> really easily configable with this package. Please consider
 #> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
+
+#> Warning in latex_new_row_builder(target_row, table_info,
+#> bold, italic, monospace, : Setting full_width = TRUE will
+#> turn the table into a tabu environment where colors are not
+#> really easily configable with this package. Please consider
+#> turn off full_width.
 ```
 
 
@@ -339,9 +549,21 @@ timing & event & presenter & title & session\\
 \hline
 10:15 - 10:30 & [S6-O-003](\#s6-o-003) & Roberta D’Andrea & Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees & 6. Novel methods for dating and provenance analysis\\
 \hline
-10:30 - 10:35 & posters &  & one-minute poster pitches & 4. Built heritage  posters (6)\\
+\cellcolor[HTML]{D6EAF8}{10:30 - 10:36} & \cellcolor[HTML]{D6EAF8}{posters} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{one-minute poster pitches} & \cellcolor[HTML]{D6EAF8}{4. Built heritage  posters (6)}\\
 \hline
-\cellcolor[HTML]{D6EAF8}{10:35 - 11:00} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-001](\#s4-p-001)} & \cellcolor[HTML]{F2F2F2}{Adomas Vitas} & \cellcolor[HTML]{F2F2F2}{Oak dating in Lithuania} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-002](\#s4-p-002)} & \cellcolor[HTML]{F2F2F2}{Vincent Debonne} & \cellcolor[HTML]{F2F2F2}{The oldest known roof construction in Ghent (Belgium) sheds new light on medieval building history} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-003](\#s4-p-003)} & \cellcolor[HTML]{F2F2F2}{Tomáš Kolár} & \cellcolor[HTML]{F2F2F2}{Utilization of wood species in timber constructions across the Czech lands from the 15th to the 19th century} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-004](\#s4-p-004)} & \cellcolor[HTML]{F2F2F2}{Linda Lindblad} & \cellcolor[HTML]{F2F2F2}{The use of dendrochronology to understand aspects of sustainability in traditional wooden houses} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-005](\#s4-p-005)} & \cellcolor[HTML]{F2F2F2}{Maks Merela} & \cellcolor[HTML]{F2F2F2}{Methodological approach of wood anatomy and dendrochronology in cultural heritage} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S4-P-006](\#s4-p-006)} & \cellcolor[HTML]{F2F2F2}{Irena Sochová} & \cellcolor[HTML]{F2F2F2}{Dendrochronological dating of historical sacral constructions in Transcarpathian Ukraine} & \cellcolor[HTML]{F2F2F2}{4. Built heritage}\\
+\hline
+\cellcolor[HTML]{D6EAF8}{10:36 - 11:00} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
 \hline
 \cellcolor[HTML]{D6EAF8}{11:00 - 12:30} & \cellcolor[HTML]{D6EAF8}{session 6} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
 \hline
@@ -373,7 +595,17 @@ timing & event & presenter & title & session\\
 \hline
 14:45 - 15:00 & [S7-O-004](\#s7-o-004) & Rutile Pukiene & Non-invasive dendrochronology of large wooden objects: complex use of 3D X-ray µCT and microscopic imaging helps to date the Saint Louis sculpture & 7. Non-invasive techniques for the study of wooden cultural heritage\\
 \hline
-15:00 - 15:05 & posters &  & one-minute poster pitches & timber trade and non-invasive posters (2+4)\\
+\cellcolor[HTML]{D6EAF8}{15:00 - 15:05} & \cellcolor[HTML]{D6EAF8}{posters} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{one-minute poster pitches} & \cellcolor[HTML]{D6EAF8}{timber trade and non-invasive posters (1+4)}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S5-P-001](\#s5-p-001)} & \cellcolor[HTML]{F2F2F2}{Kristof Haneca} & \cellcolor[HTML]{F2F2F2}{Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 – 1400 CE)} & \cellcolor[HTML]{F2F2F2}{5. Evidence of timber trade and transport}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S7-P-001](\#s7-p-001)} & \cellcolor[HTML]{F2F2F2}{Petra Doeve} & \cellcolor[HTML]{F2F2F2}{The use of CT-scan in a dendrochronological study of a dug-out chest} & \cellcolor[HTML]{F2F2F2}{7. Non-invasive techniques for the study of wooden cultural heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S7-P-002](\#s7-p-002)} & \cellcolor[HTML]{F2F2F2}{Stephan Nicolaij} & \cellcolor[HTML]{F2F2F2}{Out of the woods phase II} & \cellcolor[HTML]{F2F2F2}{7. Non-invasive techniques for the study of wooden cultural heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S7-P-003](\#s7-p-003)} & \cellcolor[HTML]{F2F2F2}{Sjoerd van Daalen} & \cellcolor[HTML]{F2F2F2}{Measuring curved surfaces using photogrammetry} & \cellcolor[HTML]{F2F2F2}{7. Non-invasive techniques for the study of wooden cultural heritage}\\
+\hline
+\cellcolor[HTML]{F2F2F2}{} & \cellcolor[HTML]{F2F2F2}{[S7-P-004](\#s7-p-004)} & \cellcolor[HTML]{F2F2F2}{Elisabeth Wächter} & \cellcolor[HTML]{F2F2F2}{X-ray-CT as possibility to date archived samples from Hallstatt, Austria} & \cellcolor[HTML]{F2F2F2}{7. Non-invasive techniques for the study of wooden cultural heritage}\\
 \hline
 \cellcolor[HTML]{D6EAF8}{15:05 - 15:30} & \cellcolor[HTML]{D6EAF8}{coffee} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{} & \cellcolor[HTML]{D6EAF8}{}\\
 \hline
