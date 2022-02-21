@@ -488,17 +488,17 @@
    <td style="text-align:left;"> 4. Built heritage </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 12:00 - 12:15 </td>
+   <td style="text-align:left;width: 100px; "> 12:15 - 12:30 </td>
    <td style="text-align:left;width: 100px; "> [S4-O-006](#s4-o-006) </td>
-   <td style="text-align:left;"> Edwin Orsel </td>
-   <td style="text-align:left;"> The use and results of dendrochronological research in building history research in Leiden (the Netherlands) </td>
+   <td style="text-align:left;"> Liisa Seppänen </td>
+   <td style="text-align:left;"> Unveiling the innovation behind the roof constructions of the Medieval Churches in Finland </td>
    <td style="text-align:left;"> 4. Built heritage </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 12:15 - 12:30 </td>
+   <td style="text-align:left;width: 100px; "> 12:00 - 12:15 </td>
    <td style="text-align:left;width: 100px; "> [S4-O-007](#s4-o-007) </td>
-   <td style="text-align:left;"> Liisa Seppänen </td>
-   <td style="text-align:left;"> Unveiling the innovation behind the roof constructions of the Medieval Churches in Finland </td>
+   <td style="text-align:left;"> Gabri van Tussenbroek </td>
+   <td style="text-align:left;"> Dendrochronological research in Amsterdam monuments. Timber trade, construction and methodological implications </td>
    <td style="text-align:left;"> 4. Built heritage </td>
   </tr>
   <tr>
@@ -517,44 +517,44 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 13:30 - 13:45 </td>
-   <td style="text-align:left;width: 100px; "> [S4-O-008](#s4-o-008) </td>
-   <td style="text-align:left;"> Gabri van Tussenbroek </td>
-   <td style="text-align:left;"> Dendrochronological research in Amsterdam monuments. Timber trade, construction and methodological implications </td>
-   <td style="text-align:left;"> 4. Built heritage </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; "> 13:45 - 14:00 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-002](#s5-o-002) </td>
    <td style="text-align:left;"> Manuel Broich </td>
    <td style="text-align:left;"> The internal and external relations of Roman well timbers </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 14:00 - 14:15 </td>
+   <td style="text-align:left;width: 100px; "> 13:45 - 14:00 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-003](#s5-o-003) </td>
    <td style="text-align:left;"> Anh Linh François </td>
    <td style="text-align:left;"> Timber rafting on upper Garonne river: from Pyrenean Mountain forests to heritage </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 14:15 - 14:30 </td>
+   <td style="text-align:left;width: 100px; "> 14:00 - 14:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-004](#s5-o-004) </td>
    <td style="text-align:left;"> Aoife Daly </td>
    <td style="text-align:left;"> Past timber resources in northern Europe: a holistic approach? </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 14:30 - 14:45 </td>
+   <td style="text-align:left;width: 100px; "> 14:15 - 14:30 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-005](#s5-o-005) </td>
    <td style="text-align:left;"> Paul Borghaerts </td>
    <td style="text-align:left;"> Provenance and periods of timber trade from ‘the north’ to the northern Netherlands, 1600-1900 </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 14:45 - 15:00 </td>
+   <td style="text-align:left;width: 100px; "> 14:30 - 14:45 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-006](#s5-o-006) </td>
    <td style="text-align:left;"> Coralie Mills </td>
    <td style="text-align:left;"> Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project </td>
+   <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; "> 14:45 - 15:00 </td>
+   <td style="text-align:left;width: 100px; "> [S5-O-007](#s5-o-007) </td>
+   <td style="text-align:left;"> Dawn Elise Mooney </td>
+   <td style="text-align:left;"> Timber as a marine resource: the role of Arctic driftwood in the Medieval North Atlantic </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
@@ -590,59 +590,59 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 8:30 - 8:45 </td>
-   <td style="text-align:left;width: 100px; "> [S5-O-007](#s5-o-007) </td>
-   <td style="text-align:left;"> Dawn Elise Mooney </td>
-   <td style="text-align:left;"> Timber as a marine resource: the role of Arctic driftwood in the Medieval North Atlantic </td>
-   <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; "> 8:45 - 9:00 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-008](#s5-o-008) </td>
    <td style="text-align:left;"> Petra Doeve </td>
    <td style="text-align:left;"> Wood exploitation and timber trade on the north-western frontier of the Roman Empire </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 9:00 - 9:15 </td>
+   <td style="text-align:left;width: 100px; "> 8:45 - 9:00 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-009](#s5-o-009) </td>
    <td style="text-align:left;"> Damian M Goodburn </td>
    <td style="text-align:left;"> Early evidence for timber trade marks on a large Roman quay found in the SE of the City of London </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 9:15 - 9:30 </td>
+   <td style="text-align:left;width: 100px; "> 9:00 - 9:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-010](#s5-o-010) </td>
    <td style="text-align:left;"> Lísabet Guðmundsdóttir </td>
    <td style="text-align:left;"> Timber imports to Norse Greenland. Lifeline or luxury? </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 9:30 - 9:45 </td>
+   <td style="text-align:left;width: 100px; "> 9:15 - 9:30 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-011](#s5-o-011) </td>
    <td style="text-align:left;"> Jeroen Oosterbaan </td>
    <td style="text-align:left;"> The production of barrels and casks in the Netherlands in Late Middle Ages and Early Modern period </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 9:45 - 10:00 </td>
+   <td style="text-align:left;width: 100px; "> 9:30 - 9:45 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-012](#s5-o-012) </td>
    <td style="text-align:left;"> Vincent Labbas </td>
    <td style="text-align:left;"> From research on timber supply in rural areas to regional watersheds </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 10:00 - 10:15 </td>
+   <td style="text-align:left;width: 100px; "> 9:45 - 10:00 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-013](#s5-o-013) </td>
    <td style="text-align:left;"> Marieke van Vlierden </td>
    <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
    <td style="text-align:left;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 10:15 - 10:30 </td>
+   <td style="text-align:left;width: 100px; "> 10:00 - 10:15 </td>
    <td style="text-align:left;width: 100px; "> [S6-O-003](#s6-o-003) </td>
    <td style="text-align:left;"> Roberta D’Andrea </td>
    <td style="text-align:left;"> Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees </td>
    <td style="text-align:left;"> 6. Novel methods for dating and provenance analysis </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; "> 10:15 - 10:30 </td>
+   <td style="text-align:left;width: 100px; "> [S4-O-008](#s4-o-008) </td>
+   <td style="text-align:left;"> Edwin Orsel </td>
+   <td style="text-align:left;"> The use and results of dendrochronological research in building history research in Leiden (the Netherlands) </td>
+   <td style="text-align:left;"> 4. Built heritage </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 10:30 - 10:36 </td>

@@ -77,15 +77,16 @@ Reassessment of Scheurrak SO1's construction details within the frame of the int
 
 **From a forest to a ship and into a wreck, and back again?**
 
-Minna Koivikko^1^, Tuomas Aakala^2^, Katariina Vuori^3^
+Minna Koivikko^1^, Tuomas Aakala^2^, Katariina Vuori^3^, Pekka Niemelä^4^
 
-^*1*^ *Finnish Heritage Agency, Finland. ^2^ Jyväskylä, Finland. ^3^ Oulu, Finland.*
+^*1*^ *Finnish Heritage Agency, Finland. ^2^ University of Eastern Finland, School of Forest Sciences, Joensuu, Finland. ^3^ University of Oulu, Faculty of Humanities, Oulu, Finland. ^4^ University of Turku, Biodiversity Unit, Turku, Finland.Jyväskylä, Finland.*
 
 [minna.koivikko\@museovirasto.fi](mailto:minna.koivikko@museovirasto.fi){.email}
 
-The aim of the project is to develop interpretation of so-called skeleton wrecks, i.e., wooden wrecks, which only have preserved partly, and no informative objects have been discovered. We are studing the relationship between a man and a forest through interpretation of wooden vessels.
+The aim of the project is to develop interpretation of so-called skeleton wrecks, i.e., wooden wrecks, which only have preserved partly, and no informative objects have been discovered. We are studying the relationship between a man and a forest through interpretation of wooden vessels.
 
-The Lost Navy, Sweden's "Blue" Heritage c. 1450--1850 research programme aims to collect information about the ships in the fleet. It is a joint marine archaeology and - history project in the Baltic Sea region for 2021--2026. In Finland, the research sub-project focuses on wooden wrecks of the Swedish era fleet. The project has a multidisciplinary approach, combining archaeology with shipbuilding, dendrochronology, and forest studies.
+This is part of a research programme *The Lost Navy, Sweden’s ”Blue” Heritage c. 1450–1850*, which aims to collect information about the ships in the fleet. It is a joint marine archaeology and - history project in the Baltic Sea region for 2021–2026. In Finland, the research sub-project focuses on wooden wrecks of the Swedish era. The project has a multidisciplinary approach, combining archaeology with shipbuilding, dendrochronology, and forest studies.
+
 
 
 ## S2-O-007 {.unnumbered}
@@ -130,7 +131,10 @@ Yardeni Vorst^1^
 
 [yvorst\@gmail.com](mailto:yvorst@gmail.com){.email}
 
-In 2003, a river barge dating to the Roman period was found in a former riverbed of the Rhine in the western part of the Netherlands. The ship, named 'Woerden 7', formed a new discovery in a long series of Roman-period ship finds in Lower Rhine region since the late 1960's. In particular, large flat-bottomed river barges had been found. Many of these vessels were excavated and some were conserved, such as the The Zwammerdam ships, found in the village of Zwammerdam in the 1970's. For a research project these ships have been re-examined using more modern techniques. A comparison between ship Zwammerdam 6 and the earlier mentioned Woerden 7 vessel shows that the ships resemble each other closely in construction. Apart from a study of the ship constructions a dendroarchaeological study of the timbers has been undertaken. Dendrochronology has been used to date the ships and to determine which timbers were obtained from the same trees. This has helped to trace original building sequences and allowed for new ideas on the shipbuilding processes. Identifying the source area of trees used in this Roman-period shipbuilding, i.e. the provenance of the timbers will be presented in an other paper together with Ronald Visser. The Zwammerdam vessels are currently being reconstructed at an archaeological park (Archeon) in the South of Holland and the research information gathered will contribute to stories on their historical background.
+In 2003, a river barge dating to the Roman period was found in a former riverbed of the Rhine in the western part of the Netherlands. The ship, named ‘Woerden 7’, formed a new discovery in a long series of Roman-period ship finds in Lower Rhine region since the late 1960’s. In particular, large flat-bottomed river barges had been found. Many of these vessels were excavated and some were conserved, such as the The Zwammerdam ships, found in the village of Zwammerdam in the 1970’s.
+
+For an ongoing research project the Zwammerdam ships have been re-examined using more modern techniques. A comparison between ship Zwammerdam no. 6 and the earlier mentioned Woerden 7 vessel shows that the ships resemble each other closely in construction. Apart from a study of the ships’ constructions a dendroarchaeological study of the timbers has been undertaken. Dendrochronology has been used to date the ships and to determine which timbers were obtained from the same trees. This has helped to trace original building sequences and has allowed for new ideas on the shipbuilding processes. Identifying the source area of trees used in this Roman-period shipbuilding will be a subject presented in a poster together with Ronald Visser. The Zwammerdam vessels are currently being reconstructed at an archaeological park (Archeon) in the South of Holland and the research information gathered will contribute to stories on their historical background.
+
 
 ## S2-P-001 {.unnumbered}
 

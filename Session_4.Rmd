@@ -76,21 +76,8 @@ Karl-Magnus Melin^1^, Petter Jansson^2^, Johannes Edvardsson^3^, Anton Hansson^3
 
 Tie beams from about 25 churches in the Diocese of Lund (part of Denmark until 1658) have been dated and examined with craft research methods. In total 16 of these churches the tie beams have also been analysed dendrochronologically. The oldest are from 1060s and the youngest from the 1250s. Common features are sharp edges, rectangular cross sections and generally convex shaped beams (thickest in the middle and thinner at the ends). In this paper these attributes will be discussed and compared with tie beams from Sweden, France, Belgium and England. Were similar wood quality used in the or are there regional and or differences over time? The convex shape will be discussed, why was it a common way to make tie beams and why did it suddenly not be important? Convex shaped tie beams are dated to the period 1060-12 th century. The oldest dated example of parallell-sided tie beams is from 1185 in Norra Åsum chancel. Why did the tradition of convexshaped tie beams end? Was it a change of building fashion /construction or was material quality a reason? A sampling protocol made by craft researchers and dendrochronologists used for this investigation will also be described. In some of the churches radicarbon dating of the mortar were performed close to the dendro-sampled tie beams. The different dating methods will be discussed. The transdisciplinary research methods have been vital for this investigation.
 
+
 ## S4-O-006 {.unnumbered}
-
-**The use and results of dendrochronological research in building history research in Leiden (the Netherlands)**
-
-Edwin Orsel^1^
-
-*^1^ Erfgoed Leiden en Omstreken, Leiden, the Netherlands.*
-
-<e.orsel@erfgoedleiden.nl>
-
-The wood used in built heritage is an unprecedented physical source for research into the history of building. Since 2001, dendrochronological research has been applied in structural building-historical research in Leiden (NL). The research area concerns a local context of one historic city centre with buildings from approximately 1200 to the present. Initially, the dendrochronological research was carried out by external parties, but since 2014 the building historians of Erfgoed Leiden have been taking the samples themselves. The independent sampling during building-historical fieldwork is very practical and efficient. Until 2021, more than 150 objects have been dendrochronologically examined. Sampling limitations sometimes pose problems in dendrochronological analysis, especially in the older coarser wood, and therefore a study was conducted using a combination of dendrochronology and C14, with positive results.
-
-The results of dendrochronological research in Leiden provide insight into the dating of the buildings, the origin of the construction timber, transport and trade and other aspects. The dates range from the beginning of the 14th century to the end of the 18th century. It has become clear that first oak wood imported from Germany was used, but that later the oak came from further away. Around 1600 the transition from oak to pine is unmistakable, supplied from areas around the Baltic Sea. Exact dates also provide insight into which season was felled and also in the period between logging and fabrication. In this way, dendrochronological research contributes substantially to the knowledge about our past.
-
-## S4-O-007 {.unnumbered}
 
 **Unveiling the innovation behind the roof constructions of the Medieval Churches in Finland**
 
@@ -110,7 +97,7 @@ Our paper presents new evidence and research of these roof trusses in the North-
 
 The research has been performed in an on-going project "Structural innovations in late Middle Ages in northern Europe".
 
-## S4-O-008 {.unnumbered}
+## S4-O-007 {.unnumbered}
 
 **Dendrochronological research in Amsterdam monuments. Timber trade, construction and methodological implications**
 
@@ -129,6 +116,20 @@ In my contribution, after a brief general overview of the collected data set, I 
 2\. The availability of wood on the local market and the turnover rate of wood between the time of felling and the time of construction. The re-use of wood will also be considered here: this was more common at a time of shortage, linked to the major building campaigns that accompanied the urban expansions of the seventeenth century.
 
 3\. The methodological implications of this research. The question to be addressed is the extent to which dendrochronological research provides new knowledge about the building history of the entire city. The significance and quality of this material source will be compared to written sources, showing that dendrochronological research can lead to new interpretations of archival material.
+
+## S4-O-008 {.unnumbered}
+
+**The use and results of dendrochronological research in building history research in Leiden (the Netherlands)**
+
+Edwin Orsel^1^
+
+*^1^ Erfgoed Leiden en Omstreken, Leiden, the Netherlands.*
+
+<e.orsel@erfgoedleiden.nl>
+
+The wood used in built heritage is an unprecedented physical source for research into the history of building. Since 2001, dendrochronological research has been applied in structural building-historical research in Leiden (NL). The research area concerns a local context of one historic city centre with buildings from approximately 1200 to the present. Initially, the dendrochronological research was carried out by external parties, but since 2014 the building historians of Erfgoed Leiden have been taking the samples themselves. The independent sampling during building-historical fieldwork is very practical and efficient. Until 2021, more than 150 objects have been dendrochronologically examined. Sampling limitations sometimes pose problems in dendrochronological analysis, especially in the older coarser wood, and therefore a study was conducted using a combination of dendrochronology and C14, with positive results.
+
+The results of dendrochronological research in Leiden provide insight into the dating of the buildings, the origin of the construction timber, transport and trade and other aspects. The dates range from the beginning of the 14th century to the end of the 18th century. It has become clear that first oak wood imported from Germany was used, but that later the oak came from further away. Around 1600 the transition from oak to pine is unmistakable, supplied from areas around the Baltic Sea. Exact dates also provide insight into which season was felled and also in the period between logging and fabrication. In this way, dendrochronological research contributes substantially to the knowledge about our past.
 
 ## S4-P-001 {.unnumbered}
 

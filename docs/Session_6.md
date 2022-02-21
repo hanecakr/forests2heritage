@@ -82,9 +82,9 @@ Bridge, M. 2020. *Vernacular Architecture* 51 (1) DOI: <https://doi.org/10.1080/
 
 **Oxygen Isotopes assist dating buildings in Sussex (UK)**
 
-Martin Bridge^1,\ 2^
+Martin Bridge^1,\ 2^, Neil Loader^3^
 
-*^1^ UCL Institute of Archaeology, London, United Kingdom. ^2^ Oxford Dendrochronology Laboratory, Mapledurham, Oxfordshire, United Kingdom.*
+*^1^ UCL Institute of Archaeology, London, United Kingdom. ^2^ Oxford Dendrochronology Laboratory, Mapledurham, Oxfordshire, United Kingdom. ^3^ Geography Department, University of Swansea, Swansea, United Kingdom.*
 
 <martin.bridge@ucl.ac.uk>
 
