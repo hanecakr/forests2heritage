@@ -93,8 +93,8 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1, 10, 15:16, 23:24, 31, 38:39, 42, 45), background = "#D6EAF8") %>% 
-  row_spec(row = c(11:14, 32:37), background = "#F2F2F2") %>% 
+  row_spec(row = c(1, 10, 15:16, 23:24, 31, 37:38, 41, 44), background = "#D6EAF8") %>% 
+  row_spec(row = c(11:14, 32:36), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
 
 ```

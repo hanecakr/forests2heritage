@@ -668,30 +668,30 @@
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-001](#s4-p-001) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Pascoal Gota </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Our history does not exist in the books: forest patches framing new identities for heritage and environmental conservation </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-002](#s4-p-002) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Andreas Rais </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Mechanical wood properties over the past 100 years </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-003](#s4-p-003) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-002](#s4-p-002) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Sveva Longo </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendrochronological investigation of monumental trees from “Villa Medicea di Castello” in Florence, Italy </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-004](#s4-p-004) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-003](#s4-p-003) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Caroline Vermeeren </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> History of woodland management: the Neolithic  </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S5-P-001](#s5-p-001) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Kristof Haneca </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 – 1400 CE) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 10:36 - 11:00 </td>
@@ -811,13 +811,6 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S5-P-001](#s5-p-001) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Kristof Haneca </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 – 1400 CE) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> 5. Evidence of timber trade and transport </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>

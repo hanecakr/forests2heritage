@@ -109,19 +109,6 @@ According to the texts, since at least the 15th century, local wood has been exp
 
 ## S4-P-001 {.unnumbered}
 
-**Our history does not exist in the books: forest patches framing new identities for heritage and environmental conservation**
-
-Pascoal Gota^1^, Anneli Ekblom^1^
-
-^*1*^ *Department of Archaeology and Ancient History, Faculty of Arts, Uppsala University, Uppsala, Sweden.*
-
-[pascoal.gota\@arkeologi.uu.se](mailto:pascoal.gota@arkeologi.uu.se){.email}
-
-With the huge increase of illegal logging activities globally, forests that are not in the borders of officially designated conservation areas are currently at risk of being classified, simplified and reduced to spaces for logging. In the best case scenario, these forests can be spared either through conservation protection (which tends to exclude local communities) or through a re-categorisation as sources for ecosystem services of benefit for several stakeholders. Forest patches play a fundamental role in ensuring the existence of several ecosystem services. In this paper we bring into discussion the results of field work carried in two of the several forest patches located in southern Mozambique. Methodologically, we approach forest patches as cultural landscapes and heritage sites. Our aim is to formulate an approach of biodiversity conservation that goes beyond officially protected areas, such as parks and reserves in collaboration with local communities through the notion of protected cultural landscapes and bicultural heritage. In doing so, we documented the histories of these forest patches as embedded in social memories and physical remains (pollen, charcoal and archaeological finds) to narrate the role of forest mosaics in shaping the identity of current communities. With our findings, we illustrate that the local conservation of these forests is effective, resting on tangible and intangible protection of heritage a practice fundamental for the identity of custodian communities. We conclude by providing some insights for the study and understanding of transdisciplinarity and conservation as these protected forests are potential bridges to dialogue and community-based heritage-conservation initiatives through collaborative approaches to achieve several of the sustainable development goals.
-
-
-## S4-P-002 {.unnumbered}
-
 **Mechanical wood properties over the past 100 years**
 
 Andreas Rais^1^, Andriy Kovryga^1^, Jan-Willem G. van de Kuilen^1,\ 2^
@@ -137,7 +124,7 @@ The focus of this study is on Norway spruce (Picea abies), which is relevant for
 The presentation highlights the methods, but also gives first insights into whether mechanical wood properties may have changed in the last century. Changes in wood quality due to climate and management concepts are important for the entire wood processing chain forest-sawmill-final product. As the log and wood quality determine the product performance, any changes have a direct impact on the production chain and the added value during each production step. Sawmills notice a change in timber quality due to changed yields in the various assortments that they produce affecting revenue.
 
 
-## S4-P-003 {.unnumbered}
+## S4-P-002 {.unnumbered}
 
 **Dendrochronological investigation of monumental trees from "Villa Medicea di Castello" in Florence, Italy**
 
@@ -150,7 +137,7 @@ Sveva Longo^1^, Cristiano Riminesi^1^, Rachele Manganelli del Fà^1^, Silvia Fin
 The garden of the Villa Medicea of Castello was designed by Niccolò Tribolo in 1538 on commission of Cosimo I de' Medici, Gran Duke of Florence, and represents one of the prototypes of the XVI century Italian garden. A cycle of 'lunettes' painted by the Flemish artist Iustus van Utens between 1599 and 1603 illustrate fourteen villas belonging to the Medici Family, including this one. In this study, we performed dendrochronological analysis on two pubescent oaks, Quercus pubescens Willd, from the "Piano del selvatico", to verify whether they might be dated back to the garden origin. This analysis would provide important information on the vegetation history of the garden, and fill lack of records about its past management. Two trees, ranging in size from 100 to 150 cm diameter at breast height, were sampled. Two cores for each plant were collected in summer 2021 using an increment borer (Haglöfs, Sweden) of 5 mm. Results revealed that both trees show evident signs of senescence, with rotting of the wood in the central part and have undergone several pest attacks during their existence. It was not possible to reach the center of the trunk due to the presence of rotten wood, therefore the missing rings were estimated by allometric equation to define the age of the two oaks. The age was determined about 500 years old. The estimated age of two pubescent oaks allows us to affirm that they were already present when the 'lunettes' were painted.
 
 
-## S4-P-004 {.unnumbered}
+## S4-P-003 {.unnumbered}
 
 **History of woodland management: the Neolithic**
 
