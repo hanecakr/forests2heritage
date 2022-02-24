@@ -11,11 +11,11 @@
 <table class=" lightable-paper lightable-hover" style='font-family: "Arial Narrow", arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
  <thead>
   <tr>
-   <th style="text-align:left;"> timing </th>
-   <th style="text-align:left;"> event </th>
-   <th style="text-align:left;"> presenter </th>
-   <th style="text-align:left;"> title </th>
-   <th style="text-align:left;"> session </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> timing </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> event </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> presenter </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> title </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> session </th>
   </tr>
  </thead>
 <tbody>
@@ -35,11 +35,11 @@
 <table class=" lightable-paper lightable-hover" style='font-family: "Arial Narrow", arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
  <thead>
   <tr>
-   <th style="text-align:left;"> timing </th>
-   <th style="text-align:left;"> event </th>
-   <th style="text-align:left;"> presenter </th>
-   <th style="text-align:left;"> title </th>
-   <th style="text-align:left;"> session </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> timing </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> event </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> presenter </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> title </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> session </th>
   </tr>
  </thead>
 <tbody>
@@ -58,10 +58,10 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 9:30 - 12:30 </td>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 1 &amp; 2 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 1 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> posters </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> 1. Built heritage  posters </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
@@ -146,6 +146,13 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> coffee </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 1 &amp; 2 </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -198,7 +205,7 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 13:30 - 15:05 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> mixed session </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> pre-recorded talks </td>
@@ -251,7 +258,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> posters </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> 2. Shipwrecks and archaeological structures posters </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
@@ -296,7 +303,7 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 15:30 - 16:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 2 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
@@ -339,19 +346,19 @@
 <table class=" lightable-paper lightable-hover" style='font-family: "Arial Narrow", arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
  <thead>
   <tr>
-   <th style="text-align:left;"> timing </th>
-   <th style="text-align:left;"> event </th>
-   <th style="text-align:left;"> presenter </th>
-   <th style="text-align:left;"> title </th>
-   <th style="text-align:left;"> session </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> timing </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> event </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> presenter </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> title </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> session </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 8:30 - 12:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 3 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -415,7 +422,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> posters </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> 3. Furniture and works of art posters </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
@@ -460,10 +467,10 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 11:00 - 12:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 4 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -516,10 +523,10 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 13:30 - 15:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 4 &amp; 5 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -580,19 +587,19 @@
 <table class=" lightable-paper lightable-hover" style='font-family: "Arial Narrow", arial, helvetica, sans-serif; margin-left: auto; margin-right: auto;'>
  <thead>
   <tr>
-   <th style="text-align:left;"> timing </th>
-   <th style="text-align:left;"> event </th>
-   <th style="text-align:left;"> presenter </th>
-   <th style="text-align:left;"> title </th>
-   <th style="text-align:left;"> session </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> timing </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> event </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> presenter </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> title </th>
+   <th style="text-align:left;color: rgba(255, 255, 255, 0) !important;"> session </th>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 8:30 - 12:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 5 &amp; 6 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -656,33 +663,33 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> posters </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> 4. Forest history posters </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S1-P-001](#s1-p-001) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-001](#s4-p-001) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Pascoal Gota </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Our history does not exist in the books: forest patches framing new identities for heritage and environmental conservation </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S1-P-002](#s1-p-002) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-002](#s4-p-002) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Andreas Rais </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Mechanical wood properties over the past 100 years </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S1-P-003](#s1-p-003) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-003](#s4-p-003) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Sveva Longo </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendrochronological investigation of monumental trees from “Villa Medicea di Castello” in Florence, Italy </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S1-P-004](#s1-p-004) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Caroline Vermeeren1 </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-004](#s4-p-004) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Caroline Vermeeren </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> History of woodland management: the Neolithic  </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 4. Forest history </td>
   </tr>
@@ -694,17 +701,17 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 11:00 - 12:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 6 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 11:00 - 11:15 </td>
    <td style="text-align:left;width: 100px; "> [S6-O-004](#s6-o-004) </td>
    <td style="text-align:left;"> Neil J. Loader </td>
-   <td style="text-align:left;"> Advancing Elm Dendrochronology in the United Kingdom </td>
+   <td style="text-align:left;"> Advancing Elm dendrochronology in the United Kingdom </td>
    <td style="text-align:left;"> 6. Novel methods for dating and provenance analysis </td>
   </tr>
   <tr>
@@ -750,10 +757,10 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 13:30 - 15:05 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 6 &amp; 7 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> chair: </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
@@ -803,7 +810,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> posters </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> one-minute poster pitches </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> timber trade and non-invasive posters </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
@@ -811,6 +818,13 @@
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Kristof Haneca </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 – 1400 CE) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> 5. Evidence of timber trade and transport </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S6-P-001](#s6-p-001) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Kévin Liévens </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> The Rosewoods, where fine arts and nature conservation meet: the importance of identifying wood to the species level and the methods to do that </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> 6. Novel methods for dating and provenance analysis </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;">  </td>
@@ -848,7 +862,7 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 15:30 - 16:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> session 7 </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
@@ -869,7 +883,7 @@
    <td style="text-align:left;"> 7. Non-invasive techniques for the study of wooden cultural heritage </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 16:00 - 17:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> closing session </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
