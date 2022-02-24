@@ -1,157 +1,227 @@
 # (PART\*) ABSTRACTS {.unnumbered}
 
-# Session 1: Forest history {.unnumbered}
+
+# Session 1: Built heritage {.unnumbered}
+
 
 ## S1-O-001 {.unnumbered}
 
-**Exploring the significance, acquisition and use of wooden resources between Norse Greenland and North America: a (re)examination of literary and archaeological sources**
+**Dendrochronological research in Amsterdam monuments. Timber trade, construction and methodological implications**
 
-Elie Pinta^1^
+Gabri van Tussenbroek^1,\ 2^
 
-^*1*^ *Université Paris 1 Panthéon-Sorbonne, Paris, France -- UMR 8096.*
+*^1^ City of Amsterdam, Monuments & Archaeology. ^2^ University of Amsterdam, Faculty of Humanities, Department of Art History, the Netherlands.*
 
-[Elie.Pinta\@etu.univ-paris1.fr](mailto:Elie.Pinta@etu.univ-paris1.fr){.email}
+<g.vantussenbroek@uva.nl>
 
-Since prehistoric times, archaeological data reveal that wherever forests are to be found, wood and timber are used to make furniture, to construct buildings and ways of transportation, or as a fuel source. While forestry practices, woodworking strategies or fuel gathering can be studied through the archaeological records, historical documents are also filled with information regarding the significance, acquisition, and use of wooden resources.
+Since 2006, dendrochronological research of buildings is being carried out in the historical inner city of Amsterdam. The aim is to obtain knowledge about the dating of structures; to increase knowledge about the use of wood, its origin and the wood market in the past.
 
-For example, much of the Scandinavian peninsula was forested during the medieval period when Vikings, and the later Norse, made the exploitation and transformation of wood and timber one of their most distinguished crafts. Even during their migrations across the tree-poor North Atlantic islands, Norse settlers kept relying heavily on wooden materials for everyday use. Around AD 1000, as stated in the so called Vínland Sagas, and supported by the findings at L'Anse aux Meadows in northern Newfoundland, the Greenlandic Norse explored part of the North American Atlantic coast, another heavily forested area. Having been recognized as partly fictional, the Sagas - as well as other literary descriptions -- can sometimes be treated with caution regarding their historical accuracy. However, they also are filled with ecological descriptions and technical information regarding the exploitation of resources. Furthermore, archaeological data is sometimes scarce or difficult to interpret due to methodological limitations. Confronting both the textual and archaeological data provides a more comprehensive understanding of wood culture in the Norse Greenlandic world.
+In my contribution, after a brief general overview of the collected data set, I would like to focus on three sub-topics.
+
+1\. The transition from oak to pine for construction timber around 1600. It will be highlighted that this led to new solutions in construction. Moreover, it will be shown that the regular \'ordinary\' house construction shows an essentially different pattern of wood use than buildings commissioned by the city authorities.
+
+2\. The availability of wood on the local market and the turnover rate of wood between the time of felling and the time of construction. The re-use of wood will also be considered here: this was more common at a time of shortage, linked to the major building campaigns that accompanied the urban expansions of the seventeenth century.
+
+3\. The methodological implications of this research. The question to be addressed is the extent to which dendrochronological research provides new knowledge about the building history of the entire city. The significance and quality of this material source will be compared to written sources, showing that dendrochronological research can lead to new interpretations of archival material.
+
 
 ## S1-O-002 {.unnumbered}
 
-**Reconstruction of economic resources associated with timber building architecture in early medieval urban Trondheim**
+**Convex shaped church tiebeams from the 11th - 13th century in the Diocese of Lund compared with European examples**
 
-Anna Helena Petersén^1^
+Karl-Magnus Melin^1^, Petter Jansson^2^, Johannes Edvardsson^3^, Anton Hansson^3^, Hans Linderson^3^, Heikki Ranta^4^
 
-^*1*^ *Norwegian Institute for Cultural Heritage (NIKU), Trondheim, Norway.*
+*^1^ Conservation, University of Gothenburg, Gothenburg, Sweden. ^2^ Regional Museum, Kristianstad, Sweden. ^3^ Department of Geology, University of Lund, Lund, Sweden. ^3^ Diocese of Lund, Swedish church, Lund, Sweden.*
 
-[anna.petersen\@niku.no](mailto:anna.petersen@niku.no){.email}
+<kalle@timmermanskonst.se>
 
-Timber buildings form a substantial part of the built environment in medieval Scandinavia, both in rural and urban contexts. Because of often favorable preservation conditions for organic material in urban contexts, architectural remains are often encountered in the excavated archaeological material from Norway's medieval towns. The past building heritage can be reconstructed using archaeological sources, cultural-historical information and expertise found in traditional timber craftsmanship. Analyses of the volume of timber utilised in buildings in urban contexts, and the types and development of construction techniques used are important factors to be considered in discussions of what an urban economy in medieval Norway consisted of. However, timber as a natural resource is seldom included in studies of urban medieval economy from an archaeological perspective. This presentation uses the secular wooden architecture in early medieval Trondheim (AD 950-1150) as a case to illustrate timber's role as an economic resource, and highlights aspects of the socioeconomic organisation the early urban Trondheim retrieved from remains of the secular wooden architecture regarding access to timber, volumes of timber used, and types of labour and skills employed.
+Tie beams from about 25 churches in the Diocese of Lund (part of Denmark until 1658) have been dated and examined with craft research methods. In total 16 of these churches the tie beams have also been analysed dendrochronologically. The oldest are from 1060s and the youngest from the 1250s. Common features are sharp edges, rectangular cross sections and generally convex shaped beams (thickest in the middle and thinner at the ends). In this paper these attributes will be discussed and compared with tie beams from Sweden, France, Belgium and England. Were similar wood quality used in the or are there regional and or differences over time? The convex shape will be discussed, why was it a common way to make tie beams and why did it suddenly not be important? Convex shaped tie beams are dated to the period 1060-12 th century. The oldest dated example of parallell-sided tie beams is from 1185 in Norra Åsum chancel. Why did the tradition of convexshaped tie beams end? Was it a change of building fashion /construction or was material quality a reason? A sampling protocol made by craft researchers and dendrochronologists used for this investigation will also be described. In some of the churches radicarbon dating of the mortar were performed close to the dendro-sampled tie beams. The different dating methods will be discussed. The transdisciplinary research methods have been vital for this investigation.
+
 
 ## S1-O-003 {.unnumbered}
 
-**A dendroecological reconstruction of forest management history in Mediterranean *Abies pinsapo* forests**
+**Unveiling the innovation behind the roof constructions of the Medieval Churches in Finland**
 
-Linar Akhmetzyanov^1^, Raúl Sánchez-Salguero^1^, Pablo Casas-Gómez^1^, Víctor Lechuga^2^, Benjamín Viñegla^2^, J. Julio Camarero^3^, José I. Seco^1^, José R. Guzmán Álvarez^4^, José A. Carreira^2^, Juan C. Linares^1^
+Liisa Seppänen^1^, Panu Savolainen^2^, Laura Laine^2^
 
-^*1*^ *DendrOlavide, Depto. de Sistemas Físicos, Químicos y Naturales, Universidad Pablo de Olavide, Sevilla, Spain. ^2^ Departamento de Biología Animal, Vegetal y Ecología, Universidad de Jaén, Jaén, Spain. ^3^ Instituto Pirenaico De Ecología, Consejo Superior de Investigaciones Científicas (IPE-CSIC), Zaragoza, Spain. ^4^ Dirección General del Medio Natural, Biodiversidad y Espacios Protegidos. Consejería de Agricultura, Ganadería y Desarrollo Sostenible. Junta de Andalucía, Sevilla, Spain.*
+*^1^ Department of Archaeology, University of Helsinki, Finland. ^2^ Architectural History Research Group, Department of Architecture, Aalto University, Helsinki, Finland.*
 
-[lakh\@upo.es](mailto:lakh@upo.es){.email}
+<liseppa@utu.fi> - <liisa.h.seppanen@helsinki.fi>
 
-Past disturbances related to forest-use history remain poorly understood in long-term related Moroccan and Spanish fir forests. Here we investigated tree recruitment, growth trends and abrupt changes in tree-ring series of old-living trees since early 17th century in four representative stands: Abies pinsapo in Grazalema and Sierra de las Nieves (Spain) and A. marocana and A. tazaotana in Talassemtane (Morocco). Retrospective dendrochronological analyses were supported by documentary sources reporting changes in forest management and land-use during the past 300 years. Age structures of each site were discontinuous in time and revealed different cohorts distributed in even-aged aggregated patches. Our results showed growth releases related to past logging during the 18th, 19th and the early 20th century in Spain and Morocco. Limited tree establishment from the 1940s to 1960s agreed with intense herd grazing in Spain. Land-use changes leading to grazing and logging limitations resulted in forest encroachment. The observed patterns in growth releases allowed us to identify synchronous past radial-growth releases due to forest management. Tree-ring series have shown lower sensitivity to external disturbances, due to strong drought susceptibility of Abies pinsapo, reflected in "blue data". Past intensive selective cutting of the fir forest might also be reflected in local historical buildings, opening new perspectives for dendroarchaeological studies in the area.
+In northern Europe, all construction, including monumental and sacral architecture, was based solely on the use of timber until the 11th century, and remained dominant until the 19th century. The construction techniques included log frames and various post and stave techniques, where the stave churches of Norway represent the globally most widely known part of this heritage.
+
+In eastern part of the Kingdom of Sweden, nowadays Finland, log construction had dominated architecture since the prehistorical era and remained the most important construction technique in all buildings apart from castles until the early 15th century.
+
+The beginning of the 15th century with the erection of numerous stone and brick churches brought along new challenges in covering larger spans than ever before. The roof trusses of Lohja church from the late 15th century are among the largest in Europe covering a span of 20 meters. The origins of the innovations were in the 12th century northern France from where the techniques were adopted to the Baltic region and eventually applied to wooden roof constructions in Finland.
+
+Our paper presents new evidence and research of these roof trusses in the North-Eastern fringe of Medieval Europe. We examine the differences and similarities of medieval roof constructions in Finland and compare them with evidence from other parts of northern Europe. Furthermore, we explore the heritage aspects related to wooden architecture, church attics and roof trusses in Finland.
+
+The research has been performed in an on-going project "Structural innovations in late Middle Ages in northern Europe".
+
 
 ## S1-O-004 {.unnumbered}
 
-**Wood for funerary pyres in Barcino (Barcelona, NE Iberian Peninsula): investigating cremation structures in two necropolis (1st-3rd centuries CE) starting from charcoal analysis**
+**Lonely Brussels. Destination: the old built heritage and its woods**
 
-Sabrina Bianco^1,\ 2^, Ethel Allué^1,\ 3^, Santiago Riera Mora^4^, Emiliano Hinojo^5^, Carme Miró Alaix^6^
+Paulo Charruadas^1^, Sarah Cremer^2^, Patrick Hoffummer^3^, Sylvianne Modrie^4^, Philippe Sosnowska^1,\ 3^, Armelle Weitz^2^
 
-^*1*^ *Catalan Institute of Human Paleoecology and Social Evolution (IPHES-CERCA), Tarragona, Spain. ^2^ Department of History and Archaeology, Faculty of Geography and History, University of Barcelona, Barcelona, Spain. ^3^ Department of History and Art History, University Rovira and Virgili, Tarragona, Spain. ^4^ Seminaris d'Estudis i Recerques Prehistòriques research group (SERP), Department of History and Archaeology, Faculty of Geography and History, University of Barcelona, Barcelona, Spain. ^5^ Freelance archaeologist, Barcelona, Spain. ^6^ Archaeological Service of Barcelona, responsible of Pla Bàrcino, Direcció de Memòria, Història i Patrimoni -- Institut de Cultura (ICUB), Barcelona, Spain.*
+*^1^ Université libre de Bruxelles, Brussels, Belgium. ^2^ Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^3^ Université de Liège, Liège, Belgium. ^4^ Service public régional Bruxelles Urbanisme et Patrimoine - urban.brussels, Brussels, Belgium.*
 
-[sbianco\@iphes.cat](mailto:sbianco@iphes.cat){.email}
+<armelle.weitz@kikirpa.be>
 
-Funerary rituals were an important part of the Roman cultural identity, as they represent, with a precise set of rules and practices, the passage from the world of livings to the deads.
+For the past 30 years, the timber used in the building sector of Brussels has been under the microscope of archaeologists, historians and dendrochronologists with a sharp increase in studies over the past ten years.
 
-In this sense, fire played a significant role, as a mean for cleansing the body and the soul of the deceased through cremation, as well as for cooking funerary banquets and offers.
+From the foundations to the frameworks, via the shutters and floors, the buildings of Brussels-Capital Region are beginning to give us their own stories about the management of the exploitation of the forest and the supply of building sites. The various investigations show that Brussels frequently had to deal with problems of timber supply. This has led to a strong pressure on the local resources and forced the construction sector to use the entire local forest resource for timber but also to import wood products.
 
-As consequence of the carbonization process, it is possible to study the wood used for building the pyre and other goods placed in the stake (rogus), as for example funerary beds (lecta funebres), through wood charcoal analysis.
+Regarding the methodology, the structure studied in Brussels benefit from an archaeological recording. Archaeological research is conducted (typology of frameworks, metal assemblies and traces of woodworking) as well as dendrochronological dating, wood species analysis and -- when possible - archival research.
 
-In this work, the wood used for cremations and funerary banquets in two suburban necropolis of the colony of Barcino (Barcelona) will be discussed and compared. The first, in use during the 1st century CE, was unearthed under St. Antoni Market, in relation with a main road (Via Augusta) that entered the roman city from the west. It counted with several funerary enclosures where 2 busta and 9 ustrina were identified. A second necropolis, functioning between the 2nd-3rd centuries CE along another road, was excavated in Vila de Madrid square, northwest from the city. In this case charcoal proceeding from cremations (less abundant, as the practice decresed after the 2nd century CE) or banquets, and two circular charred wooden structures have been studied.
+We would like to outline some of the general characteristics of the the use of wood in Brussels, from the management of timber resources (forest trees and hedge trees) to the choice of species used in relation to the built structures (roof frames, floor frames, flooring). This approach will be put into perspective with certain political events that have punctuated the city\'s history. Particular attention will be given to the crossing of archaeological, dendrochronological and historical data.
 
-Results of this investigation are significant because they constitute the first sistematic study of wood use in roman funerary contexts of Barcelona, up to now very limited to a few fragments. Furthermore, this work evaluates wood selection practices based on symbolic, functional or convenience criteria, the presence of wooden objects/furnitures in the pyre and in general sheds light on the wood management for supplying these rituals.
 
 ## S1-O-005 {.unnumbered}
 
-**Woody resources and their management during Iron Age in northwest Iberia**
+**The use and results of dendrochronological research in building history research in Leiden (the Netherlands)**
 
-María Martín-Seijo^1^
+Edwin Orsel^1^
 
-^*1*^ *Departamento de Ciencias Históricas, Universidad de Cantabria, Edificio Interfacultativo, Santander, Spain.*
+*^1^ Erfgoed Leiden en Omstreken, Leiden, the Netherlands.*
 
-[maria.martin\@unican.es](mailto:maria.martin@unican.es){.email}
+<e.orsel@erfgoedleiden.nl>
 
-Charcoal is the most common archaeobotanical remain recovered from archaeological contexts dated to Iron Age in northern Iberia. This presentation will summarise the results obtained from several case-studies dated to the Iron Age in the northern part of the Iberian Peninsula. Up to now, many charcoals have been analysed providing an excellent opportunity to test the possibilities of going beyond taxonomic identification. In our research we have systematically combined charcoal analysis in tandem with registering dendrological and taphonomic attributes. This has provided information to better characterise the kind of woody resources managed, the combustion process, the depositional and post-depositional processes affecting to archaeobotanical assemblages. But it has also been obtained information about wood uses, woodland management practices, and even about the relationship established between people and their environment.
+The wood used in built heritage is an unprecedented physical source for research into the history of building. Since 2001, dendrochronological research has been applied in structural building-historical research in Leiden (NL). The research area concerns a local context of one historic city centre with buildings from approximately 1200 to the present. Initially, the dendrochronological research was carried out by external parties, but since 2014 the building historians of Erfgoed Leiden have been taking the samples themselves. The independent sampling during building-historical fieldwork is very practical and efficient. Until 2021, more than 150 objects have been dendrochronologically examined. Sampling limitations sometimes pose problems in dendrochronological analysis, especially in the older coarser wood, and therefore a study was conducted using a combination of dendrochronology and C14, with positive results.
+
+The results of dendrochronological research in Leiden provide insight into the dating of the buildings, the origin of the construction timber, transport and trade and other aspects. The dates range from the beginning of the 14th century to the end of the 18th century. It has become clear that first oak wood imported from Germany was used, but that later the oak came from further away. Around 1600 the transition from oak to pine is unmistakable, supplied from areas around the Baltic Sea. Exact dates also provide insight into which season was felled and also in the period between logging and fabrication. In this way, dendrochronological research contributes substantially to the knowledge about our past.
+
 
 ## S1-O-006 {.unnumbered}
 
-**Sorting the trees: new evidences of woodland management at La Draga (Banyoles, Spain)**
+**A 2ka-long tree-ring chronology for hinoki cypress from central Japan and its dendroarchaeological application**
 
-Oriol López-Bultó^1^, Patrick Gassmann^2^, Ingrid Bertin^1^, Raquel Piqué^1^
+Motonari Ohyama^1^, Hitoshi Yonenobu^2^, Shinya Suzuki^3^, Yasuharu Hoshino^4^
 
-^*1*^ *Department of Prehistory, Autonomous University of Barcelona, Barcelona, Spain. ^2^ Independent researcher, Spain.*
+*^1^ Botanical Gardens, Tohoku University, Sendai, Japan. ^2^ Graduate School of Education, Naruto University of Education, Naruto, Japan. ^3^ Tokyo Metropolitan Archaeological Center, Tokyo, Japan. ^4^ Center for Archaeological Operations, Nara National Research Institute for Cultural Properties, Nara, Japan.*
 
-[oriollopezbulto\@gmail.com](mailto:oriollopezbulto@gmail.com){.email}
+<motonari.ohyama.a7@tohoku.ac.jp>
 
-It is suggested that woodland management (e.g. pollarding, pruning or coppicing) was practised at least from the Neolithic onwards. The goal of this presentation is to discuss woodland management practices in the Early Neolithic waterlogged site of La Draga (5300-4700 cal BC - Banyoles, Spain). So far different methods and techniques (dendrochronology, roundwood age and diameter, dendrology...) have been applied to approach this issue and some preliminary results obtained.
+We present a 2ka-long ring-width chronology of hinoki cypress and its application for wooden cultural properties. Hinoki cypress is dendrochronologically the most critical species in Japan because it has been extensively used for important cultural properties. We collected samples from old-growth living and buried trees as well as from wooden cultural properties located at temples and archaeological sites in central Japan. They built up a ring-width chronology for each site, and these chronologies were then successfully crossdated to compose a single 2ka-long chronology for the period of 156 BCE to 2001 CE. Because ring-width chronologies of cypress from central Japan are known to be crossdatable with others from large adjacent areas of the country, the new data will be useful in building chronologies for other parts of Japan. Using this chronology, we also present dating results of timbers from a building of Chiko-ji temple in central Japan, which was built in the late 13th and/or early 14th century.
 
-But recent excavations brought forth new wooden archaeological materials which help approach this issue from another point of view: the presence of scars on the wood surface. For the first time, at la Draga, it has been possible to identify scars on the wood surface of piles caused after tool-marks and covered partially or totally by woundwood ribs, indicating that the trees were marked before being cut down. The piles marked have been identified as laurel (Laurus nobilis), this taxon is well documented at the site (firewood, instruments and piles), although playing a secondary role after oak. However, laurel is a tree rarely exploited during the Neolithic in Europe, which poses the question of the intentional selection of this wood at La Draga.
-
-This paper will present the results of the morphological, technological and dendrological study of the laurel piles in the context of the wooden remains of La Draga site. The results of the different approaches are summarized and contrasted to provide new lights on Neolithic woodland management in Europe. Moreover, it is discussed the role of the laurel tree in the context of the Neolithic.
 
 ## S1-O-007 {.unnumbered}
 
-**From the exhaustive study of a mountain village to the restitution of forest: how far can dendrochronology go?**
+**Roof constructions in Austria -- an overview**
 
-Lisa Shindo^1^
+Sebastian Nemestothy^1^, Elisabeth Wächter^1^, Günther Buchinger^2^, Michael Grabner^1^
 
-^*1*^ *ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
+*^1^ Institute of Wood Technology and Renewable Materials, University of Natural Resources and Life Sciences, Vienna, Austria. ^2^ Denkmalforscher GesBR, Vienna, Austria.*
 
-[lshindo\@roots.uni-kiel.de](mailto:lshindo@roots.uni-kiel.de){.email}
+<sebastian.nemestothy@boku.ac.at>
 
-Since 2014, as part of several research projects on the links between humans and forests in the past, 20 buildings in a village in the southern French Alps (Courbons, 900 m altitude) have been studied by dendrochronology. These are mainly village houses but also a church, a bell tower and a mill. We were interested in the wood used in the structural work, which is only present in the ceilings. These are mostly joisted, but two of them are more elaborated, with visible beams and joists. A total of 155 timbers were studied. The species used are very varied, oak, fir, larch, Scots pine, elm, ash and willow or poplar, as are the growth patterns and felling dates, which range from the 14th to the 19th century. Although the village is mentioned in texts as early as the 12th century, the main felling phases take place in the 15th and 18th centuries (the study of these timbers contributed to the construction of the first oak reference curve at altitude in the southern French Alps).
+The tree ring lab at BOKU University, Vienna, Austria is active since 1996 in the eastern part of Austria (Salzburg, Carinthia, Styria, Upper and Lower Austria, Vienna and Burgenland). Up to now more than 22,000 samples were taken from buildings.
 
-According to the texts, since at least the 15th century, local wood has been exported to the lowland cities and is at the heart of a very active local market. As we have observed a change in the wood used in the 16^th^ c., we will address the issues of wood resources and forestry management in this region at the crossroads of several trade routes, linking the high mountains, the plains and the Mediterranean Sea.
+Parallel to the dendro-dating, building historians have been analysing the typology of roof trusses and the changes with time. It was possible to see clear alterations from simple rafter- constructions, to huge multi-level constructions with standing and sometimes hanging columns, to the ship-like baroque trusses and once again to constructions with standing columns.
+
+The existing tree-ring-database makes it possible to present new insights on the historical roof trusses. At 982 buildings roof constructions were sampled and analysed -- ending with 13,916 samples. The time span reaches from the oldest roof truss at the church in Salzburg dated to 1135, to the youngest one in Vienna dated to 1997.
+
+69.0% of the sampled elements were made out of Norway spruce followed by Silver fir with 19.6%. All other species played a minor role: pine (5.0%), larch (3.6%), oak (2.7%), followed by few elements made out of Stone pine, elm, beech and poplar. The share of wood species represents clearly the huge influence of the alpine region. Within the city of Vienna, where all building material was rafted, the amount of spruce wood is 72.3%. There were no clearly visible changes in the share of wood species over time.
+
+The wood species composition in Austria is different to other regions, where often oak is dominating; or tremendous changes in the share can be seen.
+
 
 ## S1-P-001 {.unnumbered}
 
-**Our history does not exist in the books: forest patches framing new identities for heritage and environmental conservation**
+**Oak dating in Lithuania**
 
-Pascoal Gota^1^, Anneli Ekblom^1^
+Adomas Vitas^1^
 
-^*1*^ *Department of Archaeology and Ancient History, Faculty of Arts, Uppsala University, Uppsala, Sweden.*
+*^1^ Environmental Research Centre, Faculty of Natural Sciences, Vytautas Magnus University, Kaunas, Lithuania.*
 
-[pascoal.gota\@arkeologi.uu.se](mailto:pascoal.gota@arkeologi.uu.se){.email}
+<ad8advi@gmail.com>
 
-With the huge increase of illegal logging activities globally, forests that are not in the borders of officially designated conservation areas are currently at risk of being classified, simplified and reduced to spaces for logging. In the best case scenario, these forests can be spared either through conservation protection (which tends to exclude local communities) or through a re-categorisation as sources for ecosystem services of benefit for several stakeholders. Forest patches play a fundamental role in ensuring the existence of several ecosystem services. In this paper we bring into discussion the results of field work carried in two of the several forest patches located in southern Mozambique. Methodologically, we approach forest patches as cultural landscapes and heritage sites. Our aim is to formulate an approach of biodiversity conservation that goes beyond officially protected areas, such as parks and reserves in collaboration with local communities through the notion of protected cultural landscapes and bicultural heritage. In doing so, we documented the histories of these forest patches as embedded in social memories and physical remains (pollen, charcoal and archaeological finds) to narrate the role of forest mosaics in shaping the identity of current communities. With our findings, we illustrate that the local conservation of these forests is effective, resting on tangible and intangible protection of heritage a practice fundamental for the identity of custodian communities. We conclude by providing some insights for the study and understanding of transdisciplinarity and conservation as these protected forests are potential bridges to dialogue and community-based heritage-conservation initiatives through collaborative approaches to achieve several of the sustainable development goals.
+Oak timber in Lithuania was used in building constructions in Klaipėda oldtown and Vilnius Lower castle. The constructed oak chronologies for Klaipėda and Vilnius spans from the 13th to 16th centuries. However, it is not possible to identify the origins of the samples collected during the 1980s in Klaipėda because a book with records from this stage of the investigation was lost. In addition, oak is present in the standing buildings of the central part of Lithuania. Because of favourable soil conditions, to date, oak is more prevalent in the forests of central Lithuania than in other regions. In 2018--2019, oak timbers from altarpieces and construction elements of seven churches in central Lithuania were studied. In total, fifty-three oak samples were sampled, and 40 tree-ring series were dated. Although the timber from the 18th to 19th centuries predominates, the oldest samples were dated to 1526 and 1635. The samples from the 16th to 17th centuries were dated against Klaipėda and chronologies constructed from oak timber imported from Baltic lands to western Europe, such as Baltic1 and Baltic3. Finally, the newest material was dated using chronologies constructed from living oaks in Lithuania. As a result, the compiled oak chronology for Lithuania spans from 1659 to 2005.
 
 ## S1-P-002 {.unnumbered}
 
-**Mechanical wood properties over the past 100 years**
+**The oldest known roof construction in Ghent (Belgium) sheds new light on medieval building history**
 
-Andreas Rais^1^, Andriy Kovryga^1^, Jan-Willem G. van de Kuilen^1,\ 2^
+Vincent Debonne^1^, Kristof Haneca^1^
 
-^*1*^ *Materials Engineering, School of Engineering and Design, TU Munich, Munich, Germany. ^2^ Engineering Structures, Biobased Structures and Materials, TU Delft, Delft, the Netherlands.*
+*^1^ Flanders Heritage Agency, Brussels, Belgium.*
 
-[rais\@tum.de](mailto:rais@tum.de){.email}
+<Vincent.Debonne@vlaanderen.be>
 
-Forest stands adapt their growth on changes of temperature, nitrogen deposition, CO2-concentration and growing season. Forest management strategies also influence tree growth, for instance by admixing deciduous trees in coniferous forests or reducing rotation age and stand density. Climate change by itself or indirectly through silvicultural adaptations may have influenced the wood (mechanical) properties.
+Roof constructions are considered key elements to document and study building traditions in historic towns. As a material source, the wood used in roof constructions allows to precisely date the timing and duration of building activity by means of tree-ring dating.
 
-The focus of this study is on Norway spruce (Picea abies), which is relevant for use in construction despite the climate and calamity-related decline in European forests. Our internal database contains data about strength, stiffness, density and knot parameters from more than 10.000 boards. Most of the data were collected in order to derive models and threshold values for structural engineering applications, and as such can be considered representative of the timber grown in Central Europe in the last two centuries. From each of these boards, a small, defect-free wood sample is available to determine the date of wood formation (dendrochronological approach) and essential growth ring characteristics.
+In Flanders (northern Belgium) precise tree-ring dating is often hampered by the type of wood used (fast growth rate, short tree-ring series) and the intensive fashioning of the timbers (waney edge removed/trimmed). The latter implies that only an interval for the felling date can be settled.
 
-The presentation highlights the methods, but also gives first insights into whether mechanical wood properties may have changed in the last century. Changes in wood quality due to climate and management concepts are important for the entire wood processing chain forest-sawmill-final product. As the log and wood quality determine the product performance, any changes have a direct impact on the production chain and the added value during each production step. Sawmills notice a change in timber quality due to changed yields in the various assortments that they produce affecting revenue.
+In the city centre of Ghent, numerous roof constructions from the pre-industrial era are still in place, in large monuments (churches, city hall, merchants' halls) but also in historic houses. Tree-ring research on these has been carried out since the 1990s (Université de Liège; Van Daalen Dendrochronologie; Flanders Heritage Agency). The dated roofs range from the middle of the 13th century to the early 16th century.
+
+We here present an overview of all dendrochronologically analysed roof constructions in Ghent and add new data from an iconic monument: Saint-Nicolas' church. The roof of the nave now proves to be the oldest preserved in the city and wider region, with a felling date for the timbers between 1220 and 1224 CE. The roof above the choir was erected a decade later, with a felling date for the timbers between 1231 and 1240 CE.
+
+These new results and the wider dataset for the Ghent region now allow to develop a typology for (late)medieval roof constructions and a better understanding of the procurement, trade and transport of building timber, from the early 13th century up to the beginning of the Early Modern era.
 
 ## S1-P-003 {.unnumbered}
 
-**Dendrochronological investigation of monumental trees from "Villa Medicea di Castello" in Florence, Italy**
+**Utilization of wood species in timber constructions across the Czech lands from the 15th to the 19th century**
 
-Sveva Longo^1^, Cristiano Riminesi^1^, Rachele Manganelli del Fà^1^, Silvia Fineschi^1^, Giovanna Battipaglia^2^
+Tomáš Kolář^1,\ 2^, Petr Dobrovolný^2,\ 3^, Péter Szabó^4^, Tomáš Mikita^5^, Tomáš Kyncl^6^, Josef Kyncl^6^, Irena Sochová^1,\ 2^, Micha Rybníček^1,\ 2^
 
-^*1*^ *Institute of Heritage Science, National Research Council of Italy, Italy. ^2^ Department of Environmental, Biological, Pharmaceutical Sciences and Technologies, University of Campania "Luigi Vanvitelli", Caserta, Italy.*
+*^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences (CzechGlobe), Brno, Czech Republic. ^3^ Department of Geography, Faculty of Science, Masaryk University, Brno, Czech Republic. ^4^ Department of Vegetation Ecology, Institute of Botany of the Czech Academy of Sciences, Brno, Czech Republic. ^5^ Department of Forest Management and Applied Geoinformatics, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^6^ DendroLab Brno, Brno, Czech Republic.*
 
-[sveva.longo\@ispc.cnr.it](mailto:sveva.longo@ispc.cnr.it){.email}
+<koldatom@gmail.com>
 
-The garden of the Villa Medicea of Castello was designed by Niccolò Tribolo in 1538 on commission of Cosimo I de' Medici, Gran Duke of Florence, and represents one of the prototypes of the XVI century Italian garden. A cycle of 'lunettes' painted by the Flemish artist Iustus van Utens between 1599 and 1603 illustrate fourteen villas belonging to the Medici Family, including this one. In this study, we performed dendrochronological analysis on two pubescent oaks, Quercus pubescens Willd, from the "Piano del selvatico", to verify whether they might be dated back to the garden origin. This analysis would provide important information on the vegetation history of the garden, and fill lack of records about its past management. Two trees, ranging in size from 100 to 150 cm diameter at breast height, were sampled. Two cores for each plant were collected in summer 2021 using an increment borer (Haglöfs, Sweden) of 5 mm. Results revealed that both trees show evident signs of senescence, with rotting of the wood in the central part and have undergone several pest attacks during their existence. It was not possible to reach the center of the trunk due to the presence of rotten wood, therefore the missing rings were estimated by allometric equation to define the age of the two oaks. The age was determined about 500 years old. The estimated age of two pubescent oaks allows us to affirm that they were already present when the 'lunettes' were painted.
+Wood represents fundamental material for buildings either as part of houses made of bricks and/or stone or as a whole house (e.g. log houses). Utilization of individual species for buildings could substantially change in space and time due to regional availability of the species. In this study, we present 8135 dendrochronologically exactly dated timber constructions, represented mainly by roofs and ceilings, across the Czech Lands in order to investigate variations in wood species selection between the 15th and the 19th century. Our results show that availability of individual species, wood properties, and stem geometry played a key role for the utilization wood species in historical timber constructions. Vast majority of historical constructions (99.7%) were made of fir, spruce, pine, and oak. Timber constructions in eastern part of the Czech Republic are mostly made of fir, whereas in central and western part of spruce. Pine and oak constructions are typical of specific regions, which reflects natural occurrence of the species at lower elevated central Bohemia and southern Moravia. Representation of individual wood species changed in time especially due to planting of spruce monocultures starting in the 19th century. Whereas fir prevailed in timber construction until the end of the 18th century, spruce utilization started to increase significantly at the end of the 19th century. Our study shows that dendrochronological datasets may be used to investigate wood utilization in the past.
+
+Acknowledgments: This work was supported by the SustES -- Adaptation strategies for sustainable ecosystem services and food security under adverse environmental conditions project, ref. CZ.02.1.01/0.0/0.0/16_019/0000797, and by long-term research development project no. RVO 67985939.
+
 
 ## S1-P-004 {.unnumbered}
 
-**History of woodland management: the Neolithic**
+**The use of dendrochronology to understand aspects of sustainability in traditional wooden houses**
 
-Caroline Vermeeren^1^, Kirsti Hänninen, Welmoed A. Out^2^
+Linda Lindblad^1^
 
-^*1*^ *BIAX Consult, Research centre, Zaandam, the Netherlands. ^2^ Moesgaard Museum, Aarhus, Denmark.*
+*^1^ The Craft Laboratory, Department of Conservation, Faculty of Science, University of Gothenburg, Mariestad, Sweden.*
 
-[vermeeren\@biax.nl](mailto:vermeeren@biax.nl){.email}
+<linda.lindblad@conservation.gu.se>
 
-From written and iconographic sources there is proof for wood management in the historical period, but when did this practice start? It is often assumed that this could have been as far back as the Neolithic. To investigate woodland management, a model was made using the combination of diameter and number of annual rings (figure 1). Management (pollarding and coppicing) results in a higher quantity and quality of wood, due to better access to light. The managed trees are supposed to produce fast growing branches (managed spurts) with thicker annual rings. This was tested on modern trees resulting in reference graphs per taxon. Case studies for the Neolithic from different parts of Europe are compared to these graphs of which some will be presented. A management signal could not be found. Different possibilities are discussed to explain this result.
+This paper will present and discuss the possibilities of craft research and dendrochronology to understand and describe how traditional wooden architecture in Sweden can contribute to more sustainable housing. The traditional use of timber will be examined in log timber living houses that are more than 150 years old and still in use. Methods to map the properties of the wood material in-situ will be defined and tested in an initial workshop, where invited experts present different methods and their application. Then the examinations of four or five log timber living houses will be performed by craft researchers and dendrochronologists with the interdisciplinary approach from craft science and kulturvård.
 
-![figure 1: growth model of managed (hatched) and unmanaged wood/trees, combination of diameter and age.](./figures/Vermeeren.png){width=90%}
+In the examinations we will investigate; what kind of timber these buildings were built with, how the wood has been used, modified, sourced and processed. Also, the quantity of wood in the construction is estimated. Signs of repairs will be documented since it illustrates how the building technique enables repair and circular material use.
+
+Dendrochronological analyses will then be used as a tool to further understand the properties of the timber, felling season, tree ring widths and which type of forests the trees once grew in, the felling years will be of minor importance. Together craft researchers and dendrochronologists will try to solve the main and important questions: How can wooden living houses last for several hundred years? Can we by understanding the timber quality, used techniques and historic forestry today and in the future build longlasting sustainable wooden houses?
+
+
+## S1-P-005 {.unnumbered}
+
+**Methodological approach of wood anatomy and dendrochronology in cultural heritage**
+
+Maks Merela^1^, Katarina Čufar^1^, Luka Krže^1^, Angela Balzano^1^
+
+*^1^Biotechnical Faculty, University of Ljubljana, Department of Wood Science and Technology, Ljubljana, Slovenia.*
+
+<Maks.Merela@bf.uni-lj.si>
+
+We intend to present some methodological approaches for the application of wood anatomy and dendrochronology to various cultural heritage objects. An appropriate combination of microscopic techniques allows the detection of anatomical features for wood identification, while another combination of microscopic techniques may be optimal to determine the state of preservation of the wood at the cellular level. The latter is particularly important in the study of archaeological waterlogged wood, where assessing the degree of cell wall degradation determines the research potential of the wood and the conservation of particular objects. We will present the results of light microscopy (different light modes), epifluorescence, confocal laser scanning microscopy, digital microscopy, and scanning electron microscopy on various cultural heritage objects. We will discuss when wood is considered sufficiently preserved for tree-ring analysis and show examples of dendrochronological studies on various cultural heritage objects as well as on waterlogged objects.
+
+Finally, we will address the need for ongoing maintenance of reference chronologies, which must be available for different wood species and time periods, as well as the optimal selection of wood for radiocarbon dating and wiggle matching when dendrochronological dating is unsuccessful or not possible.
+
+The right choice of methods (conventional and modern) allows us to extract a long list of information from the wood of cultural heritage objects.
+
+
+## S1-P-006 {.unnumbered}
+
+**Dendrochronological dating of historical sacral constructions in Transcarpathian Ukraine**
+
+Irena Sochová^1,\ 2^, Tomáš Kolář^1,\ 2^, Michal Rybníček^1,\ 2^
+
+*^1^ Department of Wood Science and Technology, Faculty of Forestry and Wood Technology, Mendel University in Brno, Brno, Czech Republic. ^2^ Global Change Research Institute of the Czech Academy of Sciences, Brno, Czech Republic.*
+
+<sochova.irena@seznam.cz>
+
+Wooden churches are an important part of cultural heritage and have a very long history in the most western part of Ukraine, currently called Transcarpathian Ukraine. Hundreds of wooden churches, chapels or belfries, likely built between the 15th and 19th century, have been preserved in this area. However, construction history of the buildings remains unclear as dates presented in literature are usually inaccurate and contradictory. Therefore, the main aim of this research is to determine the age of preferably oak historical constructions, as well as compile a historical part of oak tree-ring width (TRW) chronology.
+
+In this study, totally 158 oak samples from 12 oak churches and belfries from 4 districts (Mukachevo, Tiachiv, Vynohradiv and Chust) of Transcarpathian Ukraine have been collected and processed using standard dendrochronological methods. Study includes the measured TRW series of 5 churches transported in 1919--1938 from the area of Subcarpathian Ukraine to the Czech Republic
+
+So far 60 TRW series has been dated mostly using Romania (Maramures) and Slovakia TRW chronologies to the 17th and 18th centuries. All well cross-dated TRW series have been used to compile a basis of historical oak TRW chronology for Transcarpathian Ukraine which covers the period 1400--1820. All TRW series will be used to compile the historical part of the standard TRW oak chronology, which will complement the previously compiled recent chronology for the Transcarpathian Ukraine region. This will help with further dendroarcheological studies as well as dendroclimatological studies.
+
+Acknowledgements: The paper was prepared with the funding from the Internal Grant Agency FFWT MENDELU, grants numbered LDF_VP_2020010, LDF_VP_2021008 and IGA-LDF-22-IP-004.

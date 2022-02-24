@@ -1,19 +1,36 @@
 # Session 2: Shipwrecks and archaeological structures {.unnumbered}
 
-
 ## S2-O-001 {.unnumbered}
 
-**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
+**Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
 
-Ignacio A. Mundo^1,\ 2^
+Mike Belasus^1^
 
-^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
+^*1*^ *Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.*
 
-[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
+[belasus\@nihk.de](mailto:belasus@nihk.de){.email}
 
-Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
+The perception of wood in connection to shipbuilding of the past seems to be strongly idealised and often not fitting to the reality reflected in the archaeological context. Features of tree-anatomy were only sometimes recorded, and often ignored during the interpretation of ship finds. The idealized idea of a shipwright, who is choosing personally only the best material, was likely born out of an idealized image of the past and possibly influenced by rather recent shipbuilding practices. Detailed advise on the choice of high quality timbers for shipbuilding only appear in the 20th century, long after wood was superseded by steel for most vessels and competition for shipbuilding timber on the marked market had ceased. In some cases, this has produced a somewhat distorted interpretation of ships and shipbuilding because features of growth, in a holistic approach, can give information beyond timber quality but also on environmental influences and the human impact on this resource. In certain cases, it even allows to draw conclusions on economic and social circumstances. This way the information gathered from the building timber can alter the vessels interpretation.
+
+This paper will discuss the demands for shipbuilding timber and its quality in North Western Europe as a result of the ERC-TIMBER project (Grant agreement No. 677152). It aims to reflect on possible social, economic or environmental reasons for the shipwrights' choices.
+
 
 ## S2-O-002 {.unnumbered}
+
+**Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland**
+
+Anne Crone^1^
+
+^*1*^ *AOC Archaeology Group, Unit 7A Edgefield Industrial Estate, Loanhead, Midlothian, Scotland.*
+
+[anne.crone\@aocarchaeology.com](mailto:anne.crone@aocarchaeology.com){.email}
+
+Although there is evidence for settlements in the lochs of Scotland from the Neolithic to the early modern period, the 1st millennium BC saw the most intense period of activity, specifically that period from 800 to 400 BC where the calibration curve is so flat as to render radiocarbon determinations highly imprecise. Studies of the Iron Age throughout Europe are bedevilled by the Halstatt Plateau but in the British Isles few sites of that period have benefitted from the precision of dendro-dating. However, in a small area of SW Scotland, there are now three dendro-dated wetland settlements which are enabling archaeologists to examine the dynamics of regional settlement development via the chronological relationships between these sites. Extensive excavations at one of these sites, Black Loch of Myrton, yielded large quantities of oak, alder, hazel and ash, all of which have been analysed to produce a precisely dated chronological framework spanning three major episodes of occupation on the settlement, from 438/7 BC to 223 BC. Over the course of two centuries we see the development, expansion, abandonment and re-occupation of the settlement, all at the scale of human lifetimes.
+
+In this talk the dendrochronological evidence from SW Scotland will be outlined, and some of the interpretative issues associated with the use of non-oak species will be raised. The impact of high-resolution timescales on our understanding of the dynamics of settlement in this period will also be explored.
+
+
+## S2-O-003 {.unnumbered}
 
 **Piers, wharfs and shipping at Masthugget, Gothenburg -- Investigating private harbours through wood and stone structures**
 
@@ -29,35 +46,8 @@ Most plots and piers were private, and the owners were to a high degree well-kno
 
 The project aims to find out how this foremost private harbour changed over time, how it was used, what the building stock of the piers looked like and how the buildings connected to the various enterprises of the area.
 
-## S2-O-003 {.unnumbered}
-
-**Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland**
-
-Anne Crone^1^
-
-^*1*^ *AOC Archaeology Group, Unit 7A Edgefield Industrial Estate, Loanhead, Midlothian, Scotland.*
-
-[anne.crone\@aocarchaeology.com](mailto:anne.crone@aocarchaeology.com){.email}
-
-Although there is evidence for settlements in the lochs of Scotland from the Neolithic to the early modern period, the 1st millennium BC saw the most intense period of activity, specifically that period from 800 to 400 BC where the calibration curve is so flat as to render radiocarbon determinations highly imprecise. Studies of the Iron Age throughout Europe are bedevilled by the Halstatt Plateau but in the British Isles few sites of that period have benefitted from the precision of dendro-dating. However, in a small area of SW Scotland, there are now three dendro-dated wetland settlements which are enabling archaeologists to examine the dynamics of regional settlement development via the chronological relationships between these sites. Extensive excavations at one of these sites, Black Loch of Myrton, yielded large quantities of oak, alder, hazel and ash, all of which have been analysed to produce a precisely dated chronological framework spanning three major episodes of occupation on the settlement, from 438/7 BC to 223 BC. Over the course of two centuries we see the development, expansion, abandonment and re-occupation of the settlement, all at the scale of human lifetimes.
-
-In this talk the dendrochronological evidence from SW Scotland will be outlined, and some of the interpretative issues associated with the use of non-oak species will be raised. The impact of high-resolution timescales on our understanding of the dynamics of settlement in this period will also be explored.
 
 ## S2-O-004 {.unnumbered}
-
-**Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
-
-Mike Belasus^1^
-
-^*1*^ *Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.*
-
-[belasus\@nihk.de](mailto:belasus@nihk.de){.email}
-
-The perception of wood in connection to shipbuilding of the past seems to be strongly idealised and often not fitting to the reality reflected in the archaeological context. Features of tree-anatomy were only sometimes recorded, and often ignored during the interpretation of ship finds. The idealized idea of a shipwright, who is choosing personally only the best material, was likely born out of an idealized image of the past and possibly influenced by rather recent shipbuilding practices. Detailed advise on the choice of high quality timbers for shipbuilding only appear in the 20th century, long after wood was superseded by steel for most vessels and competition for shipbuilding timber on the marked market had ceased. In some cases, this has produced a somewhat distorted interpretation of ships and shipbuilding because features of growth, in a holistic approach, can give information beyond timber quality but also on environmental influences and the human impact on this resource. In certain cases, it even allows to draw conclusions on economic and social circumstances. This way the information gathered from the building timber can alter the vessels interpretation.
-
-This paper will discuss the demands for shipbuilding timber and its quality in North Western Europe as a result of the ERC-TIMBER project (Grant agreement No. 677152). It aims to reflect on possible social, economic or environmental reasons for the shipwrights' choices.
-
-## S2-O-005 {.unnumbered}
 
 **Double checking double Dutch: A reassessment of the construction features of the early modern Scheurrak SO1 shipwreck**
 
@@ -73,7 +63,8 @@ The shipwreck exhibited several peculiar construction details which deviated fro
 
 Reassessment of Scheurrak SO1's construction details within the frame of the interdisciplinary research project "Scheurrak SO1 in the Maritime Cultural Landscape of the Early Modern Netherlands, 1550-1650" at Leiden University, now suggests that the ship may have known multiple building phases. Re-analysis of the available tree-ring curves seems to support this, while analysis of additional samples demonstrate a more dispersed timber provenance than initially deduced. Although research is still ongoing, current results do challenge the known Double Dutch discourse and encourage a reinterpretation of the construction of the Scheurrak SO1 shipwreck.
 
-## S2-O-006 {.unnumbered}
+
+## S2-O-005 {.unnumbered}
 
 **From a forest to a ship and into a wreck, and back again?**
 
@@ -87,6 +78,18 @@ The aim of the project is to develop interpretation of so-called skeleton wrecks
 
 This is part of a research programme *The Lost Navy, Sweden’s ”Blue” Heritage c. 1450–1850*, which aims to collect information about the ships in the fleet. It is a joint marine archaeology and - history project in the Baltic Sea region for 2021–2026. In Finland, the research sub-project focuses on wooden wrecks of the Swedish era. The project has a multidisciplinary approach, combining archaeology with shipbuilding, dendrochronology, and forest studies.
 
+
+## S2-O-006 {.unnumbered}
+
+**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
+
+Ignacio A. Mundo^1,\ 2^
+
+^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
+
+[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
+
+Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
 
 
 ## S2-O-007 {.unnumbered}
@@ -105,6 +108,7 @@ At Coppergate, the timbers were largely freshly felled specifically for the buil
 
 Moreover, the type of clinker construction was unusual and not of the 'typical' North West European/Scandinavian type. Dendrochronological samples allowed the identification of the potential source for the boat timbers, which was not local to York. This paper considers the evidence provided from the study of the woodworking technology and the work done to identify the type of boat, its potential provenance and indeed the provenance of the timbers used in its construction.
 
+
 ## S2-O-008 {.unnumbered}
 
 **How a broken wooden board uncovered an early medieval mill**
@@ -120,6 +124,7 @@ In September 2021, historic timbers were uncovered at a construction site in Aic
 In addition to small finds such as paddles, vessels and tools, numerous construction timbers were found, many still in situ. For the first time, an intact mill pond, including dam, filter system and mill channel, could be excavated. In this case the wood species composition is exciting, since a large part of the construction timbers consisted of alder and beech. Only heavily used structures like the sluice gate or the substructures of the mill building were made of oak. The investigations have not yet been completed. First measurements date to the 8th and 9th centuries AD. A heavy flood event ended milling at this site.
 
 A comprehensive archaeological evaluation is planned, including age structures and wood species composition. However, the sheer mass of the timbers would offer many more starting points for statistical analyses on early medieval forest structures and wood species selection, to name a few. Since there are no resources available at BLfD for research of this kind, I hope that the presentation of the project to expert circles will provide helpful comments and possibly lead to further research.
+
 
 ## S2-O-009 {.unnumbered}
 

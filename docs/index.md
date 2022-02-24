@@ -4,7 +4,7 @@ author:
 - Kristof Haneca
 - Aoife Daly
 - Marta Domínguez-Delmás
-date: "21 februari, 2022"
+date: "24 februari, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 url: hanecakr.github.io/forests2heritage

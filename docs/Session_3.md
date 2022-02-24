@@ -2,6 +2,21 @@
 
 ## S3-O-001 {.unnumbered}
 
+**Dating Northern-Netherlands cabinets from the late 17th century**
+
+Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,\ 2^
+
+*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+
+<p.van.duin@rijksmuseum.nl>
+
+Over the last 30 years, a great number of pieces of furniture from the Rijksmuseum collection (Amsterdam, The Netherlands) have been dated by dendrochronology. Furniture from the Northern Netherlands was seldom dated by the maker, and never signed, and few documents have survived that could indicate who made it and when. A very popular type of cabinet around the 1700s was a cabinet on a stand, with large flat surfaces decorated with marquetry with flowers and/or geometrical patterns. An ongoing project aims to identify groups of cabinets that were produced by a same maker, based on similarities in the construction and decorative features, and on dendrochronological dates and groupings of the oak (Quercus sp.) components.
+
+Here, we will present the process followed to date the cabinets, from the selection of components to be analysed to the interpretation of the dendrochronological results. A selection of 15 pieces includes the first cabinet ever dated by dendrochronology in the Rijksmuseum, the dolls' house of Petronella Oortman, as well as furniture by Jan van Mekeren with intricate marquetry depicting large bouquets of flowers. Dating furniture differs from dating panel paintings or sculptures, as a cabinet on average consists of 50 to 100 wooden components. In many of those components the end grain is not accessible, or partial dismantling is needed to access it, hence conscious choices must be made. The dates and provenance of the wood have been compared to previously existing art-historical dates, to assess the added value of dendrochronological dating and the contribution of this science to understanding developments in cabinetmaking.
+
+
+## S3-O-002 {.unnumbered}
+
 **Musical string instruments: Tree-ring dating and provenancing to verify their authenticity**
 
 Paolo Cherubini^1,\ 2^, Bruce Carlson^3^, Wolfgang Talirz^4^, Malcolm H. Wiener^5^
@@ -12,23 +27,8 @@ Paolo Cherubini^1,\ 2^, Bruce Carlson^3^, Wolfgang Talirz^4^, Malcolm H. Wiener^
 
 The prime factor which affects the market value of a work of art is its authenticity. String instruments are among the most valued works of art, particularly those made by the old violinmaking masters of northern Italy in the late 17th and early 18th centuries. Their authenticity is difficult to be verified on the basis of style and design alone, as these were often copied or forged. The only analysis that can objectively indicate, if not the exact year an instrument was made, at least the date before which it certainly was not made is a dendrochronological analysis of the wood used to make the instrument. We will review the dendrochronological studies done to assess the authenticity of the instruments made by the old Italian masters, bringing the example of the controversial dating of the famous violin
 
-\"The Messiah\" attributed to Antonio Stradivari. Such studies help to establish the earliest date the tree from which the wood was taken could have been felled, and to determine the source region of the wood. We will present the main achievements and challenges that have arisen in the past 50 years, and discuss the limitations and potential of using dendrochronological methods to establish the provenance and time period in which an instrument was made. Finally, we will describe needs of research in history, wood anatomy, biochemistry and dendrochronology, proposing some new methods that may open up new avenues of research and aid in the assessment of the authenticity of old string instruments
+\"The Messiah\" attributed to Antonio Stradivari. Such studies help to establish the earliest date the tree from which the wood was taken could have been felled, and to determine the source region of the wood. We will present the main achievements and challenges that have arisen in the past 50 years, and discuss the limitations and potential of using dendrochronological methods to establish the provenance and time period in which an instrument was made. Finally, we will describe needs of research in history, wood anatomy, biochemistry and dendrochronology, proposing some new methods that may open up new avenues of research and aid in the assessment of the authenticity of old string instruments.
 
-## S3-O-002 {.unnumbered}
-
-**Three altarpieces attributed to the Borman dynasty studied by dendrochronology**
-
-Pascale Fraiture^1^, Christophe Maggi^1^, Lisa Schindo^1,\ 2^
-
-*^1^ Laboratories department (Dendrochronology Lab), Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^2^ ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
-
-<pascale.fraiture@kikirpa.be>
-
-Since 2010, the Dendrochronological Laboratory of the KIK-IRPA have had the opportunity to study three sculpted altarpieces attributed to the Borman dynasty.
-
-The first was the Altarpiece of the Coronation of the Virgin of the church of the Assumption in Errenteria (ES), analyzed during its conservation-restoration treatment by Albayalde S.L. (Donostia-San Sebastián). It is dated by a painted inscription 1528. The second is the Saint Denis Altarpiece of the Collegial church of St-Denis in Liège (BE), attributed around 1520-1530, which was the object of an interdisciplinary study and conservation-restoration treatment at the KIK-IRPA in 2012-2014. The third is the Saint George Altarpiece now conserved at the Royal Museums of Art and History, Brussels (BE), which contains a sculpted date 1493, also analyzed in the frame of its study and treatment at the KIK-IRPA between 2018 and 2021.
-
-For all of them, the dendrochronological analysis during a conservation-restoration treatment allowed the study of sculpted elements as well as elements from boxes and architectural decoration. Next to tree-ring dating issues, this presentation would enlighten the supplying conditions for wood, that is, the geographical provenance of the oak and the quality selection of the trees used for the different parts of the altarpieces, as well as the woodworking techniques and the know-how of the craftsmen who produced these works. Comparisons of the observations done on the three ensembles, which have different genesis and materiel history, will also be discussed, as they reveal important differences even though they come from the same workshop.
 
 ## S3-O-003 {.unnumbered}
 
@@ -88,19 +88,23 @@ Despite the great number of half models in the Rijksmuseum collection, little is
 
 A reconstruction of a half model was made to understand the construction sequence. Visual inspection and tool traces recording were used to study the construction process, and dendrochronological research was used to date the models and establish their potential production shipyard. By clustering the models according to stylistic features, materials and tool traces, as well as dendrochronological data, we have been able to attribute groups of them to specific shipyards and to connect some of them to actual ships. This paper shares the preliminary results of this fascinating research.
 
+
 ## S3-O-007 {.unnumbered}
 
-**Dating Northern-Netherlands cabinets from the late 17th century**
+**Three altarpieces attributed to the Borman dynasty studied by dendrochronology**
 
-Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,\ 2^
+Pascale Fraiture^1^, Christophe Maggi^1^, Lisa Schindo^1,\ 2^
 
-*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+*^1^ Laboratories department (Dendrochronology Lab), Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^2^ ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
 
-<p.van.duin@rijksmuseum.nl>
+<pascale.fraiture@kikirpa.be>
 
-Over the last 30 years, a great number of pieces of furniture from the Rijksmuseum collection (Amsterdam, The Netherlands) have been dated by dendrochronology. Furniture from the Northern Netherlands was seldom dated by the maker, and never signed, and few documents have survived that could indicate who made it and when. A very popular type of cabinet around the 1700s was a cabinet on a stand, with large flat surfaces decorated with marquetry with flowers and/or geometrical patterns. An ongoing project aims to identify groups of cabinets that were produced by a same maker, based on similarities in the construction and decorative features, and on dendrochronological dates and groupings of the oak (Quercus sp.) components.
+Since 2010, the Dendrochronological Laboratory of the KIK-IRPA have had the opportunity to study three sculpted altarpieces attributed to the Borman dynasty.
 
-Here, we will present the process followed to date the cabinets, from the selection of components to be analysed to the interpretation of the dendrochronological results. A selection of 15 pieces includes the first cabinet ever dated by dendrochronology in the Rijksmuseum, the dolls' house of Petronella Oortman, as well as furniture by Jan van Mekeren with intricate marquetry depicting large bouquets of flowers. Dating furniture differs from dating panel paintings or sculptures, as a cabinet on average consists of 50 to 100 wooden components. In many of those components the end grain is not accessible, or partial dismantling is needed to access it, hence conscious choices must be made. The dates and provenance of the wood have been compared to previously existing art-historical dates, to assess the added value of dendrochronological dating and the contribution of this science to understanding developments in cabinetmaking.
+The first was the Altarpiece of the Coronation of the Virgin of the church of the Assumption in Errenteria (ES), analyzed during its conservation-restoration treatment by Albayalde S.L. (Donostia-San Sebastián). It is dated by a painted inscription 1528. The second is the Saint Denis Altarpiece of the Collegial church of St-Denis in Liège (BE), attributed around 1520-1530, which was the object of an interdisciplinary study and conservation-restoration treatment at the KIK-IRPA in 2012-2014. The third is the Saint George Altarpiece now conserved at the Royal Museums of Art and History, Brussels (BE), which contains a sculpted date 1493, also analyzed in the frame of its study and treatment at the KIK-IRPA between 2018 and 2021.
+
+For all of them, the dendrochronological analysis during a conservation-restoration treatment allowed the study of sculpted elements as well as elements from boxes and architectural decoration. Next to tree-ring dating issues, this presentation would enlighten the supplying conditions for wood, that is, the geographical provenance of the oak and the quality selection of the trees used for the different parts of the altarpieces, as well as the woodworking techniques and the know-how of the craftsmen who produced these works. Comparisons of the observations done on the three ensembles, which have different genesis and materiel history, will also be discussed, as they reveal important differences even though they come from the same workshop.
+
 
 ## S3-O-008 {.unnumbered}
 
@@ -117,6 +121,7 @@ The marking and branding of oak painting supports is a well-known practice in An
 This paper presents a panel maker who sold his products to painters within the Dutch Republic. He stamped his house mark in the back of the panels: two letters 'M' above each other and crowned by the cipher '4'. This mark has been found in panels from several painters active between 1632 and 1648.
 
 To narrow down the location of the unknown panel maker's workshop, we investigate his source of timber and the eventual interrelationships between the planks used for one or more panels. In addition, we study the painters who painted on his supports. As such, this paper for the first time presents a thorough dendrochronological examination of seven of his 15 known panels combined with art historical research into the works of his customers. Based on the provenance of the wood of the panels, the painters who used them and the supply of timber to the Dutch Republic in the second half of the 17th century, we propose that the location of the panel maker's activities points to a workshop in Dordrecht. This first interdisciplinary attempt to unravel an unknown Dutch panel maker and his practice increases our understanding of panel maker's practices in the 17th century. Further research into Dutch frame and panel makers and their regulations and practices is urgently needed to comprehend the complexity of the huge art market of the Netherlands in the seventeenth century.
+
 
 ## S3-P-001 {.unnumbered}
 
@@ -153,6 +158,7 @@ During the examination, a collection of wooden boxes inside the chest drew the a
 
 The combined dendrochronological, archaeobotanical and historical examination now demonstrates that this medieval chest was a privileged witness of the city\'s turbulent history.
 
+
 ## S3-P-003 {.unnumbered}
 
 **Preventive conservation of Egyptian wooden statues back to late period displayed at Egyptian textile museum**
@@ -165,6 +171,7 @@ Rasha Shaheen^1^, Asmaa Eltobgy^2^
 
 The Egyptian Textile Museum in Cairo houses many unique pieces of art, dating back to the Pharaonic times, and are prone to damage from climate change. This paper present preventive conservation of wooden statues to protect them from negative impact of climate change to keep the sustainability of these unique artifacts. It is a Statuette of an old man wearing an elaborate cloak over one shoulder that covers his body from neck to mid-calf (looks like Ka-aper statue). His shaven head resembles representations of Egyptian priests. This heavy type of garment also occurs on a relief dating to this period. Late Period, 30th Dynasty, 380 - 343 BC, Abusir, Giza. The piece suffer from the presence of calcified salts on the surface as a result of the bad displaying of the statue, due to the different coefficient of expansion and contraction between different materials. As well as, the wood from the materials absorb moisture from the surrounding environment, which led to the emergence of salts on the surface. The pieces were documented by the digital microscope. The pieces were cleaned mechanically by blower to remove dust and then use soft brushes. The pieces were placed in the humidification chamber to treat dehydration and salts removal. The pieces were consolidated with Paraloid. The pieces were display in especial a showcase for wooden pieces.
 
+
 ## S3-P-004 {.unnumbered}
 
 **Wooden artefacts from the castellum Velsen I, the Netherlands**
@@ -176,6 +183,7 @@ Silke Lange^1^
 <lange@biax.nl>
 
 During the excavations of the Roman fort Velsen in the 70s and 80s of the last century, a large amount of find material came to light. The fort which was located about 20 km northwest of Amsterdam, dates back to the Augustan/Tiberian period. Thanks to the waterlogged conditions, organic material was well preserved. Commissioned by the Cultural Heritage Agency of the Netherlands, the analysis of the wooden finds was carried out only recently and led to some amazing revelations. For example, the find assemblage includes kitchen utensils, writing tablets, tent pegs, footwear and furniture parts, but also a Centurion staff and a fragment of a pan flute were recognized. The study of the wooden objects has provided insight into the use of wood and woodworking, as well as an insight into the distribution of standardised and commissioned utensils throughout the Roman Empire.
+
 
 ## S3-P-005 {.unnumbered}
 
