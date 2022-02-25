@@ -12,11 +12,12 @@ library(kableExtra)
 opts <- options(knitr.kable.NA = "")
 
 
-prog <- read_xlsx("./ForHer22_PROGRAM.xlsx") %>%
+prog <- read_xlsx("./ForHer22_PROGRAM_alt.xlsx") %>%
   select(-7) %>%
   mutate(event = if_else(str_detect(event, "S1-|S2-|S3-|S4-|S5-|S6-|S7-"),
                          paste0("[", event, "](#", tolower(event), ")"),
-                         event))
+                         event)) %>% 
+  select(-session)
 
 ```
 
@@ -40,15 +41,16 @@ prog %>%
 ## Tuesday: 19 April 2022 {.unnumbered}
 
 ```{r, echo=FALSE}
-# prog %>% 
+# prog %>%
 #   filter(!is.na(day)) %>%
-#   filter(day == "Tuesday 19/4") %>% 
-#   select(-day) %>% 
+#   filter(day == "Tuesday 19/4") %>%
+#   select(-day) %>%
 #   kbl() %>%
-#   kable_paper("hover", full_width = T) %>% 
-#   column_spec(column = c(1,2), width = "100px") %>% 
-#   row_spec(row = c(1, 2, 3, 9, 16, 17, 25, 26, 31), background = "#D6EAF8") %>% 
-#   row_spec(row = c(8:12, 23), background = "#F2F2F2")
+#   kable_paper("hover", full_width = T) %>%
+#   column_spec(column = c(1,2), width = "100px") %>%
+#   row_spec(row = c(1:3, 8, 15:16, 23:24, 31, 37:38, 42), background = "#D6EAF8") %>%
+#   row_spec(row = c(9:14, 32:36), background = "#F2F2F2") %>% 
+#   row_spec(0, color = "#FFFFFF00")
 
 prog %>%
   filter(!is.na(day)) %>%
@@ -57,10 +59,9 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>%
   column_spec(column = c(1,2), width = "100px") %>%
-  row_spec(row = c(1:3, 8, 15:16, 23:24, 31, 37:38, 42), background = "#D6EAF8") %>%
-  row_spec(row = c(9:14, 32:36), background = "#F2F2F2") %>% 
+  row_spec(row = c(1:4, 10:11, 18:20, 27:28, 35:36, 42:43, 47), background = "#D6EAF8") %>%
+  row_spec(row = c(12:17, 37:41), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
-
 
 
 ```
@@ -69,6 +70,17 @@ prog %>%
 ## Wednesday: 20 April 2022 {.unnumbered}
 
 ```{r, echo=FALSE}
+# prog %>% 
+#   filter(!is.na(day)) %>%
+#   filter(day == "Wednesday 20/4") %>% 
+#   select(-day) %>% 
+#   kbl() %>%
+#   kable_paper("hover", full_width = T) %>% 
+#   column_spec(column = c(1,2), width = "100px") %>% 
+#   row_spec(row = c(1, 10, 16, 17, 24:25, 32), background = "#D6EAF8") %>% 
+#   row_spec(row = c(11:15), background = "#F2F2F2") %>% 
+#   row_spec(0, color = "#FFFFFF00")
+
 prog %>% 
   filter(!is.na(day)) %>%
   filter(day == "Wednesday 20/4") %>% 
@@ -76,8 +88,8 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1, 10, 16, 17, 24:25, 32), background = "#D6EAF8") %>% 
-  row_spec(row = c(11:15), background = "#F2F2F2") %>% 
+  row_spec(row = c(1:2, 11:12, 18:20, 27:28, 30:31, 37), background = "#D6EAF8") %>% 
+  row_spec(row = c(13:17), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
 
 ```
@@ -86,6 +98,18 @@ prog %>%
 ## Thursday: 21 April 2022 {.unnumbered}
 
 ```{r, echo=FALSE}
+# prog %>% 
+#   filter(!is.na(day)) %>%
+#   filter(day == "Thursday 21/4") %>%
+#   select(-day) %>% 
+#   kbl() %>%
+#   kable_paper("hover", full_width = T) %>% 
+#   column_spec(column = c(1,2), width = "100px") %>% 
+#   row_spec(row = c(1, 10, 15:16, 23:24, 31, 37:38, 41, 44), background = "#D6EAF8") %>% 
+#   row_spec(row = c(11:14, 32:36), background = "#F2F2F2") %>% 
+#   row_spec(0, color = "#FFFFFF00")
+
+
 prog %>% 
   filter(!is.na(day)) %>%
   filter(day == "Thursday 21/4") %>%
@@ -93,9 +117,8 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1, 10, 15:16, 23:24, 31, 37:38, 41, 44), background = "#D6EAF8") %>% 
-  row_spec(row = c(11:14, 32:36), background = "#F2F2F2") %>% 
+  row_spec(row = c(1:2, 10:11, 13:14, 18, 20:22, 29:30, 33:34, 39:40, 42, 47:48, 51, 54), background = "#D6EAF8") %>% 
+  row_spec(row = c(15:17, 19, 41, 43:46), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
-
 ```
 
