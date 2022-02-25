@@ -311,12 +311,6 @@
    <td style="text-align:left;"> A dendroarchaeological study of Roman-period river barges from the Lower Rhine region </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 16:00 - 16:15 </td>
-   <td style="text-align:left;width: 100px; ">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-  <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 19:30 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
