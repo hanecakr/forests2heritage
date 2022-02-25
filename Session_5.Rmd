@@ -217,6 +217,19 @@ Besides the more commonly encountered marks – signatures, monograms, master's 
 35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
 
 
+## S5-O-014 {.unnumbered}
+
+**Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees**
+
+Roberta D’Andrea^1^, Christophe Corona^2,\ 3^, Anne Poszwa^4^, Alan Crivellaro^5,\ 6,\ 7^, Christelle Belingard^1^, Fabien Cerbelaud^1^, Rémi Crouzevialle^1^, Guy Costa^8^, Sandrine Paradis-Grenouillet^1,\ 7^
+
+*^1^ Laboratoire de Géographie Physique et Environnementale, Université de Limoges, Limoges, France. ^2^  Laboratoire de Géographie Physique et Environnementale, Université Clermont Auvergne, Clermont-Ferrand, France. ^3^ French National Centre for Scientific Research – CNRS, France. ^4^ Laboratoire Interdisciplinaire des Environnements Continentaux, Université de Lorraine, Nancy, France. ^5^ Department of Geography, University of Cambridge, United Kingdom. ^6^ Forest Biometrics Laboratory, Faculty of Forestry, University of Suceava, Ukraine. ^7^ Éveha, Bureau d’étude archéologique, Limoges, France. ^8^ Laboratoire PEIRENE, Université de Limoges, Limoges, France.*
+
+<roberta.dandrea@etu.unilim.fr>
+
+A study focusing on timber-framed houses in Limoges (France) is currently being carried out to pinpoint the exact source areas of construction timbers, and consequently to understand how local forests were exploited and managed for housing needs between the 15th and the 19th century. To do so, four sub-regional reference chronologies are being created using living oak trees and old wooden structures of the French department Haute-Vienne. Following the example of several dendroprovenancing studies carried out in the last years, we developed a multi-proxy method which we expect to help locate the origin of timber with more precision. This method includes wood anatomical variables, stable strontium isotopes (^87^Sr/^86^Sr) signatures and DNA and it is tested for the first time at such a small geographic scale. Before conducting these analyses on archaeological timber, we used the living oak trees included in the four sub-regional chronologies to test the potential of each parameter. We present the results of the quantitative wood anatomical (QWA) study and the preliminary results of the isotopic analyses. As regards the QWA study, time series of anatomical variables have been produced, and the principal component gradient analysis (PCGA) approach (Buras *et al.* 2016) has been used to cluster the series based on ecological gradients. Moreover, stable strontium isotopes ratios have been measured in a subsample from each site. The results show that combining TRW with vessel-related variables and ^87^Sr/^86^Sr ratios allows to assign trees to their origin more efficiently than using TRW alone.
+
+
 ## S5-P-001 {.unnumbered}
 
 **Dendro @ the graveyard. Wood and tree-ring analysis on medieval coffins from Ypres, Belgium (c. 1200 -- 1400 CE)**

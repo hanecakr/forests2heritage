@@ -24,20 +24,8 @@ Fusa Miyake^1^
 
 Tree rings record past extreme solar bursts as radiocarbon spikes. Thus far, several radiocarbon spikes have been reported, such as the 774 CE, 993 CE, and \~660 BCE events. Such signatures of extreme solar bursts are not only important for solar physics research, but also useful for accurate dating. In this presentation, I will introduce the detected radiocarbon spikes and a further exploration efforts of past radiocarbon spikes.
 
+
 ## S6-O-003 {.unnumbered}
-
-**Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees**
-
-Roberta D’Andrea^1^, Christophe Corona^2,\ 3^, Anne Poszwa^4^, Alan Crivellaro^5,\ 6,\ 7^, Christelle Belingard^1^, Fabien Cerbelaud^1^, Rémi Crouzevialle^1^, Guy Costa^8^, Sandrine Paradis-Grenouillet^1,\ 7^
-
-*^1^ Laboratoire de Géographie Physique et Environnementale, Université de Limoges, Limoges, France. ^2^  Laboratoire de Géographie Physique et Environnementale, Université Clermont Auvergne, Clermont-Ferrand, France. ^3^ French National Centre for Scientific Research – CNRS, France. ^4^ Laboratoire Interdisciplinaire des Environnements Continentaux, Université de Lorraine, Nancy, France. ^5^ Department of Geography, University of Cambridge, United Kingdom. ^6^ Forest Biometrics Laboratory, Faculty of Forestry, University of Suceava, Ukraine. ^7^ Éveha, Bureau d’étude archéologique, Limoges, France. ^8^ Laboratoire PEIRENE, Université de Limoges, Limoges, France.*
-
-<roberta.dandrea@etu.unilim.fr>
-
-A study focusing on timber-framed houses in Limoges (France) is currently being carried out to pinpoint the exact source areas of construction timbers, and consequently to understand how local forests were exploited and managed for housing needs between the 15th and the 19th century. To do so, four sub-regional reference chronologies are being created using living oak trees and old wooden structures of the French department Haute-Vienne. Following the example of several dendroprovenancing studies carried out in the last years, we developed a multi-proxy method which we expect to help locate the origin of timber with more precision. This method includes wood anatomical variables, stable strontium isotopes (^87^Sr/^86^Sr) signatures and DNA and it is tested for the first time at such a small geographic scale. Before conducting these analyses on archaeological timber, we used the living oak trees included in the four sub-regional chronologies to test the potential of each parameter. We present the results of the quantitative wood anatomical (QWA) study and the preliminary results of the isotopic analyses. As regards the QWA study, time series of anatomical variables have been produced, and the principal component gradient analysis (PCGA) approach (Buras *et al.* 2016) has been used to cluster the series based on ecological gradients. Moreover, stable strontium isotopes ratios have been measured in a subsample from each site. The results show that combining TRW with vessel-related variables and ^87^Sr/^86^Sr ratios allows to assign trees to their origin more efficiently than using TRW alone.
-
-
-## S6-O-004 {.unnumbered}
 
 **Advancing Elm dendrochronology in the United Kingdom**
 
@@ -58,7 +46,7 @@ Early application of stable isotope dendrochronology to samples of elm indicate 
 Bridge, M. 2020. *Vernacular Architecture* 51 (1) DOI: <https://doi.org/10.1080/03055477.2020.1794245>.
 
 
-## S6-O-005 {.unnumbered}
+## S6-O-004 {.unnumbered}
 
 **Fingerprinting the provenance of large wood in rivers**
 
@@ -81,7 +69,7 @@ Other tracers related to geology (i.e., minor and trace elements) will be analyz
 This method could be easily extrapolated to several application fields of dendroprovenance dealing with similar spatial scales
 
 
-## S6-O-006 {.unnumbered}
+## S6-O-005 {.unnumbered}
 
 **Oxygen Isotopes assist dating buildings in Sussex (UK)**
 
@@ -96,7 +84,7 @@ Oxygen isotope assisted dendrochronology is becoming a useful additional tool in
 Other examples from southern England have already provided dates not available through conventional ring width techniques, and species other than oak are also being assessed.
 
 
-## S6-O-007 {.unnumbered}
+## S6-O-006 {.unnumbered}
 
 **Exact dating of the first Europeans in the Americas**
 
@@ -109,7 +97,7 @@ Michael Dee^1^, Margot Kuitems^1^
 Dendrochronology is a precise dating technique, but it requires long sequences of tree rings and a master record for both the species and region in question. Groningen have been pioneering a new approach to dating that combines the precision of dendrochronology with the versatility of radiocarbon dating. It is based on spikes in the annual radiocarbon record, thought to be caused by enormous solar storms. Several such spikes have already been found in archives of known-age wood. Thus by finding one in an archaeological sample, it becomes possible to date the item exactly. The method is applicable to many species and may only require a handful of growth rings. We recently used it to date the earliest evidence for Europeans in the Americas. Three samples were obtained from the Norse layers at L'Anse aux Meadows, Canada, all of which exhibited cut-marks made by metal blades, a material not manufactured by the local indigenous people. In each case, the 993 CE spike was found 28 rings from the waney edge, implying the trees were cut down in 1021 CE. Here, the likelihood of driftwood can almost be completely discounted, given the objectives of the Norse, and the diminutive probability of obtaining three samples with the same final growth year. However, 1021 CE does not necessarily represent the first or last year of Norse presence, only one specific year in which they were active on the continent. It is expected this method will allow many other chronological questions to be resolved.
 
 
-## S6-O-008 {.unnumbered}
+## S6-O-007 {.unnumbered}
 
 **The potential of tree-ring drought atlases for dating and provenancing archaeological timbers**
 
@@ -120,7 +108,7 @@ Mukund Palat Rao^1,\ 2,\ 3^, Marta Domínguez-Delmás^4^, Edward R. Cook^3^
 Humans have relied on wooden timber material for the construction of buildings, trade, ships, artifacts, and works of art for many millennia. Using dendrochronological methods, it is often possible to develop to build internally cross-dated but undated 'floating' tree-ring chronologies using this historic wooden material. However, the dynamic nature of human mobility and long-distance transport of timber can often make it difficult to accurately date and provenance wooden material. Accurate dating of historical timbers can be challenging due to matches with multiple reference chronologies for different dates, while the provenance of timbers can sometimes be difficult to determine due to wide species distribution ranges that allow for multiple sourcing locations. Here we will showcase the potential of the tree-ring drought atlas network as a novel tool to date and provenance historical timbers. Case studies will include determining the provenance of multiple Scandinavian pines and oaks timbers and Baltic oak timbers used in Spanish church alterpieces. Our results suggests that tree-ring drought atlases can be a powerful tool for dendroarchaeology to both date and provenance wooden material particularly when it is possible to build a robust chronology using multiple historical timbers at a site.
 
 
-## S6-O-009 {.unnumbered}
+## S6-O-008 {.unnumbered}
 
 **Genetic analysis of „The Bed of Roses"**
 
@@ -137,7 +125,7 @@ With more expert reports of other scientists (as radiocarbon analysis, another d
 Using this example, we will explain the use of genetic methods to identify species and origin of wood samples for a broad range of applicabilities. And, of course, we will tell something more about the „Bed of Roses".
 
 
-## S6-O-010 {.unnumbered}
+## S6-O-009 {.unnumbered}
 
 **Multi-proxy provenance studies of carbonized wood: elemental and isotopic signatures**
 
@@ -152,7 +140,7 @@ Wood chemical composition is expected to reflect the availability of nutrients i
 This experimental study focuses on the effects of carbonization temperature on oak wood elemental and isotopic signatures. Wood cores from different trees and stand locations were pyrolyzed at five temperatures up to 800 °C, their trace elemental content was measured with XRF and ICP-QMS, while their strontium and neodymium isotope composition was determined by MC-ICP-MS. The concentration of trace elements generally increases with temperature, which improves the discrimination of woods of different origins. However, the magnitude of the enrichment depends on the element, the wood component (sapwood vs. heartwood) and the geological substrate. Rubidium, strontium, manganese, magnesium, potassium and to a lesser extent calcium and phosphorus were identified as non-volatile elements. Ratios between the concentrations of these elements and 86Sr/87Sr ratios were stable over the whole temperature range, both in sapwood and heartwood, although intra-individual variance increased with temperature. Our multi-tracer approach therefore brings promising new information to determine the provenance of charred archaeological woods. Its potential will be tested for the first time on burnt timber of the Notre-Dame cathedral, as part of ongoing restoration and research projects.
 
 
-## S6-O-011 {.unnumbered}
+## S6-O-010 {.unnumbered}
 
 **Reconstruction of forest development in the medieval ore mountains using wood density of mining timber**
 

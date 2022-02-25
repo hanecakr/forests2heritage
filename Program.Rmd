@@ -12,7 +12,7 @@ library(kableExtra)
 opts <- options(knitr.kable.NA = "")
 
 
-prog <- read_xlsx("./ForHer22_PROGRAM_alt.xlsx") %>%
+prog <- read_xlsx("./ForHer22_PROGRAM.xlsx") %>%
   select(-7) %>%
   mutate(event = if_else(str_detect(event, "S1-|S2-|S3-|S4-|S5-|S6-|S7-"),
                          paste0("[", event, "](#", tolower(event), ")"),
@@ -88,7 +88,7 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1:2, 11:12, 18:20, 27:28, 30:31, 37), background = "#D6EAF8") %>% 
+  row_spec(row = c(1:2, 11:12, 18:20, 28:29, 30, 36), background = "#D6EAF8") %>% 
   row_spec(row = c(13:17), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
 
@@ -117,8 +117,8 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1:2, 10:11, 13:14, 18, 20:22, 29:30, 33:34, 39:40, 42, 47:48, 51, 54), background = "#D6EAF8") %>% 
-  row_spec(row = c(15:17, 19, 41, 43:46), background = "#F2F2F2") %>% 
+  row_spec(row = c(1:2, 11:12, 16, 18:20, 27:28, 31:32, 37:38, 40, 45:46, 49, 52), background = "#D6EAF8") %>% 
+  row_spec(row = c(13:15, 17, 39, 41:44), background = "#F2F2F2") %>% 
   row_spec(0, color = "#FFFFFF00")
 ```
 
