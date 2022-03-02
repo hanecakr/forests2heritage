@@ -830,15 +830,15 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 16:15 - 16:45 </td>
-   <td style="text-align:left;width: 100px; "> Discussion </td>
+   <td style="text-align:left;width: 100px; ">  </td>
    <td style="text-align:left;"> All </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Discussion </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 16:45 - 17:00 </td>
-   <td style="text-align:left;width: 100px; "> Clossing words </td>
+   <td style="text-align:left;width: 100px; ">  </td>
    <td style="text-align:left;"> Marta, Aoife &amp; Kristof </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Clossing words </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 19:00 - … </td>
