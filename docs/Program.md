@@ -574,7 +574,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Anne Crone) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: tba) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 8:30 - 8:45 </td>
