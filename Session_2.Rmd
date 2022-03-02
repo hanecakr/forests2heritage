@@ -98,19 +98,6 @@ Moreover, the type of clinker construction was unusual and not of the 'typical' 
 
 ## S2-O-007 {.unnumbered}
 
-**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
-
-Ignacio A. Mundo^1,\ 2^
-
-^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
-
-[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
-
-Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
-
-
-## S2-O-008 {.unnumbered}
-
 **How a broken wooden board uncovered an early medieval mill**
 
 Julia Weidemüller^1^, Franz Herzig^1^, Leander Schmidt^1^, Jeremy Collacott^1^
@@ -126,7 +113,7 @@ In addition to small finds such as paddles, vessels and tools, numerous construc
 A comprehensive archaeological evaluation is planned, including age structures and wood species composition. However, the sheer mass of the timbers would offer many more starting points for statistical analyses on early medieval forest structures and wood species selection, to name a few. Since there are no resources available at BLfD for research of this kind, I hope that the presentation of the project to expert circles will provide helpful comments and possibly lead to further research.
 
 
-## S2-O-009 {.unnumbered}
+## S2-O-008 {.unnumbered}
 
 **A dendroarchaeological study of Roman-period river barges from the Lower Rhine region**
 
@@ -139,6 +126,19 @@ Yardeni Vorst^1^
 In 2003, a river barge dating to the Roman period was found in a former riverbed of the Rhine in the western part of the Netherlands. The ship, named ‘Woerden 7’, formed a new discovery in a long series of Roman-period ship finds in Lower Rhine region since the late 1960’s. In particular, large flat-bottomed river barges had been found. Many of these vessels were excavated and some were conserved, such as the The Zwammerdam ships, found in the village of Zwammerdam in the 1970’s.
 
 For an ongoing research project the Zwammerdam ships have been re-examined using more modern techniques. A comparison between ship Zwammerdam no. 6 and the earlier mentioned Woerden 7 vessel shows that the ships resemble each other closely in construction. Apart from a study of the ships’ constructions a dendroarchaeological study of the timbers has been undertaken. Dendrochronology has been used to date the ships and to determine which timbers were obtained from the same trees. This has helped to trace original building sequences and has allowed for new ideas on the shipbuilding processes. Identifying the source area of trees used in this Roman-period shipbuilding will be a subject presented in a poster together with Ronald Visser. The Zwammerdam vessels are currently being reconstructed at an archaeological park (Archeon) in the South of Holland and the research information gathered will contribute to stories on their historical background.
+
+
+## S2-PR-001 {.unnumbered}
+
+**Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials**
+
+Ignacio A. Mundo^1,\ 2^
+
+^*1*^ *Laboratorio de Dendrocronología e Historia Ambiental, IANIGLA/CONICET, Mendoza, Argentina. ^2^ Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Mendoza, Argentina.*
+
+[iamundo\@mendoza-conicet.gob.ar](mailto:iamundo@mendoza-conicet.gob.ar){.email}
+
+Wood anatomy or xylogeny allows the botanical identification of woody material based on the recognition and quantification of various wooden traits. In the case of archaeology, and in particular for nautical archaeology, the wood anatomy provides information on the possible origin of nautical structures based on the range of distribution of woody plants, allows the association between the function fulfilled by a piece within a vessel and the mechanical properties of the wood, and it also helps to evaluate aspects related to the availability of timber and the building technology of a shipwreck, among others. In a nautical archaeological sense, dendrochronology analyses the information recorded in tree rings of timbers, which allows the dating of woody materials used in ship building, as well as estimating their possible origin (i.e. dendroprovenancing). In this context, the interdisciplinary work between these three disciplines (xylogeny, dendrochronology and nautical archaeology) has only recently been applied in Argentina, despite the existence of a large number of woody nautical remains on the extensive Atlantic coast of this country. Through the analysis of different case studies carried out in the last years, this presentation aims to present and discuss the scope and limitations of the wood anatomy analyses in underwater archaeological studies in Argentina as well as to emphasize the dendroarchaeological potential of some of the materials found. The characteristics of the materials analysed in each case will be summarised, highlighting the limitations encountered and the potentialities for future studies.
 
 
 ## S2-P-001 {.unnumbered}

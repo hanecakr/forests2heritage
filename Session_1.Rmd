@@ -93,7 +93,7 @@ The wood used in built heritage is an unprecedented physical source for research
 The results of dendrochronological research in Leiden provide insight into the dating of the buildings, the origin of the construction timber, transport and trade and other aspects. The dates range from the beginning of the 14th century to the end of the 18th century. It has become clear that first oak wood imported from Germany was used, but that later the oak came from further away. Around 1600 the transition from oak to pine is unmistakable, supplied from areas around the Baltic Sea. Exact dates also provide insight into which season was felled and also in the period between logging and fabrication. In this way, dendrochronological research contributes substantially to the knowledge about our past.
 
 
-## S1-O-006 {.unnumbered}
+## S1-PR-001 {.unnumbered}
 
 **A 2ka-long tree-ring chronology for hinoki cypress from central Japan and its dendroarchaeological application**
 
@@ -106,7 +106,19 @@ Motonari Ohyama^1^, Hitoshi Yonenobu^2^, Shinya Suzuki^3^, Yasuharu Hoshino^4^
 We present a 2ka-long ring-width chronology of hinoki cypress and its application for wooden cultural properties. Hinoki cypress is dendrochronologically the most critical species in Japan because it has been extensively used for important cultural properties. We collected samples from old-growth living and buried trees as well as from wooden cultural properties located at temples and archaeological sites in central Japan. They built up a ring-width chronology for each site, and these chronologies were then successfully crossdated to compose a single 2ka-long chronology for the period of 156 BCE to 2001 CE. Because ring-width chronologies of cypress from central Japan are known to be crossdatable with others from large adjacent areas of the country, the new data will be useful in building chronologies for other parts of Japan. Using this chronology, we also present dating results of timbers from a building of Chiko-ji temple in central Japan, which was built in the late 13th and/or early 14th century.
 
 
-## S1-O-007 {.unnumbered}
+## S1-PR-002 {.unnumbered}
+
+**Worked timber, protective symbols by craftsmen from the 16th and 17th centuries, and some reasons for their application**
+
+Timothy Easton
+
+<timothyeaston@fast-mail.net>
+
+Timber components in houses from the southern part of Britain are frequently found to have had distinctive marks scribed on their visible surfaces by carpenters. During the last 50 years, the author has been collating these symbols to show how the simplest forms from the early 16th century developed into more complex arrangements towards the later 17th century. By careful analysis he has shown when the earliest were added to chimney beams and this has led him to speculate the reasons that they were required to be put within the home. Although his study is mainly from South East England, the symbols collected from English ecclesiastical buildings and furnishings show their early origins from the first half of the 16th century. These furnishings with protective marks are not just from England but are also seen also on North European furniture.
+
+
+
+## S1-PR-003 {.unnumbered}
 
 **Roof constructions in Austria -- an overview**
 
@@ -139,6 +151,7 @@ Adomas Vitas^1^
 
 Oak timber in Lithuania was used in building constructions in Klaipėda oldtown and Vilnius Lower castle. The constructed oak chronologies for Klaipėda and Vilnius spans from the 13th to 16th centuries. However, it is not possible to identify the origins of the samples collected during the 1980s in Klaipėda because a book with records from this stage of the investigation was lost. In addition, oak is present in the standing buildings of the central part of Lithuania. Because of favourable soil conditions, to date, oak is more prevalent in the forests of central Lithuania than in other regions. In 2018--2019, oak timbers from altarpieces and construction elements of seven churches in central Lithuania were studied. In total, fifty-three oak samples were sampled, and 40 tree-ring series were dated. Although the timber from the 18th to 19th centuries predominates, the oldest samples were dated to 1526 and 1635. The samples from the 16th to 17th centuries were dated against Klaipėda and chronologies constructed from oak timber imported from Baltic lands to western Europe, such as Baltic1 and Baltic3. Finally, the newest material was dated using chronologies constructed from living oaks in Lithuania. As a result, the compiled oak chronology for Lithuania spans from 1659 to 2005.
 
+
 ## S1-P-002 {.unnumbered}
 
 **The oldest known roof construction in Ghent (Belgium) sheds new light on medieval building history**
@@ -158,6 +171,7 @@ In the city centre of Ghent, numerous roof constructions from the pre-industrial
 We here present an overview of all dendrochronologically analysed roof constructions in Ghent and add new data from an iconic monument: Saint-Nicolas' church. The roof of the nave now proves to be the oldest preserved in the city and wider region, with a felling date for the timbers between 1220 and 1224 CE. The roof above the choir was erected a decade later, with a felling date for the timbers between 1231 and 1240 CE.
 
 These new results and the wider dataset for the Ghent region now allow to develop a typology for (late)medieval roof constructions and a better understanding of the procurement, trade and transport of building timber, from the early 13th century up to the beginning of the Early Modern era.
+
 
 ## S1-P-003 {.unnumbered}
 

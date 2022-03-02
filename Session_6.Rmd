@@ -1,172 +1,149 @@
-# Session 6: Novel methods for dating and provenance analysis {.unnumbered}
+# Session 6: Non-invasive techniques for the study of wooden cultural heritage {.unnumbered}
 
 ## S6-O-001 {.unnumbered}
- 
-**Isotope dendrochronology in New Zealand**
 
-Gretel Boswijk^1^, Neil Loader^2^, Giles Young^2,\ 3^, Alan Hogg^4^
+**Tailoring X-ray imaging techniques for dendrochronology of large wooden objects**
 
-*^1^ School of Environment Te Kura Taiao, University of Auckland Waipapa Taumata Rau, New Zeeland. ^2^ Department of Geography, Swansea University Prifysgol Abertawe, Wales. ^3^ Natural Resources Finland (LUKE), Helsinki, Norway. ^4^ Te Aka Mātuatua School of Science, University of Waikato Te Whare Wānanga o Waikato, New Zeeland.*
+Francien G. Bossema^1,\ 2^, Marta Domínguez-Delmás^2,\ 3^, Willem Jan Palenstijn^1^, Alexander Kostenko^1^, Jan Dorscheid^2^, Sophia Bethany Coban^1^, Erma Hermens^2,\ 3^, K. Joost Batenburg^1,\ 4^
 
-<g.boswijk@auckland.ac.nz>
+^*1*^ *Computational Imaging, Centrum Wiskunde & Informatica, Amsterdam, the Netherlands. ^2^ Conservation and Science department, Rijksmuseum, Amsterdam, the Netherlands. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands. ^4^ Leiden Institute of Advanced Computer Science, Leiden University, Leiden, the Netherlands.*
 
-Ring-width dendrochronology has enabled the development of precise chronology in Aotearoa New Zealand. Whilst much of this work has focussed on kauri (*Agathis australis*) from the upper North Island, other species such as matai (*Prumnopitys taxifolia*), miro (*P. ferruginea*), and totara (*Podocarpus totara*) are also present in the environment as living trees, as conserved artefacts (taonga), or in the archaeological record. Unfortunately, inter-species dating using existing kauri chronologies has so far proved unsuccessful, so the development of well-replicated tree-ring chronologies for these species, which are also long-lived and have national coverage would represent an important step in understanding the socio-cultural and environmental histories of these islands. Despite the optimism of early researchers, recent analysis of ring-width variability in matai and miro has shown these species to be very challenging for ring-width dendrochronology. Analysis of the chemical (stable isotope) composition of tree-rings may however provide an alternative approach to support chronology building and precision dating for these species. This paper presents initial proof-of-concept for the further investigation and development of isotope dendrochronology in New Zealand.
+[bossema\@cwi.nl](mailto:bossema@cwi.nl){.email}
+
+Tree rings are not always accessible on the outside of objects and thus X-ray computed tomography (CT) has been applied to visualise the tree rings in a non-invasive way for dendrochronological purposes. For large objects such as chests or cabinets, it is often impossible or impractical to rotate fully within the scanner as is necessary for CT. As a solution to this challenge, we developed a line trajectory X-ray tomography technique, in which the object is moved only sideways. This method, although not yielding a full 3D image, is particularly well suited to reveal tree rings. Using this easily implementable scanning trajectory, sharp reconstruction images of the tree rings can be obtained and used for dendrochronological measurements. This result is of importance to the fields of both imaging and dendrochronology and opens up a wide variety of objects of which the internal tree ring pattern can now be investigated using X-ray imaging.
+
 
 ## S6-O-002 {.unnumbered}
 
-**Solar bursts recorded in tree rings**
+**Old and new, large and small: Non-invasive techniques applied to a musical instrument**
 
-Fusa Miyake^1^
+Tamar Hestrin-Grader^1,\ 2,\ 3^, Manu Frederickx^1,\ 4,\ 5^, Marta Domínguez-Delmás^6^, Wolfgang Gard^7^, Ellen Meijvogel-de Koning^8^, Jan Willem van de Kuilen^7^, Francien Bossema^9^, Tristan van Leeuwen^9^, Paul van Duin^10^, Jan Dorscheid^10^, Tirza Mol^10^, Giovanni Paolo di Stefano^11^
 
-*^1^ Institute for Space-Earth Environmental Research, Nagoya University, Nagoya, Japan.*
+^*1*^ *KASK & Conservatorium (HOGENT-Howest), Ghent, Belgium. ^2^ Rijksmuseum, Amsterdam, the Netherlands. ^3^ Academy of Creative and Performing Arts, Universiteit Leiden, the Netherlands. ^4^ Objects Conservation, Metropolitan Museum of Art, New York, USA. ^5^ Department of Art, Music and Theatre Sciences, Faculty of Arts and Philosophy, University Ghent, Belgium. ^6^ Institute of Art History, Faculty of Humanities, University of Amsterdam, the Netherlands. ^7^ Biobased Structures and Materials, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^8^ Laboratory of Geoscience and Engineering, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^9^ Computational Imaging, Centrum Wiskunde & Informatica (CWI), Amsterdam, the Netherlands. ^10^ Furniture Conservation, Rijksmuseum Amsterdam, the Netherlands. ^11^ Musical Instruments, Rijksmuseum Amsterdam, the Netherlands.*
 
-<fmiyake@isee.nagoya-u.ac.jp>
+[manu.frederickx\@metmuseum.org](mailto:manu.frederickx@metmuseum.org){.email} - [tamarhestringrader\@gmail.com](mailto:tamarhestringrader@gmail.com){.email}
 
-Tree rings record past extreme solar bursts as radiocarbon spikes. Thus far, several radiocarbon spikes have been reported, such as the 774 CE, 993 CE, and \~660 BCE events. Such signatures of extreme solar bursts are not only important for solar physics research, but also useful for accurate dating. In this presentation, I will introduce the detected radiocarbon spikes and a further exploration efforts of past radiocarbon spikes.
+Complex wooden objects of cultural heritage such as musical instruments present many challenges to the researcher. Particularly keyboard instruments may contain half a dozen different species of wood (some readily identifiable microscopically, others not) from multiple different provenances, many moving parts, overlapping traces of both the tools used during construction and the wear from use, and a variety of physical challenges to the process of examination caused by such factors as the exterior being largely covered in decoration and the interior largely enclosed or difficult to access. This presentation gives an overview of the non-invasive techniques used so far to study the wooden components of one musical instrument: a virginal built in 1640, attributed to Ioannes Ruckers, a member of one of the most important and influential families of plucked keyboard instrument builders in the 17th century. The techniques include microscopy, endoscopy, radiography, dendrochronology and dendroprovenancing, CT scanning, and micro-CT scanning. The authors hope to demonstrate the importance of both simple and well-established techniques as well as the possibilities opened up by more advanced techniques, in the study of wooden musical instruments.
 
 
 ## S6-O-003 {.unnumbered}
 
-**Advancing Elm dendrochronology in the United Kingdom**
+**Micro- and sub-µ X-ray CT scanning of Congolese heritage objects for wood identification**
 
-Neil J. Loader^1^, Danny McCarroll^1^, Daniel Miles^2^, Martin Bridge^3^, Darren Davies^1^, Christopher Bronk Ramsey^2^, Cathy Tyers^4^
+Sofie Dierickx^1,\ 2^, Wannes Hubau^2,\ 3^, Hans Beeckman^3^, Siska Genbrugge^1^, Jan van den Bulcke^2,\ 4^
 
-*^1^ Department of Geography, Swansea University, Swansea, United Kingdom. ^2^ Department of Archaeology, University of Oxford, Oxford, United Kingdom. ^3^ Institute of Archaeology, University College London, London, United Kingdom. ^4^ Scientific Dating Team, Historic England, Swindon, United Kingdom.*
+^*1*^ *Collection management, Royal Museum for Central Africa, Tervuren, Belgium. ^2^ UGent-Woodlab, Laboratory of Wood Technology, Faculty of Bioscience Engineering, Ghent University, Gent, Belgium. ^3^ Wood Biology, Royal Museum for Central Africa, Tervuren, Belgium. ^4^ UGCT, UGent Center for X-ray Tomography (UGCT), Gent, Belgium.*
 
-<n.j.loader@Swansea.ac.uk>
+[sofie.dierickx\@africamuseum.be](mailto:sofie.dierickx@africamuseum.be){.email}
 
-The application of stable isotopes for dendrochronology provides additional possibilities for secure dating of historic timbers and wooden artefacts. This paper explores the wider application of the technique, initially developed for oak, to date elm (Ulmus spp). Elm is common in the UK historic buildings but it is challenging to date.
-
-In contrast to the many thousand oak tree-ring series dendrochronologically-dated over the last 40 years, Bridge (2020) reported only 4 instances of successful dating of elm in the UK. A subsequent survey of more than 70 buildings found that whilst elm site sequences could be derived, dendrochronological matches against oak reference chronologies were either not strong enough to be considered secure or shown to be unreliable by radiocarbon dating.
-
-These problems arise in the UK due to a lack of elm reference chronologies, an absence of long-lived extant trees and the tendency of elm to exhibit highly variable (disturbance) growth patterns. The result of these limitations is that elm often remains unsampled or fails to date. Consequently a large part of the UK historic buildings archive remains unexplored.
-
-Early application of stable isotope dendrochronology to samples of elm indicate that the strong common signal preserved in oak tree-ring stable isotopes can be used to securely date elm and may also provide an approach for developing ringwidth chronologies for this genus. New opportunities now exist to explore the chronology, distribution and use of elm in the UK.
-
-Bridge, M. 2020. *Vernacular Architecture* 51 (1) DOI: <https://doi.org/10.1080/03055477.2020.1794245>.
+Knowing the wood species of objects in a museum collection can not only add to the understanding of the objects, but also enable conservators to optimize preservation conditions, and can facilitate international travel of the objects conform the CITES guidelines. To date, the method for identifying African wood species remains an invasive one, permanently removing a part of the object to study its anatomical features microscopically. The TOCOWO project (Tomography of Congolese Wooden Objects) is a collaboration between the Royal Museum for Central Africa (RMCA) in Tervuren, and Ghent University. It aims to explore the potential of micro- and sub-µ X-ray CT as a non-destructive technique for wood species identification of museum objects. At the halfway point of this 2-year research, over 60 Congolese heritage objects have already been scanned, allowing some preliminary conclusions to be drawn about the challenges of scanning fragile and unique collection objects when striving for the optimal resolution for wood species identification. A case study of 3 scanned objects is presented to illustrate the protocol drafted in the framework of the project, detailing the experience of preparing the objects before scanning, acquiring the scans at the UGCT facilities and ultimately processing and analyzing the scans to result in a wood species identification.
 
 
 ## S6-O-004 {.unnumbered}
 
-**Fingerprinting the provenance of large wood in rivers**
+**Unveiling the hidden world of wood. Just how far can computerized tomography take us in the stuy of wooden carvings?**
 
-Javier del Hoyo^1^, Torsten Vennemann^1^, Marceline Vauridel^1^, Virginia Ruiz-Villanueva^1^
+Emilio Ruiz de Arcaute Martínez^1,\ 2^
 
-*^1^ University of Lausanne, Institute of Earth Surface Dynamics, Quartier Mouline, Lausanne, Switserland.*
+^*1*^ *Restoration Service, Diputación Foral de Álava, Vitoria, Spain. ^2^ Research Group HUM956 - Heritage Conservation: Methods and Techniques, University of Seville, Spain.*
 
-<Javier.delhoyo@unil.ch>
+[eruizdearcaute\@gmail.com](mailto:eruizdearcaute@gmail.com){.email}
 
-Methods to decipher wood origin have been developed for decades in many fields (e.g., dendroacheology, wood commercialization, oceanic driftwood). Still, inferring the origin of wood in rivers (i.e., instream large wood, LW) is frequently overlooked. LW's presence in fluvial ecosystems enhances its geomorphology and biodiversity but also increases potential risk during floods. Hence, knowledge about its source is essential for understanding LW dynamics and optimizing river and riparian forest management. This project aims at developing a fingerprinting technique to decipher LW origin in mid-size river catchments (i.e., 1000 -- 5000 km2).
+The study of the constructive technique of images carved in wood has developed into an essential tool to help determine their origin and authorship.
 
-Therefore, we tested stable isotopes coming from the water molecule: D/H and 18O/16O. They show spatial variations due to fractionation during evaporation-precipitation processes. A tree absorbs water and stores a specific isotopic signal in the cellulose associated with its location; consequently, this signal can be used to infer its provenance once recruited and transported through the river network.
+Radiography has traditionally been used as a non-invasive method to examine its structure and the state of conservation. Computerized tomography however allows for a far more exhaustive and exact analysis of its features and system of construction, especially when the structure is very complex having been made from the sum of numerous fragments of wood.
 
-We selected a 50 km reach of the Rhone river, between the Lake Geneva and the Genissiat dam, where all incoming wood is retained.
+In recent years this study technique has been used occasionally to obtain images for dendochronological dating, but its use is conditioned by the dimensions and complexity of the objects studied.
 
-Preliminary results revealed significant differences between the two main wood supply areas in the basin, the Arve and the Valserine tributaries; these differences were stronger in the most recent tree rings.
-
-Other tracers related to geology (i.e., minor and trace elements) will be analyzed and combined with the isotopic analyses, to reduce uncertainty and more robustly infer the origin of LW.
-
-This method could be easily extrapolated to several application fields of dendroprovenance dealing with similar spatial scales
+The conclusions of the research on a group of Flemish reliquaries from the 16th century serve as base for presenting both the potential and limitations in the application of computerized tomography to the study of more complex pieces.
 
 
 ## S6-O-005 {.unnumbered}
 
-**Oxygen Isotopes assist dating buildings in Sussex (UK)**
+**Non-invasive dendrochronology of large wooden objects: complex use of 3D X-ray μCT and microscopic imaging helps to date the Saint Louis sculpture**
 
-Martin Bridge^1,\ 2^, Neil Loader^3^
+Rūtilė Pukienė^1^, Elena Jasiūnienė^2,\ 3^, Akmis Lomsargis^4^, Rapolas Vedrickas^5^
 
-*^1^ UCL Institute of Archaeology, London, United Kingdom. ^2^ Oxford Dendrochronology Laboratory, Mapledurham, Oxfordshire, United Kingdom. ^3^ Geography Department, University of Swansea, Swansea, United Kingdom.*
+^*1*^ *Institute of Geology and Geography, Nature Research Centre, Vilnius, Lithuania. ^2^ Prof. K. Baršauskas Ultrasound Research Institute, Kaunas University of Technology, Kaunas, Lithuania. ^3^ Department of Electronics Engineering, Kaunas University of Technology, Kaunas, Lithuania. ^4^ Vilnius Faculty, Vilnius Academy of Arts, Vilnius, Lithuania. ^5^ Meno kūrinių tyrimai, MB, Vilnius, Lithuania.*
 
-<martin.bridge@ucl.ac.uk>
+[rutile.pukiene\@gamtc.lt](mailto:rutile.pukiene@gamtc.lt){.email}
 
-Oxygen isotope assisted dendrochronology is becoming a useful additional tool in dating both 'complacent' and shorter ring width series. A study focussing on reconstructing climate over the last millennium in a relatively small area required historical information from building timbers, many of which could not be dated using conventional dendrochronology. This study is looking at buildings at the early and late parts of the millennium, where not many buildings have been dated, and using the available timber to date buildings that could not otherwise be dated, while providing climatic evidence for the wider study.
+Achievements in high resolution 3D computed tomography (μCT) techniques have fostered non-invasive tree-ring analysis of wooden heritage objects. Nevertheless, the size of an object is still a determinant limiting application of micro-tomography. Generally -- the bigger the object -- the lower achieved resolution. Whereas, the width of tree-rings is crucial factor for image resolution requirements.
 
-Other examples from southern England have already provided dates not available through conventional ring width techniques, and species other than oak are also being assessed.
+We present a case study of non-invasive dendrochronological analysis of a large size (160x70x30 cm) wooden sculpture made of halved Scots pine trunk. Up to recently the Saint Louis sculpture from Vilnius Saint Nicolaus church has been dated by stylistic art-historical evaluation to the 16th or the early 17th century. However, no data has been proving this evaluation.
 
+Investigation of inner structure of the sculpture was carried out using industrial X-ray 3D computer tomograph RayScan 250E. Extended CT mode involving horizontal sideways moving of flat panel detector while rotating the sculpture around its axis allowed to capture approximately 500 mm of the sculpture width. Achieved voxel size of 128 µm suited for discerning annual rings as narrow as 700 µm in the reconstructed transversal images. Series of 111 rings were identified and measured with CooRecorder and dated to 1501-1611AD.
 
-## S6-O-006 {.unnumbered}
-
-**Exact dating of the first Europeans in the Americas**
-
-Michael Dee^1^, Margot Kuitems^1^
-
-*^1^ Centre for Isotope Research, University of Groningen, Groningen, the Netherlands.*
-
-<m.w.dee@rug.nl>
-
-Dendrochronology is a precise dating technique, but it requires long sequences of tree rings and a master record for both the species and region in question. Groningen have been pioneering a new approach to dating that combines the precision of dendrochronology with the versatility of radiocarbon dating. It is based on spikes in the annual radiocarbon record, thought to be caused by enormous solar storms. Several such spikes have already been found in archives of known-age wood. Thus by finding one in an archaeological sample, it becomes possible to date the item exactly. The method is applicable to many species and may only require a handful of growth rings. We recently used it to date the earliest evidence for Europeans in the Americas. Three samples were obtained from the Norse layers at L'Anse aux Meadows, Canada, all of which exhibited cut-marks made by metal blades, a material not manufactured by the local indigenous people. In each case, the 993 CE spike was found 28 rings from the waney edge, implying the trees were cut down in 1021 CE. Here, the likelihood of driftwood can almost be completely discounted, given the objectives of the Norse, and the diminutive probability of obtaining three samples with the same final growth year. However, 1021 CE does not necessarily represent the first or last year of Norse presence, only one specific year in which they were active on the continent. It is expected this method will allow many other chronological questions to be resolved.
-
-
-## S6-O-007 {.unnumbered}
-
-**The potential of tree-ring drought atlases for dating and provenancing archaeological timbers**
-
-Mukund Palat Rao^1,\ 2,\ 3^, Marta Domínguez-Delmás^4^, Edward R. Cook^3^
-
-*^1^ University Corporation for Atmospheric Research, USA. ^2^ University of California Davis, USA. ^3^ Lamont-Doherty Earth Observatory of Columbia University, USA. ^4^ Institute of Art History, Faculty of Humanities, University of Amsterdam/Rijksmuseum, the Netherlands.*
-
-Humans have relied on wooden timber material for the construction of buildings, trade, ships, artifacts, and works of art for many millennia. Using dendrochronological methods, it is often possible to develop to build internally cross-dated but undated 'floating' tree-ring chronologies using this historic wooden material. However, the dynamic nature of human mobility and long-distance transport of timber can often make it difficult to accurately date and provenance wooden material. Accurate dating of historical timbers can be challenging due to matches with multiple reference chronologies for different dates, while the provenance of timbers can sometimes be difficult to determine due to wide species distribution ranges that allow for multiple sourcing locations. Here we will showcase the potential of the tree-ring drought atlas network as a novel tool to date and provenance historical timbers. Case studies will include determining the provenance of multiple Scandinavian pines and oaks timbers and Baltic oak timbers used in Spanish church alterpieces. Our results suggests that tree-ring drought atlases can be a powerful tool for dendroarchaeology to both date and provenance wooden material particularly when it is possible to build a robust chronology using multiple historical timbers at a site.
-
-
-## S6-O-008 {.unnumbered}
-
-**Genetic analysis of „The Bed of Roses"**
-
-Hilke Schroeder^1^, Lasse Schindler^1^
-
-*^1^ Thuenen Institute of Forest Genetics, Grosshansdorf, Germany.*
-
-<hilke.schroeder@thuenen.de>
-
-A restorer of old furniture asked the Thuenen Institute of Forest Genetics to help him with a genetic analysis of a bed declared as Victorian from the 19. Century but to his opinion clearly older. A first dendrochronological analysis resulted in the 18. Century and best accordance to American oaks. With genetic analysis no age determination is possible but species and origin can be identified. We got samples from the bedposts of the old bed and performed genetic analysis. We found that the bed was made of an European oak species and also the analysis of the origin resulted in Central Europe with a possibility of Britain.
-
-With more expert reports of other scientists (as radiocarbon analysis, another dendrochronological analysis, detailed research of the used paints and some more) it became more and more clear that the restorer maybe bought the „Bed of Roses" -- the bed in which Henry VII and Elizabeth of York put an end to the war of roses.
-
-Using this example, we will explain the use of genetic methods to identify species and origin of wood samples for a broad range of applicabilities. And, of course, we will tell something more about the „Bed of Roses".
-
-
-## S6-O-009 {.unnumbered}
-
-**Multi-proxy provenance studies of carbonized wood: elemental and isotopic signatures**
-
-Anna Stulcova^1^, Stéphane Ponton^2^, Anne Poszwa^3^, Jean-Luc Dupouey^2^, Julien Bouchez^4^, Frédéric Delarue^5^ , Sylvie Coubray^6^, Michel Lemoine^1^, Christophe Rose^2^, Julien Ruelle^2^, Maximilien Beuret^3^, Thanh Thuy Nguyen Tu^5^, Alexa Dufraisse^1^
-
-*^1^ AASPE UMR 7209 (CNRS-MNHN), Muséum national d'Histoire naturelle, Paris, France. ^2^ SILVA UMR 1434 (INRAE) Université de Lorraine, AgroParisTech, INRAE, Nancy, France. ^3^ Université de Lorraine, CNRS, LIEC, Nancy, France. ^4^ Université de Paris, Institut de physique du globe de Paris, CNRS, Paris, France. ^5^ Sorbonne Université, METIS UMR 7619 (CNRS, EPHE, PSL), Paris, France. ^6^ INRAP, Centre -- Île-de-France, Pantin, France.*
-
-<anna.stulcova@mnhn.fr>
-
-Wood chemical composition is expected to reflect the availability of nutrients in the soil in which trees grow. Combined with isotopic tracers like 86Sr/87Sr ratios, elemental markers potentially constitute powerful tools to assess wood provenance. Dendrochemical analysis is of interest for carbonized archaeological wood remains, circumventing some of the limitations of dendrochronology linked to tree ring loss. However, thermal degradation process might introduce significant bias in wood chemical and isotope analyses.
-
-This experimental study focuses on the effects of carbonization temperature on oak wood elemental and isotopic signatures. Wood cores from different trees and stand locations were pyrolyzed at five temperatures up to 800 °C, their trace elemental content was measured with XRF and ICP-QMS, while their strontium and neodymium isotope composition was determined by MC-ICP-MS. The concentration of trace elements generally increases with temperature, which improves the discrimination of woods of different origins. However, the magnitude of the enrichment depends on the element, the wood component (sapwood vs. heartwood) and the geological substrate. Rubidium, strontium, manganese, magnesium, potassium and to a lesser extent calcium and phosphorus were identified as non-volatile elements. Ratios between the concentrations of these elements and 86Sr/87Sr ratios were stable over the whole temperature range, both in sapwood and heartwood, although intra-individual variance increased with temperature. Our multi-tracer approach therefore brings promising new information to determine the provenance of charred archaeological woods. Its potential will be tested for the first time on burnt timber of the Notre-Dame cathedral, as part of ongoing restoration and research projects.
-
-
-## S6-O-010 {.unnumbered}
-
-**Reconstruction of forest development in the medieval ore mountains using wood density of mining timber**
-
-Svenja Ahlgrimm^1^, Tobias Scharnweber^1^
-
-*^1^ Institute of Botany and Landscape Ecology, University of Greifswald, Greifswald, Germany.*
-
-<Svenja.Ahlgrimm@uni-greifswald.de>
-
-The Ore Mountains are one of the most important medieval mining areas in Europe. During excavations of 12th and 13th century mining complexes, thousands of construction timbers (Abies alba M., Picea abies L.) were collected and partly dendrochronologically dated. Permanent settlement in the mountain complex only started during this period. It can therefore be assumed that the forests used for mining timber are representative for a natural mountain forest not affected by human interventions before.
-
-To improve our knowledge about the development of the medieval Saxon primeval forest we selected a subset of these historical wood samples. We use tree-ring width (TRW) supported by maximum latewood density (MXD) for dendroprovenancing and to investigate disturbance events as well as climate-growth relationships.
-
-During sample preparation we noticed that timber quality was strongly affected by post-sedimentary deposits in the mines, resulting in high iron and manganese contents in the wood. First measurements revealed that these elements can bias the density parameters, especially medium (decadal) time frequency signals. To reduce this bias, we have developed a protocol for treating the samples in advance, removing the metal concretions prior to density measurements.
-
-Despite these methodological difficulties, we assume that the use of MXD parameter increases the reliability of the data set. Since MXD is strongly dependent on summer temperatures, it is likely to provide a more robust signal than TRW and thus supports cross-dating of undated series. Considering the climatic differences along the altitudinal gradient, the use of MXD can also improve the accuracy of dendroprovenancing.
+However, visual inspection of the back side of the sculpture has revealed sharp narrowing of rings in the uncaptured side areas. Digital microscope Dino-Lite was used to record ring images in the longitudinal radial plane close to the sculpture edge. In 6.3 cm of this edge zone extra 117 rings were identified, measured and sapwood boundary detected. Consequently, the last ring of the sculpture was dated to 1728 AD.
 
 
 ## S6-P-001 {.unnumbered}
 
-**The Rosewoods, where fine arts and nature conservation meet: the importance of identifying wood to the species level and the methods to do that**
+**The use of CT-scan in a dendrochronological study of a dug-out chest**
 
-Kévin Liévens^1^, Victor Deklerck^2^, Mélissa Rousseau^1^, Nils Bourland^1^, Hans Beeckman^1^
+Petra Doeve^1^
 
-*^1^ Service of Wood Biology, Royal Museum for Central Africa (RMCA), Tervuren, Belgium. ^2^ Royal Botanic Gardens Kew, Richmond, Surrey, United Kingdom.*
+^*1*^ *Dendrochronological laboratory at BAAC Archaeology and Building history, 's-Hertogenbosch, the Netherlands.*
 
-<kevin.lievens@africamuseum.be>
+[p.doeve\@baac.nl](mailto:p.doeve@baac.nl){.email}
 
-Rosewood is a commercial term encompassing hardwood species with a pink to brown heartwood, from different botanical taxa from tropical America, Africa and Asia. Rosewoods have often been used for style furniture, interior joinery and sculptures. Harvests historically originated from Asia, Central America and South America. Today, rosewood species continue to be intensively sought after for furniture, especially in Asia, resulting in high pressure on the remaining populations in continental Africa and Madagascar. Especially wood from the Dalbergia and Pterocarpus genus is of particular high concern for forest and species conservation. There is evidence that taxa from the latter genus are now being harvested mostly unlawfully and at a rate that could reach economic and biological extinctions in some range States. Consequently, many Dalbergia and some Pterocarpus species are listed in CITES Appendixes, making measures of conservation and enforcement of trade regulations dramatically needed. Notably because of CITES requirements, those measures ask for identification of the timber to the species level. This is not always feasible with classical wood anatomical assessments. A approach has been proposed based on DART-FOMS analysis of the metabolites in the heartwood after a wood anatomical screening. We discuss this approach with four case-studies of wood identification of historical furniture: an armchair design by Josef Hoffmann in 1901, a virginal built by Henri Van Casteel in 1770, a Chinese table Huanghuali and a batch of rosewood guitars recently confiscated by the Belgian customs.
+Few medieval dug-out chests have survived in Europe. They were used roughly until the 16th century for storage, when they were replaced by chests made out of boards. Dug-out chests are unique and new discoveries are rare.
+
+Such is the case for the subject of this study: a heavy sized dug-out chest, measuring 140 cm in length, 39 cm in height and 49 cm in width. The question about its age based on art-historical features is a point of debate: is it medieval or from the 16th century?
+
+Tree-ring research on such exceptionally large pieces of furniture can be an impossible undertaking, primarily because the tree rings are out of sight. Tree rings on the interior side of the dug-out chest were analyzed using standard methods of measuring from photos. Non-invasive analysis through CT-scanning 'exposed' the tree-rings patterns previously out of sight and additionally allowed us to identify certain features in the woodwork of the chest.
+
+This paper combines conventional and dendro-CT to answer the age question and the provenance of the wood of the chest. The medical CT-scan proved essential in establishing the exact felling date of the oak tree.
+
+![](./figures/Doeve.png){width="90%"}
+
+
+## S6-P-002 {.unnumbered}
+
+**Out of the woods phase II**
+
+Stephan Nicolaij^1\, 2^, Silke Lange^1\, 3^, Lien Lombaert^4^, Ignace Bourgeois^5^, Natalie Cleeren^6^, Jonathan Jacops^4^, Koen Deforce^7^, Kristof Haneca^8^, Jelte van der Laan^1\, 9^
+
+^*1*^ *WOODAN Foundation, Groningen, The Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ BIAX Consult, Zaandam, the Netherlands. ^4^ Erkend Erfgoeddepot Ename, Oudenaarde, Belgium. ^5^ Provinciaal Archeologisch Depot (PAD), Antwerp, Belgium. ^6^ Natalie Cleeren Archaeological Conservation, Geetbets, Belgium. ^7^ Ghent University, Ghent, Belgium. ^8^ Flanders Heritage Agency, Brussels, Belgium. ^9^ Cambium Botany, Kleine Huisjes, the Netherlands.*
+
+[Stephan.nicolaij\@woodan.org](mailto:Stephan.nicolaij@woodan.org){.email}
+
+Over the last decades universities, government institutions and commercial companies have collected a huge amount of information on archaeological wooden artefacts. This information is scattered however, and there is no clear overview of what we know about wood utilisation and its development trough time within a larger region. As most publications are focused on specific sites or excavations, it is often hard to place artifacts in a broader context. In 2018 the WOODAN Foundation started collecting data on wooden artefacts with the mission to function as a central platform to find, analyse and publish information on these artefacts.
+
+Thanks to the Flanders Heritage Agency we are enabled to do a big synthetic research project in Flanders. Our goal is to collect all data that is published on wooden artifacts since the Malta agreements, in order to conduct additional research. Also, the WOODAN database <www.woodan.org> will be further developed in order to add data and to expand the functionality of translating the data to (for a start) four different languages. In this way language barriers will no longer be an issue in wood research. Our end products of this project will be:
+
+-   A book with an overview of the wooden artifacts found in Flanders
+
+-   The publication of the many finds in the WOODAN database
+
+
+## S6-P-003 {.unnumbered}
+
+**Measuring curved surfaces using photogrammetry**
+
+Sjoerd van Daalen^1^, Maarten Sepers^2,\ 3^
+
+^*1*^ *Van Daalen Dendrochronologie, Deventer, the Netherlands. ^2^ Department BBT Archaeology, Saxion University of Applied Sciences, Deventer, the Netherlands. ^3^ DDEA, Deventer, the Netherlands.*
+
+[vandaalen\@dendro.nl](mailto:vandaalen@dendro.nl){.email}
+
+Dendrochronology uses tree-ring patterns in wooden objects to determine the age of the wood. In order to obtain an undistorted tree-ring sequence a radius along a transversal surface is preferred. For objects where destructive sampling is possible, this is easily solved by cutting a cross-section or taking a core. More delicate items, such as panel paintings and furniture pieces, are commonly rectangular and provide a transversal section where the tree-rings can be recorded using non-destructive methods. However, in the case of oval shaped painting or sculptures where the base is not usable, it is impossible to find a transversal section. Although tree-rings can be measured along a curved surface, the recorded values will be more distorted as the curvature increases. This renders the outer most tree-ring unusable. While the relative pattern of smaller and wider tree-rings will be preserved, it can no longer be presumed to be an absolute measurement. It is unclear what the effect of the distorted tree-ring pattern will be on the statistical results, especially if the curvature is not uniform. An orthogonal projection of a 3D model of the object creates a distortion-free view of the tree-ring pattern as well as a digital archive of the source data. 3D tomography has been successfully applied for this purpose, but the required equipment is not easily accessible.
+
+In this paper we explore the possibilities of a photogrammetric approach for several case studies as well as propose practical guidelines for the application of this method.
+
+
+## S6-P-004 {.unnumbered}
+
+**X-ray-CT as possibility to date archived samples from Hallstatt, Austria**
+
+Elisabeth Wächter^1^, Hans Reschreiter^2^, Kerstin Kowarik^2^, Michael Grabner^1^
+
+^*1*^ *Institute of Wood Technology and Renewable Materials, University of Natural Resources and Life Sciences, Vienna, Austria. ^2^ Department of Prehistory, Natural History Museum, Vienna, Austria.*
+
+[Elisabeth.waechter\@boku.ac.at](mailto:Elisabeth.waechter@boku.ac.at){.email}
+
+In Hallstatt countless wooden samples from Bronze age and Iron age (Hallstatt time) are excavated and analysed every year. This is not the case for the subsequent La Tène period. There is only one spot in a raised bog near Hallstatt so called "Dammwiese" (1350 m a.s.l.) where numerous dwelling houses and a tunnel entrance from this period were examined in the 1880s and the first half of the 20th century. Nowadays these sites are not accessible anymore. Nevertheless, a few wood objects like parts of a log cabin, boards, the bottoms of barrels or buckets and fragments of shovels were excavated in former times and are well preserved available in the archive of the Natural History Museum Vienna. It was not desired to cut or drill holes in these unique finds. With the help of X-ray-CT-scans, it was possible to process these samples in a non-destructive way.
+
+In total on 63 wooden elements from four different wood species (beech, spruce, larch and fir) tree-ring width measurements were carried out. Almost half of the measured samples could be synchronized and dated to the time from -263 to -123 resulting in three local mean curves (larch 89 years, fir 243 years and spruce 220 years).
+
+To conclude, it can be worthwhile to take a close look at "old finds" in the archives and do the dendrochronological analyses in a usual way or non-destructively with the help of X-ray-CT-imaging.

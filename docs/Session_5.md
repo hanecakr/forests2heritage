@@ -2,27 +2,6 @@
 
 ## S5-O-001 {.unnumbered}
 
-**Short distance log transport in Austria.**
-
-Michael Grabner^1^, Elisabeth Wächter^1^, Sebastian Nemestothy^1^
-
-*^1^ Institute of Wood Technology and Renewable Materials, University of Natural Resources and Life Sciences, Vienna, Austria.*
-
-<michael.grabner@boku.ac.at>
-
-Several studies of log transport showed surprisingly long distances -- for example from the Baltic region to the Netherlands or England. Even inland transport on rivers is described for long distances -- like several hundred kilometres at the river Rhein to the Netherlands. Log transport at the river Danube to the city of Vienna can be more than 500 km in distance. First results of dendro-provenancing of timber sampled in Vienna are available now. There is evidence for long distance transport for example from the rivers Lech and Isar, as well as short distance for example from the rivers Ybbs and Erlauf.
-
-Otherwise, short distance transport as raft is known at the Danube due to historical photographs. In 1943 a 200 m³ raft went from Aggsbach to Tulln -- a distance of about 60 km.
-
-At the church of the city of Klagenfurt (Carinthia) clear rafting marks were found at the roof construction of the tower -- dated to 1737. The larch trees did show slow growth with up to 170 tree rings. Therefore, an alpine site is the most probable provenance.
-
-At the church of Frauenburg (Styria) clear rafting marks in former parts of the roof construction were found (dated to 1256). Interestingly, the church is situated very close to forests with larch trees being part. The building is about 130 m higher elevated than the river Mur, where the rafts are coming from. A transport directly from the forests to the building is possible (even for larch trees) without upward transportation, which would have been the expected method.
-
-There are cases where short distance timber transport can be proven contrary to our expectations.
-
-
-## S5-O-002 {.unnumbered}
-
 **The internal and external relations of Roman well timbers**
 
 Manuel Broich^1^, Barbara Diethelm^1^, Thomas Frank^2^, Georg Roth^3^, Thorsten Westphal^1^, Karl Peter Wendt^4^
@@ -40,7 +19,7 @@ Methodically, two statistical techniques ("dendro-allocation" and hierarchical c
 The identification of timbers from a common stand or even stem-identical timbers and their spatial distribution in a well-researched landscape sheds light on the wood economy in the Roman province of Germania inferior. It will help to answer archaeo-economical questions like the volume of timber used to build a wooden construction, wood supply and trade on a (micro-) regional scale or econometric aspects.
 
 
-## S5-O-003 {.unnumbered}
+## S5-O-002 {.unnumbered}
 
 **Timber rafting on upper Garonne river: from Pyrenean Mountain forests to heritage**
 
@@ -53,7 +32,7 @@ Anh Linh François^1^, Vincent Labbas^2,\ 3^, Camille Fabre^4^, Sylvain Burri^5^
 In preindustrial Europe, rafting was the main transportation strategy implemented for middle- and long-distance timber trade from Mountain areas to lowlands rural and urban marketplaces. Pyrenees range, well-stocked in forest resources and divided in several river valleys, was particularly conductive to such a trade. On the northern slope, the upper Garonne River basin was used for supplying the regional capital Toulouse and secondary towns in timber and fuel wood at least from the 13th c. onwards as stated by written records. To meet the increased timber demand during the late medieval and modern period men attempted to adapt forest management and exploitation for producing standardized timber products, and to improve the hydrosystems themselves. This paper tackles the issue of timber rafting in the upper Garonne basin from an interdisciplinary perspective, crossing glances of underwater archaeology, dendrochronology and history. The absence of the archaeological object in the form of a raft wreck, need to study the float through its nautical space, its hydrosystem and its river heritage. It aims at 1) revealing the upper Garonne basin socio-economic singularity that mobilizes both forest and lithic resources, 2) analyzing the technical chaîne opératoire and the transportation facilities built along the watercourses, 3) reconstructing the progressive structuring of timber rafting as a socioeconomic activity and 4) its environmental impact on the hydrosystem and forest cover.
 
 
-## S5-O-004 {.unnumbered}
+## S5-O-003 {.unnumbered}
 
 **Past timber resources in northern Europe: a holistic approach?**
 
@@ -72,7 +51,7 @@ In this talk I will take a journey through the evidence, building a timeline of 
 The project "Northern Europe's timber resource - chronology, origin and exploitation" (TIMBER) has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 677152).
 
 
-## S5-O-005 {.unnumbered}
+## S5-O-004 {.unnumbered}
 
 **Provenance and periods of timber trade from 'the north' to the northern Netherlands, 1600-1900**
 
@@ -95,7 +74,7 @@ At first, the samples only produced floating chronologies, but it soon proved po
 As a result, an increasingly clearer picture is emerging of the ever-shifting regions and periods of origin around the Baltic Sea from 1700 onwards.
 
 
-## S5-O-006 {.unnumbered}
+## S5-O-005 {.unnumbered}
 
 **Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project**
 
@@ -110,7 +89,7 @@ Scotland's internationalist outlook today resonates with a long history of inter
 In SESOD, a reconnaissance phase to locate candidate sites revealed how few oak timber structures survive and, of those selected for analysis, even fewer have proved to contain native oak. As the SESOD project approaches its finale, this paper builds on the individual site results to interpret the impacts of war and instability over many centuries on the timber supply and woodland history in South East Scotland and reflects on how, despite the challenges, this reinforced allegiances between Scotland and her overseas trading partners. SESOD is now giving a voice to these rare historic oak timbers which survived so much turbulence.
 
 
-## S5-O-007 {.unnumbered}
+## S5-O-006 {.unnumbered}
 
 **Timber as a marine resource: the role of Arctic driftwood in the Medieval North Atlantic**
 
@@ -123,7 +102,7 @@ Dawn Elise Mooney^1^, Élie Pinta^2^, Lísabet Guðmundsdóttir^3^
 The North Atlantic islands of the Faroe Islands, Iceland and Greenland have always been relatively poor in terms of native timber resources, due to their cold climate and exposed topography. Despite this, timber was vital to the material culture of the Norse settlers of these islands, and their needs in this were often met by driftwood. As in Arctic Norway, where trees are also scarce, driftwood use and ownership was prescribed in Medieval law codes. Historical documentary evidence shows wealthy landowners buying up driftwood rights as valuable assets. Even when imported timber was available, there is evidence that in Iceland at least, craftspeople still deemed the local driftwood to be of superior quality. However, this resource was also unstable, and the delivery of driftwood depended on a range of unpredictable factors related to climate and ocean currents. There is also ongoing debate regarding the relative importance of imported timber, which is for example often referenced in the Icelandic sagas. The use of driftwood is difficult to demonstrate through macroscopic, microscopic or (geo-)chemical analysis. Similarities in the microscopic anatomy of boreal wood taxa preclude definitive provenancing through taxonomic analysis, while material traces of immersion in seawater are often either impermanent or ambiguous, especially in archaeological wood remains. This paper presents a "state-of-the-art" of current research on the exploitation of driftwood timber in the Medieval North Atlantic, and explores potential future directions in this field.
 
 
-## S5-O-008 {.unnumbered}
+## S5-O-007 {.unnumbered}
 
 **Wood exploitation and timber trade on the north-western frontier of the Roman Empire**
 
@@ -142,7 +121,7 @@ Various sections of the east-to-west orientated limes road are excavated over th
 In total 141 oak foundation posts were measured from the road which was constructed under the rule of the emperor Hadrianus in AD 125. This paper presents the current understanding of timber trade along the limes and highlights the new results from this recent study. Large-scale sampling for dendrochronological research combined with research into wood use has led to new insights into logging practices and wood exploitation.
 
 
-## S5-O-009 {.unnumbered}
+## S5-O-008 {.unnumbered}
 
 **Early evidence for timber trade marks on a large Roman quay found in the SE of the City of London**
 
@@ -155,7 +134,7 @@ Damian M Goodburn^1^
 Excavations on the historic City of London waterfront, just west of the Tower of London, revealed the remains of a large oak quay built in AD133. The recent detailed 'forensic' recording produced much new information not recorded during the earlier, limited excavation in 1973. Tree ring dating was refined, and new evidence of the very unusual systems of timber preparation used for many repetitive quay elements were also recorded. However, for this conference one of the most important features were numerous sets of stamped and branded marks which must be associated with the Roman timber trade and supply system. It is likely that this particularly tall quay was built for the use of deep sea trading vessels.
 
 
-## S5-O-010 {.unnumbered}
+## S5-O-009 {.unnumbered}
 
 **Timber imports to Norse Greenland. Lifeline or luxury?**
 
@@ -168,7 +147,7 @@ Lísabet Guðmundsdóttir^1^
 Due to limited native woodland in Greenland, which was not suitable for larger construction and boatbuilding, it has been argued that it was necessary to import timber to meet the wood requirements of the Norse Greenlanders (985-1450 AD). To evaluate the extent of timber imports to Norse Greenland, the taxonomic composition of archaeological wood assemblages from five Norse sites were analysed to determine whether the wood was native, import or driftwood. The low species diversity of Greenlandic woodlands makes it easy to identify non-native wood remains. However, due to the vast distribution of certain tree species, wood taxa analysis alone cannot differentiate between imported wood and driftwood. As of yet, various chemical methods have not proven to be successful in distinguishing between these two categories. However, by comparing the results with wood assemblages from other cultural groups in Greenland and the Smith Sound, which had limited or no contact with Europeans, I propose that it is possible to estimate the proportions of timber import to Norse Greenland. In this talk I will discuss the importance of timber imports for the Norse Greenlandic society. I will examine the origin of imported timber and whether it was a resource to which everyone had equal access. I will also explore the idea that a lack of imported timber played a part in the abandonment of the Norse Greenlandic settlements.
 
 
-## S5-O-011 {.unnumbered}
+## S5-O-010 {.unnumbered}
 
 **The production of barrels and casks in the Netherlands in Late Middle Ages and Early Modern period**
 
@@ -185,7 +164,7 @@ Barrels and casks were essential to this development since merchandise such as w
 This paper explores the way the production of barrels and casks was organized and executed in the late medieval and early modern northern part of the Low Countries. Specific features of the organization of this production can be extracted from the archives of the coopers\' guilds. Archaeological data offers a chance to explore the long-term development of the coopers' craft, by mapping the dendrochronologically established felling dates and the provenance of the timber through time. This is compared with the spatial distribution of the barrels and casks from archaeological context in order to take the first steps in understanding the production of this packaging material.
 
 
-## S5-O-012 {.unnumbered}
+## S5-O-011 {.unnumbered}
 
 **From research on timber supply in rural areas to regional watersheds**
 
@@ -200,7 +179,7 @@ The project Deep in Heritage (FED-tWIN2020-prf024, BELSPO), led by the dendro la
 The methods used and the results obtained within the framework of this « mountain research » will lead to a re-interrogation of timber supply between the Meuse and Seine watersheds and will contribute to the creation of tools for modelling the provenances and terroirs of origin of the wood.
 
 
-## S5-O-013 {.unnumbered}
+## S5-O-012 {.unnumbered}
 
 **MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
 
@@ -217,17 +196,25 @@ Besides the more commonly encountered marks – signatures, monograms, master's 
 35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
 
 
-## S5-O-014 {.unnumbered}
+## S5-PR-001 {.unnumbered}
 
-**Dendroprovenancing historical oak timber at a small geographic scale using a multi-variable approach: a preliminary study on living oak trees**
+**Short distance log transport in Austria.**
 
-Roberta D’Andrea^1^, Christophe Corona^2,\ 3^, Anne Poszwa^4^, Alan Crivellaro^5,\ 6,\ 7^, Christelle Belingard^1^, Fabien Cerbelaud^1^, Rémi Crouzevialle^1^, Guy Costa^8^, Sandrine Paradis-Grenouillet^1,\ 7^
+Michael Grabner^1^, Elisabeth Wächter^1^, Sebastian Nemestothy^1^
 
-*^1^ Laboratoire de Géographie Physique et Environnementale, Université de Limoges, Limoges, France. ^2^  Laboratoire de Géographie Physique et Environnementale, Université Clermont Auvergne, Clermont-Ferrand, France. ^3^ French National Centre for Scientific Research – CNRS, France. ^4^ Laboratoire Interdisciplinaire des Environnements Continentaux, Université de Lorraine, Nancy, France. ^5^ Department of Geography, University of Cambridge, United Kingdom. ^6^ Forest Biometrics Laboratory, Faculty of Forestry, University of Suceava, Ukraine. ^7^ Éveha, Bureau d’étude archéologique, Limoges, France. ^8^ Laboratoire PEIRENE, Université de Limoges, Limoges, France.*
+*^1^ Institute of Wood Technology and Renewable Materials, University of Natural Resources and Life Sciences, Vienna, Austria.*
 
-<roberta.dandrea@etu.unilim.fr>
+<michael.grabner@boku.ac.at>
 
-A study focusing on timber-framed houses in Limoges (France) is currently being carried out to pinpoint the exact source areas of construction timbers, and consequently to understand how local forests were exploited and managed for housing needs between the 15th and the 19th century. To do so, four sub-regional reference chronologies are being created using living oak trees and old wooden structures of the French department Haute-Vienne. Following the example of several dendroprovenancing studies carried out in the last years, we developed a multi-proxy method which we expect to help locate the origin of timber with more precision. This method includes wood anatomical variables, stable strontium isotopes (^87^Sr/^86^Sr) signatures and DNA and it is tested for the first time at such a small geographic scale. Before conducting these analyses on archaeological timber, we used the living oak trees included in the four sub-regional chronologies to test the potential of each parameter. We present the results of the quantitative wood anatomical (QWA) study and the preliminary results of the isotopic analyses. As regards the QWA study, time series of anatomical variables have been produced, and the principal component gradient analysis (PCGA) approach (Buras *et al.* 2016) has been used to cluster the series based on ecological gradients. Moreover, stable strontium isotopes ratios have been measured in a subsample from each site. The results show that combining TRW with vessel-related variables and ^87^Sr/^86^Sr ratios allows to assign trees to their origin more efficiently than using TRW alone.
+Several studies of log transport showed surprisingly long distances -- for example from the Baltic region to the Netherlands or England. Even inland transport on rivers is described for long distances -- like several hundred kilometres at the river Rhein to the Netherlands. Log transport at the river Danube to the city of Vienna can be more than 500 km in distance. First results of dendro-provenancing of timber sampled in Vienna are available now. There is evidence for long distance transport for example from the rivers Lech and Isar, as well as short distance for example from the rivers Ybbs and Erlauf.
+
+Otherwise, short distance transport as raft is known at the Danube due to historical photographs. In 1943 a 200 m³ raft went from Aggsbach to Tulln -- a distance of about 60 km.
+
+At the church of the city of Klagenfurt (Carinthia) clear rafting marks were found at the roof construction of the tower -- dated to 1737. The larch trees did show slow growth with up to 170 tree rings. Therefore, an alpine site is the most probable provenance.
+
+At the church of Frauenburg (Styria) clear rafting marks in former parts of the roof construction were found (dated to 1256). Interestingly, the church is situated very close to forests with larch trees being part. The building is about 130 m higher elevated than the river Mur, where the rafts are coming from. A transport directly from the forests to the building is possible (even for larch trees) without upward transportation, which would have been the expected method.
+
+There are cases where short distance timber transport can be proven contrary to our expectations.
 
 
 ## S5-P-001 {.unnumbered}
