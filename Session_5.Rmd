@@ -5,7 +5,7 @@
 
 **Determining the production place of works of art by dendrochronology: case studies from the Low Countries**
 
-Marta Domínguez-Delmás^1\, 2^
+Marta Domínguez-Delmás^1,\ 2^
 
 *^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
 
