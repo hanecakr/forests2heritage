@@ -14,10 +14,10 @@ cover-image: bookofAbstracts header.jpg
 github-repo: hanecakr/forests2heritage/
 ---
 
-# Book of abstracts {.unnumbered}
+# Conference website {.unnumbered}
   
   
-  Conference website: <https://www.forests2heritage.nl/>  
+<https://www.forests2heritage.nl/>  
   
   
   
