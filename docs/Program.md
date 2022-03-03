@@ -633,12 +633,6 @@
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-002](#s4-p-002) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Sveva Longo </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendrochronological investigation of monumental trees from “Villa Medicea di Castello” in Florence, Italy </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-003](#s4-p-003) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Caroline Vermeeren </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> History of woodland management: the Neolithic  </td>
   </tr>
@@ -829,13 +823,19 @@
    <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Closing session </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 16:15 - 16:45 </td>
+   <td style="text-align:left;width: 100px; "> 16:15 - 16:30 </td>
    <td style="text-align:left;width: 100px; ">  </td>
-   <td style="text-align:left;"> All </td>
-   <td style="text-align:left;"> Discussion </td>
+   <td style="text-align:left;"> Brita Lorentzen </td>
+   <td style="text-align:left;"> (The other) dendroprovenancing: Developing ethical guidelines in dendrochronological research to protect cultural heritage </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 16:45 - 17:00 </td>
+   <td style="text-align:left;width: 100px; "> 16:30 - 17:00 </td>
+   <td style="text-align:left;width: 100px; ">  </td>
+   <td style="text-align:left;"> All </td>
+   <td style="text-align:left;"> General discussion </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; "> 17:00 - 17:15 </td>
    <td style="text-align:left;width: 100px; ">  </td>
    <td style="text-align:left;"> Marta, Aoife &amp; Kristof </td>
    <td style="text-align:left;"> Clossing words </td>

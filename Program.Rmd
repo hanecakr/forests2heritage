@@ -91,11 +91,11 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1:2, 10, 17:18, 24, 31:32, 40, 44, 47), background = "#D6EAF8") %>% 
-  row_spec(row = c(11:15, 25:29), background = "#F2F2F2") %>% 
-  row_spec(row = c(16, 30, 39), background = "#EDBB99") %>% # coffee & lunch
+  row_spec(row = c(1:2, 10, 16:17, 23, 30:31, 39, 43, 47), background = "#D6EAF8") %>% 
+  row_spec(row = c(11:14, 24:28), background = "#F2F2F2") %>% 
+  row_spec(row = c(15, 29, 38), background = "#EDBB99") %>% # coffee & lunch
   row_spec(0, color = "#FFFFFF00") %>% 
-  row_spec(c(1, 17, 31, 40, 44), bold = T)
+  row_spec(c(1, 16, 30, 39, 43), bold = T)
 
 ```
 

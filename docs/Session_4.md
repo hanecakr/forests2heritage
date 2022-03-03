@@ -126,19 +126,6 @@ The presentation highlights the methods, but also gives first insights into whet
 
 ## S4-P-002 {.unnumbered}
 
-**Dendrochronological investigation of monumental trees from "Villa Medicea di Castello" in Florence, Italy**
-
-Sveva Longo^1^, Cristiano Riminesi^1^, Rachele Manganelli del Fà^1^, Silvia Fineschi^1^, Giovanna Battipaglia^2^
-
-^*1*^ *Institute of Heritage Science, National Research Council of Italy, Italy. ^2^ Department of Environmental, Biological, Pharmaceutical Sciences and Technologies, University of Campania "Luigi Vanvitelli", Caserta, Italy.*
-
-[sveva.longo\@ispc.cnr.it](mailto:sveva.longo@ispc.cnr.it){.email}
-
-The garden of the Villa Medicea of Castello was designed by Niccolò Tribolo in 1538 on commission of Cosimo I de' Medici, Gran Duke of Florence, and represents one of the prototypes of the XVI century Italian garden. A cycle of 'lunettes' painted by the Flemish artist Iustus van Utens between 1599 and 1603 illustrate fourteen villas belonging to the Medici Family, including this one. In this study, we performed dendrochronological analysis on two pubescent oaks, Quercus pubescens Willd, from the "Piano del selvatico", to verify whether they might be dated back to the garden origin. This analysis would provide important information on the vegetation history of the garden, and fill lack of records about its past management. Two trees, ranging in size from 100 to 150 cm diameter at breast height, were sampled. Two cores for each plant were collected in summer 2021 using an increment borer (Haglöfs, Sweden) of 5 mm. Results revealed that both trees show evident signs of senescence, with rotting of the wood in the central part and have undergone several pest attacks during their existence. It was not possible to reach the center of the trunk due to the presence of rotten wood, therefore the missing rings were estimated by allometric equation to define the age of the two oaks. The age was determined about 500 years old. The estimated age of two pubescent oaks allows us to affirm that they were already present when the 'lunettes' were painted.
-
-
-## S4-P-003 {.unnumbered}
-
 **History of woodland management: the Neolithic**
 
 Caroline Vermeeren^1^, Kirsti Hänninen, Welmoed A. Out^2^
