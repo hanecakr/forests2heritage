@@ -1,5 +1,6 @@
 # Session 2: Shipwrecks and archaeological structures {.unnumbered}
 
+
 ## S2-O-001 {.unnumbered}
 
 **Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
@@ -159,6 +160,7 @@ The conservation processes of the wooden coffin included mechanical and chemical
 
 The conservation process included mechanical cleaning using soft brushes, chemical cleaning using ethyl alcohol and water for painted layer and xylene and water for black resin layer, stabilization of the separated gesso layer using Paraloid B72, filling cracks of the gesso layers using glass microballoon with Paraloid B72, and consolidating the painted layer with KlucelE and black resin layer with Nano Paraloid B72.
 
+
 ## S2-P-002 {.unnumbered}
 
 **Microscopy techniques for the examination of waterlogged archaeological wood**
@@ -175,6 +177,7 @@ Sections from frozen WAW, approximately 20-30 µm thick and 1cm2 in size, allowe
 
 The improved SEM protocol provided high quality images of large sections at lower magnifications and also of details at high magnifications with high resolution. The combination of SEM and EDX allowed the observation of the preservation of the cell wall as well as the location, amount, shape and chemical composition of various inclusions with high amounts of Fe, S and Ca found in all taxa studied, while *Populus* also contained increased amounts of Si.
 
+
 ## S2-P-003 {.unnumbered}
 
 **Practices of shipwreck timber sampling for dendrochronology**
@@ -187,6 +190,7 @@ Daniel Peter Dalicsek^1^
 
 In 2018, two important publications saw light, Selecting and Sampling Shipwreck Timbers for Dendrochronological Research: practical guidance by Daly et al. and Shipwrecks and Provenance: in-situ timber sampling protocols, with a focus on wrecks of the Iberian shipbuilding tradition by Rich et al. My presentation would look at the impact of these publications and the focus on the works of maritime archaeologists and dendrochronologists in sampling shipwreck timbers over the past five years. It´s main focus would be on intrusive survey methods and on shipwreck sites, but would not exclude other underwater sites or terrestrial excavations. It would consist of a survey questionnaire, sent out to maritime archaeologists across the globe and interviews with maritime archaeologists and dendrochronologists ahead of the conference. This would enable insight and provide an overview over fieldwork practices today. The presentation would showcase the opportunities for better and more uniform sampling practices as well as present a chance for and generate discussion among the conference´s audience. The aim is to take a snapshot of how we conduct our science and if collaboration between dendrochronologists and archaeologists is sufficient.
 
+
 ## S2-P-004 {.unnumbered}
 
 **The Gribshunden Barrels**
@@ -198,6 +202,7 @@ Anton Hansson^1^, Hans Linderson^1^, Brendan Foley^2^
 [anton.hansson\@geol.lu.se](mailto:anton.hansson@geol.lu.se){.email}
 
 The Danish Royal Flagship Gribshunden sank in the Blekinge archipelago in the early summer of 1495, while on its way to the Swedish town of Kalmar. There the Danish King Hans planned to meet the Swedish Regent Sten Sture the Elder in the kings wish to re-establish the Nordic Union between Denmark, Norway, and Sweden by being elected king of Sweden. During field campaigns in 2019 and 2021 a joint multi-disciplinary research effort led by Lund University has excavated parts of the Gribshunden shipwreck. As a part of the excavations, a large number of barrels staves and heads were recovered for dendrochronological and dendroprovenance analysis in order to answer certain research questions: (i) the timber source area (ii) The barrel construction locality (iii) the lifespan of a barrel (iiii) barrel size and standards. In total, 135 oak staves and heads were analysed, 79 % of which were successfully dated. Two major timber source areas were revealed, Baltic (59%) and Scania (22%). The mix of timber sources in the barrels suggest they were not constructed in the source area. Based on the average sapwood amount we can conclude that most barrels must have been constructed a few years prior to sinking, suggesting a short life span of barrels in general. Together with these dendrochronological results, further studies on numerous finds at the wreck site will provide new views of the medieval economy and political connections in the late medieval period.
+
 
 ## S2-P-005 {.unnumbered}
 

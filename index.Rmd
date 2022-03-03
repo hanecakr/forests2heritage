@@ -12,9 +12,6 @@ description: |
   This website provides easy access to the book of abstracts for the **From Forest to Heritage** conference.
 cover-image: bookofAbstracts header.jpg
 github-repo: hanecakr/forests2heritage/
-download:
-- ForHer22_BOOKofABSTRACTS.pdf
-- PDF
 ---
 
 # Book of abstracts {.unnumbered}
