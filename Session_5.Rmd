@@ -1,6 +1,20 @@
 # Session 5: Evidence of timber trade and transport {.unnumbered}
 
+
 ## S5-O-001 {.unnumbered}
+
+**Determining the production place of works of art by dendrochronology: case studies from the Low Countries**
+
+Marta Domínguez-Delmás^1\, 2^
+
+*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+
+<m.dominguezdelmas@uva.nl>
+
+Abstract will be updated soon...
+
+
+## S5-O-002 {.unnumbered}
 
 **The internal and external relations of Roman well timbers**
 
@@ -19,7 +33,7 @@ Methodically, two statistical techniques ("dendro-allocation" and hierarchical c
 The identification of timbers from a common stand or even stem-identical timbers and their spatial distribution in a well-researched landscape sheds light on the wood economy in the Roman province of Germania inferior. It will help to answer archaeo-economical questions like the volume of timber used to build a wooden construction, wood supply and trade on a (micro-) regional scale or econometric aspects.
 
 
-## S5-O-002 {.unnumbered}
+## S5-O-003 {.unnumbered}
 
 **Timber rafting on upper Garonne river: from Pyrenean Mountain forests to heritage**
 
@@ -32,7 +46,7 @@ Anh Linh François^1^, Vincent Labbas^2,\ 3^, Camille Fabre^4^, Sylvain Burri^5^
 In preindustrial Europe, rafting was the main transportation strategy implemented for middle- and long-distance timber trade from Mountain areas to lowlands rural and urban marketplaces. Pyrenees range, well-stocked in forest resources and divided in several river valleys, was particularly conductive to such a trade. On the northern slope, the upper Garonne River basin was used for supplying the regional capital Toulouse and secondary towns in timber and fuel wood at least from the 13th c. onwards as stated by written records. To meet the increased timber demand during the late medieval and modern period men attempted to adapt forest management and exploitation for producing standardized timber products, and to improve the hydrosystems themselves. This paper tackles the issue of timber rafting in the upper Garonne basin from an interdisciplinary perspective, crossing glances of underwater archaeology, dendrochronology and history. The absence of the archaeological object in the form of a raft wreck, need to study the float through its nautical space, its hydrosystem and its river heritage. It aims at 1) revealing the upper Garonne basin socio-economic singularity that mobilizes both forest and lithic resources, 2) analyzing the technical chaîne opératoire and the transportation facilities built along the watercourses, 3) reconstructing the progressive structuring of timber rafting as a socioeconomic activity and 4) its environmental impact on the hydrosystem and forest cover.
 
 
-## S5-O-003 {.unnumbered}
+## S5-O-004 {.unnumbered}
 
 **Past timber resources in northern Europe: a holistic approach?**
 
@@ -51,7 +65,7 @@ In this talk I will take a journey through the evidence, building a timeline of 
 The project "Northern Europe's timber resource - chronology, origin and exploitation" (TIMBER) has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 677152).
 
 
-## S5-O-004 {.unnumbered}
+## S5-O-005 {.unnumbered}
 
 **Provenance and periods of timber trade from 'the north' to the northern Netherlands, 1600-1900**
 
@@ -74,7 +88,7 @@ At first, the samples only produced floating chronologies, but it soon proved po
 As a result, an increasingly clearer picture is emerging of the ever-shifting regions and periods of origin around the Baltic Sea from 1700 onwards.
 
 
-## S5-O-005 {.unnumbered}
+## S5-O-006 {.unnumbered}
 
 **Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project**
 
@@ -89,7 +103,7 @@ Scotland's internationalist outlook today resonates with a long history of inter
 In SESOD, a reconnaissance phase to locate candidate sites revealed how few oak timber structures survive and, of those selected for analysis, even fewer have proved to contain native oak. As the SESOD project approaches its finale, this paper builds on the individual site results to interpret the impacts of war and instability over many centuries on the timber supply and woodland history in South East Scotland and reflects on how, despite the challenges, this reinforced allegiances between Scotland and her overseas trading partners. SESOD is now giving a voice to these rare historic oak timbers which survived so much turbulence.
 
 
-## S5-O-006 {.unnumbered}
+## S5-O-007 {.unnumbered}
 
 **Timber as a marine resource: the role of Arctic driftwood in the Medieval North Atlantic**
 
@@ -102,7 +116,7 @@ Dawn Elise Mooney^1^, Élie Pinta^2^, Lísabet Guðmundsdóttir^3^
 The North Atlantic islands of the Faroe Islands, Iceland and Greenland have always been relatively poor in terms of native timber resources, due to their cold climate and exposed topography. Despite this, timber was vital to the material culture of the Norse settlers of these islands, and their needs in this were often met by driftwood. As in Arctic Norway, where trees are also scarce, driftwood use and ownership was prescribed in Medieval law codes. Historical documentary evidence shows wealthy landowners buying up driftwood rights as valuable assets. Even when imported timber was available, there is evidence that in Iceland at least, craftspeople still deemed the local driftwood to be of superior quality. However, this resource was also unstable, and the delivery of driftwood depended on a range of unpredictable factors related to climate and ocean currents. There is also ongoing debate regarding the relative importance of imported timber, which is for example often referenced in the Icelandic sagas. The use of driftwood is difficult to demonstrate through macroscopic, microscopic or (geo-)chemical analysis. Similarities in the microscopic anatomy of boreal wood taxa preclude definitive provenancing through taxonomic analysis, while material traces of immersion in seawater are often either impermanent or ambiguous, especially in archaeological wood remains. This paper presents a "state-of-the-art" of current research on the exploitation of driftwood timber in the Medieval North Atlantic, and explores potential future directions in this field.
 
 
-## S5-O-007 {.unnumbered}
+## S5-O-008 {.unnumbered}
 
 **Wood exploitation and timber trade on the north-western frontier of the Roman Empire**
 
@@ -121,7 +135,7 @@ Various sections of the east-to-west orientated limes road are excavated over th
 In total 141 oak foundation posts were measured from the road which was constructed under the rule of the emperor Hadrianus in AD 125. This paper presents the current understanding of timber trade along the limes and highlights the new results from this recent study. Large-scale sampling for dendrochronological research combined with research into wood use has led to new insights into logging practices and wood exploitation.
 
 
-## S5-O-008 {.unnumbered}
+## S5-O-009 {.unnumbered}
 
 **Early evidence for timber trade marks on a large Roman quay found in the SE of the City of London**
 
@@ -134,7 +148,7 @@ Damian M Goodburn^1^
 Excavations on the historic City of London waterfront, just west of the Tower of London, revealed the remains of a large oak quay built in AD133. The recent detailed 'forensic' recording produced much new information not recorded during the earlier, limited excavation in 1973. Tree ring dating was refined, and new evidence of the very unusual systems of timber preparation used for many repetitive quay elements were also recorded. However, for this conference one of the most important features were numerous sets of stamped and branded marks which must be associated with the Roman timber trade and supply system. It is likely that this particularly tall quay was built for the use of deep sea trading vessels.
 
 
-## S5-O-009 {.unnumbered}
+## S5-O-010 {.unnumbered}
 
 **Timber imports to Norse Greenland. Lifeline or luxury?**
 
@@ -147,7 +161,7 @@ Lísabet Guðmundsdóttir^1^
 Due to limited native woodland in Greenland, which was not suitable for larger construction and boatbuilding, it has been argued that it was necessary to import timber to meet the wood requirements of the Norse Greenlanders (985-1450 AD). To evaluate the extent of timber imports to Norse Greenland, the taxonomic composition of archaeological wood assemblages from five Norse sites were analysed to determine whether the wood was native, import or driftwood. The low species diversity of Greenlandic woodlands makes it easy to identify non-native wood remains. However, due to the vast distribution of certain tree species, wood taxa analysis alone cannot differentiate between imported wood and driftwood. As of yet, various chemical methods have not proven to be successful in distinguishing between these two categories. However, by comparing the results with wood assemblages from other cultural groups in Greenland and the Smith Sound, which had limited or no contact with Europeans, I propose that it is possible to estimate the proportions of timber import to Norse Greenland. In this talk I will discuss the importance of timber imports for the Norse Greenlandic society. I will examine the origin of imported timber and whether it was a resource to which everyone had equal access. I will also explore the idea that a lack of imported timber played a part in the abandonment of the Norse Greenlandic settlements.
 
 
-## S5-O-010 {.unnumbered}
+## S5-O-011 {.unnumbered}
 
 **The production of barrels and casks in the Netherlands in Late Middle Ages and Early Modern period**
 
@@ -164,7 +178,7 @@ Barrels and casks were essential to this development since merchandise such as w
 This paper explores the way the production of barrels and casks was organized and executed in the late medieval and early modern northern part of the Low Countries. Specific features of the organization of this production can be extracted from the archives of the coopers\' guilds. Archaeological data offers a chance to explore the long-term development of the coopers' craft, by mapping the dendrochronologically established felling dates and the provenance of the timber through time. This is compared with the spatial distribution of the barrels and casks from archaeological context in order to take the first steps in understanding the production of this packaging material.
 
 
-## S5-O-011 {.unnumbered}
+## S5-O-012 {.unnumbered}
 
 **From research on timber supply in rural areas to regional watersheds**
 
@@ -179,7 +193,7 @@ The project Deep in Heritage (FED-tWIN2020-prf024, BELSPO), led by the dendro la
 The methods used and the results obtained within the framework of this « mountain research » will lead to a re-interrogation of timber supply between the Meuse and Seine watersheds and will contribute to the creation of tools for modelling the provenances and terroirs of origin of the wood.
 
 
-## S5-O-012 {.unnumbered}
+## S5-O-013 {.unnumbered}
 
 **MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
 

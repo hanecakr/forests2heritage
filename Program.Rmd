@@ -70,7 +70,7 @@ prog %>%
   kbl() %>%
   kable_paper("hover", full_width = T) %>% 
   column_spec(column = c(1,2), width = "100px") %>% 
-  row_spec(row = c(1:2, 11, 18:19, 28:29, 35), background = "#D6EAF8") %>% 
+  row_spec(row = c(1:2, 11, 18:19, 28:29, 36), background = "#D6EAF8") %>% 
   row_spec(row = c(12:16), background = "#F2F2F2") %>% 
   row_spec(row = c(17, 27), background = "#EDBB99") %>% # coffee & lunch
   row_spec(0, color = "#FFFFFF00") %>% 

@@ -14,7 +14,6 @@ rmd_files: [
   "Session_4.Rmd",
   "Session_5.Rmd",
   "Session_6.Rmd",
-  "Session_7.Rmd",
-  "Participants.Rmd"
+  "Session_7.Rmd"
 ]
 output_dir: "docs"
