@@ -229,7 +229,7 @@
    <td style="text-align:left;width: 100px; "> 14:15 - 14:30 </td>
    <td style="text-align:left;width: 100px; "> [S1-PR-002](#s1-pr-002) </td>
    <td style="text-align:left;"> Timothy Easton </td>
-   <td style="text-align:left;"> Worked timber, protective symbols by craftsmen from the 16th and 17th centuries, and some reasons for their application </td>
+   <td style="text-align:left;"> Protective symbols applied by  craftsmen on worked timber during the 16th and 17th centuries, and some reasons for their application </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 14:30 - 14:45 </td>
@@ -829,7 +829,7 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 16:15 - 16:30 </td>
-   <td style="text-align:left;width: 100px; ">  </td>
+   <td style="text-align:left;width: 100px; "> [S8-O-001](#s8-o-001) </td>
    <td style="text-align:left;"> Brita Lorentzen </td>
    <td style="text-align:left;"> (The other) dendroprovenancing: Developing ethical guidelines in dendrochronological research to protect cultural heritage </td>
   </tr>

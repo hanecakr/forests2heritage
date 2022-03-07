@@ -4,7 +4,7 @@ author:
 - Kristof Haneca
 - Aoife Daly
 - Marta Domínguez-Delmás
-date: "03 maart, 2022"
+date: "07 maart, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 url: hanecakr.github.io/forests2heritage
@@ -17,10 +17,9 @@ github-repo: hanecakr/forests2heritage/
 # Conference website {.unnumbered}
   
   
-<https://www.forests2heritage.nl/>  
-  
-  
-  
+<https://www.forests2heritage.nl/>
+ 
+
 [![](bookofAbstracts%20header.jpg){width="100%"}](https://event.forests2heritage.nl/)
 
 <!-- > **From Forests to Heritage** -->

@@ -108,15 +108,14 @@ We present a 2ka-long ring-width chronology of hinoki cypress and its applicatio
 
 ## S1-PR-002 {.unnumbered}
 
-**Worked timber, protective symbols by craftsmen from the 16th and 17th centuries, and some reasons for their application**
+**Protective symbols applied by  craftsmen on worked timber during the 16th and 17th centuries, and some reasons for their application**
 
 Timothy Easton
 
 <timothyeaston@fast-mail.net>
 
-Timber components in houses from the southern part of Britain are frequently found to have had distinctive marks scribed on their visible surfaces by carpenters. During the last 50 years, the author has been collating these symbols to show how the simplest forms from the early 16th century developed into more complex arrangements towards the later 17th century. By careful analysis he has shown when the earliest were added to chimney beams and this has led him to speculate the reasons that they were required to be put within the home. Although his study is mainly from South East England, the symbols collected from English ecclesiastical buildings and furnishings show their early origins from the first half of the 16th century. These furnishings with protective marks are not just from England but are also seen also on North European furniture.
-
-
+Timber components in houses from the southern part of Britain are frequently found to have had distinctive marks scribed on their visible surfaces by carpenters.  During the last 50 years, the author has been collating these symbols to show how the simplest forms from the early 16th century developed into more complex arrangements towards the later 17th century. By careful analysis he has shown when the earliest were added to chimney beams and this has led him to speculate the reasons that they were required to be put within most homes. Although his study is mainly from South East England, the symbols collected from English ecclesiastical buildings and furnishings show their early origins from the first half of the 16th century. These furnishings with protective marks are not just from England but are also seen also on North European furniture.
+ 
 
 ## S1-PR-003 {.unnumbered}
 

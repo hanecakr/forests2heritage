@@ -17,10 +17,9 @@ github-repo: hanecakr/forests2heritage/
 # Conference website {.unnumbered}
   
   
-<https://www.forests2heritage.nl/>  
-  
-  
-  
+<https://www.forests2heritage.nl/>
+ 
+
 [![](bookofAbstracts%20header.jpg){width="100%"}](https://event.forests2heritage.nl/)
 
 <!-- > **From Forests to Heritage** -->
