@@ -509,7 +509,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Anne Crone) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair:  Jørgen Wadum) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 13:45 - 14:00 </td>
@@ -544,14 +544,14 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 15:00 - 15:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-006](#s5-o-006) </td>
-   <td style="text-align:left;"> Coralie Mills </td>
-   <td style="text-align:left;"> Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project </td>
+   <td style="text-align:left;"> Marieke van Vlierden </td>
+   <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 15:15 - 17:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 15:15 - 19:00 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> EXCURSIONS </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> EXCURSIONS (boat trip on the Amsterdam canals, ...) </td>
   </tr>
 </tbody>
 </table>
@@ -579,7 +579,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: tba) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Anne Crone) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 8:30 - 8:45 </td>
@@ -620,8 +620,8 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 10:00 - 10:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-013](#s5-o-013) </td>
-   <td style="text-align:left;"> Marieke van Vlierden </td>
-   <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
+   <td style="text-align:left;"> Coralie Mills </td>
+   <td style="text-align:left;"> Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 10:15 - 10:20 </td>

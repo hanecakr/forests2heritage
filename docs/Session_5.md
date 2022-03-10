@@ -90,17 +90,19 @@ As a result, an increasingly clearer picture is emerging of the ever-shifting re
 
 ## S5-O-006 {.unnumbered}
 
-**Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project**
+**MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
 
-Coralie Mills^1,\ 2^
+Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^
 
-*^1^ Dendrochronicle, Edinburgh. ^2^ School of Earth and Environmental Sciences, University of St Andrews.*
+*^1^ Independent art historian, Utrecht, the Netherlands. ^2^ Associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^4^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany.*
 
-<coralie.mills@dendrochronicle.co.uk>
+<info@mariekevanvlierden.nl> - <conservatie@sepperoels.be>
 
-Scotland's internationalist outlook today resonates with a long history of international trade and political relationships, especially with northern Europe and Scandinavia. The famous Lübeck Letter of 1296 from Scotland's guardians William Wallace and Andrew de Moray to the Lübeck and Hamburg authorities asked them to proclaim Scotland was once more open for business. The letter was written at Haddington in south east Scotland, in the 'debateable lands', between the Forth and Tweed rivers, upon which so many wars between Scots and English were fought. The South East Scotland Oak Dendrochronology (SESOD) project, seeking to develop the native Scottish oak tree-ring record for this geographical gap in our reference data, should perhaps have been titled 'Mission Impossible' because the results reveal the massive and early impact of these conflicts on the native timber supply, even in areas close to great medieval Borders woodlands like the Jed and Ettrick Forests.
+The RKD -- Netherlands Institute for Art History has been developing the MARKS ON ART database in close cooperation with the two specialists who devised it, art historian Marieke van Vlierden and conservator-restorer Seppe Roels. The purpose of this new database, which will become accessible online in due course, is to gather and share detailed information on a range of different marks that can be found on sculptures, furniture and the backs of panel paintings, dating from 1300 to 1700.
 
-In SESOD, a reconnaissance phase to locate candidate sites revealed how few oak timber structures survive and, of those selected for analysis, even fewer have proved to contain native oak. As the SESOD project approaches its finale, this paper builds on the individual site results to interpret the impacts of war and instability over many centuries on the timber supply and woodland history in South East Scotland and reflects on how, despite the challenges, this reinforced allegiances between Scotland and her overseas trading partners. SESOD is now giving a voice to these rare historic oak timbers which survived so much turbulence.
+Besides the more commonly encountered marks – signatures, monograms, master's marks, quality control marks and panel maker’s marks which provide unique information about such things as the maker, when and where the object was produced, – the MARKS ON ART database also includes so-called forest marks. Those large marks are exclusively found on Baltic wainscot, for example on the backs of panel paintings, sculptures, retables and pieces of furniture. They are probably marks of the owner of the forest or the wood (timber) merchant. Created or added in an early stage of processing the basic raw material, the above mentioned marks provide unique information about the trade and transportation of the wood of which the works of art are made.
+
+35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
 
 
 ## S5-O-007 {.unnumbered}
@@ -195,19 +197,17 @@ The methods used and the results obtained within the framework of this « mounta
 
 ## S5-O-013 {.unnumbered}
 
-**MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
+**Sourcing timber in a historic war zone: The South East Scotland Oak Dendrochronology project**
 
-Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^
+Coralie Mills^1,\ 2^
 
-*^1^ Independent art historian, Utrecht, the Netherlands. ^2^ Associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^4^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany.*
+*^1^ Dendrochronicle, Edinburgh. ^2^ School of Earth and Environmental Sciences, University of St Andrews.*
 
-<info@mariekevanvlierden.nl> - <conservatie@sepperoels.be>
+<coralie.mills@dendrochronicle.co.uk>
 
-The RKD -- Netherlands Institute for Art History has been developing the MARKS ON ART database in close cooperation with the two specialists who devised it, art historian Marieke van Vlierden and conservator-restorer Seppe Roels. The purpose of this new database, which will become accessible online in due course, is to gather and share detailed information on a range of different marks that can be found on sculptures, furniture and the backs of panel paintings, dating from 1300 to 1700.
+Scotland's internationalist outlook today resonates with a long history of international trade and political relationships, especially with northern Europe and Scandinavia. The famous Lübeck Letter of 1296 from Scotland's guardians William Wallace and Andrew de Moray to the Lübeck and Hamburg authorities asked them to proclaim Scotland was once more open for business. The letter was written at Haddington in south east Scotland, in the 'debateable lands', between the Forth and Tweed rivers, upon which so many wars between Scots and English were fought. The South East Scotland Oak Dendrochronology (SESOD) project, seeking to develop the native Scottish oak tree-ring record for this geographical gap in our reference data, should perhaps have been titled 'Mission Impossible' because the results reveal the massive and early impact of these conflicts on the native timber supply, even in areas close to great medieval Borders woodlands like the Jed and Ettrick Forests.
 
-Besides the more commonly encountered marks – signatures, monograms, master's marks, quality control marks and panel maker’s marks which provide unique information about such things as the maker, when and where the object was produced, – the MARKS ON ART database also includes so-called forest marks. Those large marks are exclusively found on Baltic wainscot, for example on the backs of panel paintings, sculptures, retables and pieces of furniture. They are probably marks of the owner of the forest or the wood (timber) merchant. Created or added in an early stage of processing the basic raw material, the above mentioned marks provide unique information about the trade and transportation of the wood of which the works of art are made.
-
-35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
+In SESOD, a reconnaissance phase to locate candidate sites revealed how few oak timber structures survive and, of those selected for analysis, even fewer have proved to contain native oak. As the SESOD project approaches its finale, this paper builds on the individual site results to interpret the impacts of war and instability over many centuries on the timber supply and woodland history in South East Scotland and reflects on how, despite the challenges, this reinforced allegiances between Scotland and her overseas trading partners. SESOD is now giving a voice to these rare historic oak timbers which survived so much turbulence.
 
 
 ## S5-PR-001 {.unnumbered}
