@@ -93,7 +93,7 @@ A reconstruction of a half model was made to understand the construction sequenc
 
 **Three altarpieces attributed to the Borman dynasty studied by dendrochronology**
 
-Pascale Fraiture^1^, Christophe Maggi^1^, Lisa Schindo^1,\ 2^
+Pascale Fraiture^1^, Christophe Maggi^1^, Lisa Shindo^1,\ 2^
 
 *^1^ Laboratories department (Dendrochronology Lab), Royal Institute for Cultural Heritage (KIK-IRPA), Brussels, Belgium. ^2^ ROOTS Cluster of Excellence, Institute of Pre- and Early Prehistoric Archaeology, Christian-Albrechts-University, Kiel, Germany.*
 
