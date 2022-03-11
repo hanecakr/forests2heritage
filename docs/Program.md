@@ -1,6 +1,6 @@
-# (PART\*) PROGRAM {-}
+# (PART\*) PROGRAMME {-}
 
-# Program {.unnumbered}
+# Programme {.unnumbered}
 
 
 
@@ -18,10 +18,10 @@
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 18:00 - 20:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 20:00 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> REGISTRATION &amp; ICEBREAKER </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> REGISTRATION &amp; ICEBREAKER (and hanging of posters) </td>
   </tr>
 </tbody>
 </table>
