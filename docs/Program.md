@@ -680,7 +680,7 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 11:15 - 11:30 </td>
    <td style="text-align:left;width: 100px; "> [S6-O-002](#s6-o-002) </td>
-   <td style="text-align:left;"> Tamar Hestrin-Grader </td>
+   <td style="text-align:left;"> Manu Frederickx </td>
    <td style="text-align:left;"> Old and new, large and small: Non-invasive techniques applied to a musical instrument </td>
   </tr>
   <tr>
