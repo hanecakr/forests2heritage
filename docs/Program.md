@@ -18,10 +18,10 @@
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 20:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 18:00 - 20:00 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> REGISTRATION &amp; ICEBREAKER (and hanging of posters) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> REGISTRATION &amp; ICEBREAKER </td>
   </tr>
 </tbody>
 </table>
@@ -142,10 +142,10 @@
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendrochronological dating of historical sacral constructions in Transcarpathian Ukraine </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> 10:36 - 11:00 </td>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> coffee </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 10:36 - 11:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> coffee </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;"> Session 2 </td>
@@ -157,19 +157,19 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Mike Belasus) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Aoife Daly) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 11:00 - 11:15 </td>
    <td style="text-align:left;width: 100px; "> [S2-O-001](#s2-o-001) </td>
-   <td style="text-align:left;"> Mike Belasus </td>
-   <td style="text-align:left;"> Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding </td>
+   <td style="text-align:left;"> Anne Crone </td>
+   <td style="text-align:left;"> Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 11:15 - 11:30 </td>
    <td style="text-align:left;width: 100px; "> [S2-O-002](#s2-o-002) </td>
-   <td style="text-align:left;"> Anne Crone </td>
-   <td style="text-align:left;"> Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland </td>
+   <td style="text-align:left;"> Yardeni Vorst </td>
+   <td style="text-align:left;"> A dendroarchaeological study of Roman-period river barges from the Lower Rhine region </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 11:30 - 11:45 </td>
@@ -196,10 +196,10 @@
    <td style="text-align:left;"> Wood identification and dendrochronological techniques applied for the study of shipwrecks on the Atlantic coast of Argentina: comparison of different case studies showing limitations and potentials </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> 12:30 - 13:30 </td>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> lunch </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 12:30 - 13:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> lunch </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;"> Mixed session </td>
@@ -252,44 +252,50 @@
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-001](#s2-p-001) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Abdelmoniem M. Abdelmoniem </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Conservation processes of a painted wooden coffin at Saqqara area </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-002](#s2-p-002) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Angela Balzano </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Microscopy techniques for the examination of waterlogged archaeological wood </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-003](#s2-p-003) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-002](#s2-p-002) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Daniel Peter Dalicsek </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Practices of shipwreck timber sampling for dendrochronology </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-004](#s2-p-004) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-003](#s2-p-003) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Anton Hansson </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> The Gribshunden Barrels </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-005](#s2-p-005) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-004](#s2-p-004) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Ronald M. Visser </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Connecting ships: using dendrochronological network analysis to determine provenance and ship building practices of Roman-period river barges found in the Lower Rhine region </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> 15:05 - 15:30 </td>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;background-color: #EDBB99 !important;"> coffee </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-005](#s2-p-005) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Abdelmoniem M. Abdelmoniem </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Conservation processes of a painted wooden coffin at Saqqara area </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 15:05 - 15:30 </td>
+   <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> coffee </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
+   <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;"> Session 2 cont. </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Shipwrecks and archaeological structures </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> (chair: Mike Belasus) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 15:30 - 15:45 </td>
@@ -306,8 +312,8 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 16:00 - 16:15 </td>
    <td style="text-align:left;width: 100px; "> [S2-O-008](#s2-o-008) </td>
-   <td style="text-align:left;"> Yardeni Vorst </td>
-   <td style="text-align:left;"> A dendroarchaeological study of Roman-period river barges from the Lower Rhine region </td>
+   <td style="text-align:left;"> Mike Belasus </td>
+   <td style="text-align:left;"> Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 18:00 </td>
@@ -418,20 +424,20 @@
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-003](#s3-p-003) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Rasha Shaheen </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Preventive Conservation of Egyptian Wooden Statues back to Late Period Displayed at Egyptian Textile Museum </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-004](#s3-p-004) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Silke Lange </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Wooden artefacts from the castellum Velsen I, the Netherlands </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-005](#s3-p-005) </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-004](#s3-p-004) </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Sytske Weidema </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendro4Art. The repository for dendrochronological research data on early modern paintings and sculpture </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
+   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-005](#s3-p-005) </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Rasha Shaheen </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Preventive Conservation of Egyptian Wooden Statues back to Late Period Displayed at Egyptian Textile Museum </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 10:35 - 11:00 </td>
@@ -632,7 +638,7 @@
   <tr>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
    <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S4-P-001](#s4-p-001) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Andreas Rais </td>
+   <td style="text-align:left;background-color: #F2F2F2 !important;"> Jan-Willem G. van de Kuilen </td>
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Mechanical wood properties over the past 100 years </td>
   </tr>
   <tr>
@@ -812,14 +818,14 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 15:45 - 16:00 </td>
    <td style="text-align:left;width: 100px; "> [S7-O-008](#s7-o-008) </td>
-   <td style="text-align:left;"> Hilke Schroeder </td>
-   <td style="text-align:left;"> Genetic analysis of „The Bed of Roses“ </td>
+   <td style="text-align:left;"> Johannes Edvardsson </td>
+   <td style="text-align:left;"> Old Wood in a New Light – A dendrochronological database </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 16:00 - 16:15 </td>
-   <td style="text-align:left;width: 100px; "> [S7-O-009](#s7-o-009) </td>
-   <td style="text-align:left;"> Johannes Edvardsson </td>
-   <td style="text-align:left;"> Old Wood in a New Light – A dendrochronological database </td>
+   <td style="text-align:left;width: 100px; "> [S7-PR-003](#s7-pr-003) </td>
+   <td style="text-align:left;"> Hilke Schroeder </td>
+   <td style="text-align:left;"> Genetic analysis of „The Bed of Roses“ </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;">  </td>
@@ -829,7 +835,7 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 16:15 - 16:30 </td>
-   <td style="text-align:left;width: 100px; "> [S8-O-001](#s8-o-001) </td>
+   <td style="text-align:left;width: 100px; "> [S8-PR-001](#s8-pr-001) </td>
    <td style="text-align:left;"> Brita Lorentzen </td>
    <td style="text-align:left;"> (The other) dendroprovenancing: Developing ethical guidelines in dendrochronological research to protect cultural heritage </td>
   </tr>

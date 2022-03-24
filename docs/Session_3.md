@@ -161,19 +161,6 @@ The combined dendrochronological, archaeobotanical and historical examination no
 
 ## S3-P-003 {.unnumbered}
 
-**Preventive conservation of Egyptian wooden statues back to late period displayed at Egyptian textile museum**
-
-Rasha Shaheen^1^, Asmaa Eltobgy^2^
-
-*^1^ Conservation Department, Egyptian Museum, Cairo, Egypt. ^2^ Conservation Department, Manial Palace Museum, Cairo, Egypt.*
-
-<rashashaheen55@yahoo.com>
-
-The Egyptian Textile Museum in Cairo houses many unique pieces of art, dating back to the Pharaonic times, and are prone to damage from climate change. This paper present preventive conservation of wooden statues to protect them from negative impact of climate change to keep the sustainability of these unique artifacts. It is a Statuette of an old man wearing an elaborate cloak over one shoulder that covers his body from neck to mid-calf (looks like Ka-aper statue). His shaven head resembles representations of Egyptian priests. This heavy type of garment also occurs on a relief dating to this period. Late Period, 30th Dynasty, 380 - 343 BC, Abusir, Giza. The piece suffer from the presence of calcified salts on the surface as a result of the bad displaying of the statue, due to the different coefficient of expansion and contraction between different materials. As well as, the wood from the materials absorb moisture from the surrounding environment, which led to the emergence of salts on the surface. The pieces were documented by the digital microscope. The pieces were cleaned mechanically by blower to remove dust and then use soft brushes. The pieces were placed in the humidification chamber to treat dehydration and salts removal. The pieces were consolidated with Paraloid. The pieces were display in especial a showcase for wooden pieces.
-
-
-## S3-P-004 {.unnumbered}
-
 **Wooden artefacts from the castellum Velsen I, the Netherlands**
 
 Silke Lange^1^
@@ -185,7 +172,7 @@ Silke Lange^1^
 During the excavations of the Roman fort Velsen in the 70s and 80s of the last century, a large amount of find material came to light. The fort which was located about 20 km northwest of Amsterdam, dates back to the Augustan/Tiberian period. Thanks to the waterlogged conditions, organic material was well preserved. Commissioned by the Cultural Heritage Agency of the Netherlands, the analysis of the wooden finds was carried out only recently and led to some amazing revelations. For example, the find assemblage includes kitchen utensils, writing tablets, tent pegs, footwear and furniture parts, but also a Centurion staff and a fragment of a pan flute were recognized. The study of the wooden objects has provided insight into the use of wood and woodworking, as well as an insight into the distribution of standardised and commissioned utensils throughout the Roman Empire.
 
 
-## S3-P-005 {.unnumbered}
+## S3-P-004 {.unnumbered}
 
 **Dendro4Art. The repository for dendrochronological research data on early modern paintings and sculpture**
 
@@ -202,3 +189,16 @@ Dendro4Art is a joined initiative by CATS (Centre for Art Technological Studies 
 In combination with RKD's database Marks on Art, containing data on marks, such as hall marks, panel makers' marks and merchant marks on panel paintings or sculpture, scholars will be able to investigate complex questions, regarding the attribution and dating of the object, timber trade or wood supply.
 
 Dendro4Art is a sustainable and ever growing database. RKD is reaching out to dendrochronologists and researchers in related fields to collaborate with us, in order to collect, store and share data. The aim of this poster presentation is to inform the scholarly community about Dendro4Art's opportunities, to invite dendrochronologists to share their data and to receive feedback for future developments of the repository.
+
+
+## S3-P-005 {.unnumbered}
+
+**Preventive conservation of Egyptian wooden statues back to late period displayed at Egyptian textile museum**
+
+Rasha Shaheen^1^, Asmaa Eltobgy^2^
+
+*^1^ Conservation Department, Egyptian Museum, Cairo, Egypt. ^2^ Conservation Department, Manial Palace Museum, Cairo, Egypt.*
+
+<rashashaheen55@yahoo.com>
+
+The Egyptian Textile Museum in Cairo houses many unique pieces of art, dating back to the Pharaonic times, and are prone to damage from climate change. This paper present preventive conservation of wooden statues to protect them from negative impact of climate change to keep the sustainability of these unique artifacts. It is a Statuette of an old man wearing an elaborate cloak over one shoulder that covers his body from neck to mid-calf (looks like Ka-aper statue). His shaven head resembles representations of Egyptian priests. This heavy type of garment also occurs on a relief dating to this period. Late Period, 30th Dynasty, 380 - 343 BC, Abusir, Giza. The piece suffer from the presence of calcified salts on the surface as a result of the bad displaying of the statue, due to the different coefficient of expansion and contraction between different materials. As well as, the wood from the materials absorb moisture from the surrounding environment, which led to the emergence of salts on the surface. The pieces were documented by the digital microscope. The pieces were cleaned mechanically by blower to remove dust and then use soft brushes. The pieces were placed in the humidification chamber to treat dehydration and salts removal. The pieces were consolidated with Paraloid. The pieces were display in especial a showcase for wooden pieces.

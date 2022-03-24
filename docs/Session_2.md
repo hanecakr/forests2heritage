@@ -3,21 +3,6 @@
 
 ## S2-O-001 {.unnumbered}
 
-**Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
-
-Mike Belasus^1^
-
-^*1*^ *Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.*
-
-[belasus\@nihk.de](mailto:belasus@nihk.de){.email}
-
-The perception of wood in connection to shipbuilding of the past seems to be strongly idealised and often not fitting to the reality reflected in the archaeological context. Features of tree-anatomy were only sometimes recorded, and often ignored during the interpretation of ship finds. The idealized idea of a shipwright, who is choosing personally only the best material, was likely born out of an idealized image of the past and possibly influenced by rather recent shipbuilding practices. Detailed advise on the choice of high quality timbers for shipbuilding only appear in the 20th century, long after wood was superseded by steel for most vessels and competition for shipbuilding timber on the marked market had ceased. In some cases, this has produced a somewhat distorted interpretation of ships and shipbuilding because features of growth, in a holistic approach, can give information beyond timber quality but also on environmental influences and the human impact on this resource. In certain cases, it even allows to draw conclusions on economic and social circumstances. This way the information gathered from the building timber can alter the vessels interpretation.
-
-This paper will discuss the demands for shipbuilding timber and its quality in North Western Europe as a result of the ERC-TIMBER project (Grant agreement No. 677152). It aims to reflect on possible social, economic or environmental reasons for the shipwrights' choices.
-
-
-## S2-O-002 {.unnumbered}
-
 **Marking time in the Iron Age; the dendrochronology of loch (lake) settlement in SW Scotland**
 
 Anne Crone^1^
@@ -29,6 +14,21 @@ Anne Crone^1^
 Although there is evidence for settlements in the lochs of Scotland from the Neolithic to the early modern period, the 1st millennium BC saw the most intense period of activity, specifically that period from 800 to 400 BC where the calibration curve is so flat as to render radiocarbon determinations highly imprecise. Studies of the Iron Age throughout Europe are bedevilled by the Halstatt Plateau but in the British Isles few sites of that period have benefitted from the precision of dendro-dating. However, in a small area of SW Scotland, there are now three dendro-dated wetland settlements which are enabling archaeologists to examine the dynamics of regional settlement development via the chronological relationships between these sites. Extensive excavations at one of these sites, Black Loch of Myrton, yielded large quantities of oak, alder, hazel and ash, all of which have been analysed to produce a precisely dated chronological framework spanning three major episodes of occupation on the settlement, from 438/7 BC to 223 BC. Over the course of two centuries we see the development, expansion, abandonment and re-occupation of the settlement, all at the scale of human lifetimes.
 
 In this talk the dendrochronological evidence from SW Scotland will be outlined, and some of the interpretative issues associated with the use of non-oak species will be raised. The impact of high-resolution timescales on our understanding of the dynamics of settlement in this period will also be explored.
+
+
+## S2-O-002 {.unnumbered}
+
+**A dendroarchaeological study of Roman-period river barges from the Lower Rhine region**
+
+Yardeni Vorst^1^
+
+^*1*^ *Vorst wood research, Zaandam, the Netherlands.*
+
+[yvorst\@gmail.com](mailto:yvorst@gmail.com){.email}
+
+In 2003, a river barge dating to the Roman period was found in a former riverbed of the Rhine in the western part of the Netherlands. The ship, named ‘Woerden 7’, formed a new discovery in a long series of Roman-period ship finds in Lower Rhine region since the late 1960’s. In particular, large flat-bottomed river barges had been found. Many of these vessels were excavated and some were conserved, such as the The Zwammerdam ships, found in the village of Zwammerdam in the 1970’s.
+
+For an ongoing research project the Zwammerdam ships have been re-examined using more modern techniques. A comparison between ship Zwammerdam no. 6 and the earlier mentioned Woerden 7 vessel shows that the ships resemble each other closely in construction. Apart from a study of the ships’ constructions a dendroarchaeological study of the timbers has been undertaken. Dendrochronology has been used to date the ships and to determine which timbers were obtained from the same trees. This has helped to trace original building sequences and has allowed for new ideas on the shipbuilding processes. Identifying the source area of trees used in this Roman-period shipbuilding will be a subject presented in a poster together with Ronald Visser. The Zwammerdam vessels are currently being reconstructed at an archaeological park (Archeon) in the South of Holland and the research information gathered will contribute to stories on their historical background.
 
 
 ## S2-O-003 {.unnumbered}
@@ -116,17 +116,17 @@ A comprehensive archaeological evaluation is planned, including age structures a
 
 ## S2-O-008 {.unnumbered}
 
-**A dendroarchaeological study of Roman-period river barges from the Lower Rhine region**
+**Just bad quality? Some thoughts on the use of timber in medieval to modern shipbuilding**
 
-Yardeni Vorst^1^
+Mike Belasus^1^
 
-^*1*^ *Vorst wood research, Zaandam, the Netherlands.*
+^*1*^ *Lower Saxony Institute for Historical Coastal Research, Wilhelmshaven, Germany.*
 
-[yvorst\@gmail.com](mailto:yvorst@gmail.com){.email}
+[belasus\@nihk.de](mailto:belasus@nihk.de){.email}
 
-In 2003, a river barge dating to the Roman period was found in a former riverbed of the Rhine in the western part of the Netherlands. The ship, named ‘Woerden 7’, formed a new discovery in a long series of Roman-period ship finds in Lower Rhine region since the late 1960’s. In particular, large flat-bottomed river barges had been found. Many of these vessels were excavated and some were conserved, such as the The Zwammerdam ships, found in the village of Zwammerdam in the 1970’s.
+The perception of wood in connection to shipbuilding of the past seems to be strongly idealised and often not fitting to the reality reflected in the archaeological context. Features of tree-anatomy were only sometimes recorded, and often ignored during the interpretation of ship finds. The idealized idea of a shipwright, who is choosing personally only the best material, was likely born out of an idealized image of the past and possibly influenced by rather recent shipbuilding practices. Detailed advise on the choice of high quality timbers for shipbuilding only appear in the 20th century, long after wood was superseded by steel for most vessels and competition for shipbuilding timber on the marked market had ceased. In some cases, this has produced a somewhat distorted interpretation of ships and shipbuilding because features of growth, in a holistic approach, can give information beyond timber quality but also on environmental influences and the human impact on this resource. In certain cases, it even allows to draw conclusions on economic and social circumstances. This way the information gathered from the building timber can alter the vessels interpretation.
 
-For an ongoing research project the Zwammerdam ships have been re-examined using more modern techniques. A comparison between ship Zwammerdam no. 6 and the earlier mentioned Woerden 7 vessel shows that the ships resemble each other closely in construction. Apart from a study of the ships’ constructions a dendroarchaeological study of the timbers has been undertaken. Dendrochronology has been used to date the ships and to determine which timbers were obtained from the same trees. This has helped to trace original building sequences and has allowed for new ideas on the shipbuilding processes. Identifying the source area of trees used in this Roman-period shipbuilding will be a subject presented in a poster together with Ronald Visser. The Zwammerdam vessels are currently being reconstructed at an archaeological park (Archeon) in the South of Holland and the research information gathered will contribute to stories on their historical background.
+This paper will discuss the demands for shipbuilding timber and its quality in North Western Europe as a result of the ERC-TIMBER project (Grant agreement No. 677152). It aims to reflect on possible social, economic or environmental reasons for the shipwrights' choices.
 
 
 ## S2-PR-001 {.unnumbered}
@@ -144,25 +144,6 @@ Wood anatomy or xylogeny allows the botanical identification of woody material b
 
 ## S2-P-001 {.unnumbered}
 
-**Conservation processes of a painted wooden coffin at Saqqara area**
-
-Abdelmoniem M. Abdelmoniem^1^, Naglaa Mahmoud^1^, Wael S. Mohamed^2^
-
-^*1*^ *Conservation Department, Faculty of Archaeology, Fayoum University, Fayoum, Egypt. ^2^ Polymer department, National Research Centre, Dokki, Giza, Egypt.*
-
-[ama63\@fayoum.edu.eg](mailto:ama63@fayoum.edu.eg){.email}
-
-This paper aims to document the conservation processes of a polychrome wooden coffin at Saqqara dating back to the late period. The exterior part of the coffin is decorated with painted layer, while inside it is covered with a layer of the black resin.
-
-The coffin was in a bad condition. It was covered with a thick layer of dust, loosing parts of the painted and gesso layers, as well as other parts of these layers were lost. Some parts were missing from the foot area of the lid coffin. 2D illustrations and 3D modules were made to document the coffin.
-
-The conservation processes of the wooden coffin included mechanical and chemical cleaning, reattachment of the separated parts of the ground layer and painted layers, filling the edge of the painted layer, and consolidating the black resin layer. The materials used for these processes proved to be stable and retrieval by many researchers.
-
-The conservation process included mechanical cleaning using soft brushes, chemical cleaning using ethyl alcohol and water for painted layer and xylene and water for black resin layer, stabilization of the separated gesso layer using Paraloid B72, filling cracks of the gesso layers using glass microballoon with Paraloid B72, and consolidating the painted layer with KlucelE and black resin layer with Nano Paraloid B72.
-
-
-## S2-P-002 {.unnumbered}
-
 **Microscopy techniques for the examination of waterlogged archaeological wood**
 
 Angela Balzano^1^, Maks Merela^1^, Katarina Čufar^1^
@@ -178,7 +159,7 @@ Sections from frozen WAW, approximately 20-30 µm thick and 1cm2 in size, allowe
 The improved SEM protocol provided high quality images of large sections at lower magnifications and also of details at high magnifications with high resolution. The combination of SEM and EDX allowed the observation of the preservation of the cell wall as well as the location, amount, shape and chemical composition of various inclusions with high amounts of Fe, S and Ca found in all taxa studied, while *Populus* also contained increased amounts of Si.
 
 
-## S2-P-003 {.unnumbered}
+## S2-P-002 {.unnumbered}
 
 **Practices of shipwreck timber sampling for dendrochronology**
 
@@ -191,7 +172,7 @@ Daniel Peter Dalicsek^1^
 In 2018, two important publications saw light, Selecting and Sampling Shipwreck Timbers for Dendrochronological Research: practical guidance by Daly et al. and Shipwrecks and Provenance: in-situ timber sampling protocols, with a focus on wrecks of the Iberian shipbuilding tradition by Rich et al. My presentation would look at the impact of these publications and the focus on the works of maritime archaeologists and dendrochronologists in sampling shipwreck timbers over the past five years. It´s main focus would be on intrusive survey methods and on shipwreck sites, but would not exclude other underwater sites or terrestrial excavations. It would consist of a survey questionnaire, sent out to maritime archaeologists across the globe and interviews with maritime archaeologists and dendrochronologists ahead of the conference. This would enable insight and provide an overview over fieldwork practices today. The presentation would showcase the opportunities for better and more uniform sampling practices as well as present a chance for and generate discussion among the conference´s audience. The aim is to take a snapshot of how we conduct our science and if collaboration between dendrochronologists and archaeologists is sufficient.
 
 
-## S2-P-004 {.unnumbered}
+## S2-P-003 {.unnumbered}
 
 **The Gribshunden Barrels**
 
@@ -204,7 +185,7 @@ Anton Hansson^1^, Hans Linderson^1^, Brendan Foley^2^
 The Danish Royal Flagship Gribshunden sank in the Blekinge archipelago in the early summer of 1495, while on its way to the Swedish town of Kalmar. There the Danish King Hans planned to meet the Swedish Regent Sten Sture the Elder in the kings wish to re-establish the Nordic Union between Denmark, Norway, and Sweden by being elected king of Sweden. During field campaigns in 2019 and 2021 a joint multi-disciplinary research effort led by Lund University has excavated parts of the Gribshunden shipwreck. As a part of the excavations, a large number of barrels staves and heads were recovered for dendrochronological and dendroprovenance analysis in order to answer certain research questions: (i) the timber source area (ii) The barrel construction locality (iii) the lifespan of a barrel (iiii) barrel size and standards. In total, 135 oak staves and heads were analysed, 79 % of which were successfully dated. Two major timber source areas were revealed, Baltic (59%) and Scania (22%). The mix of timber sources in the barrels suggest they were not constructed in the source area. Based on the average sapwood amount we can conclude that most barrels must have been constructed a few years prior to sinking, suggesting a short life span of barrels in general. Together with these dendrochronological results, further studies on numerous finds at the wreck site will provide new views of the medieval economy and political connections in the late medieval period.
 
 
-## S2-P-005 {.unnumbered}
+## S2-P-004 {.unnumbered}
 
 **Connecting ships: using dendrochronological network analysis to determine provenance and ship building practices of Roman-period river barges found in the Lower Rhine region**
 
@@ -217,3 +198,22 @@ Ronald M. Visser^1^, Yardeni Vorst^2^
 Over the past decades various Roman-period river barges were found in the Lower Rhine region. These ships were large vessels of over twenty meters in length. Many were excavated in order to document the constructions and some were lifted from the ground and conserved for future display. The first barges that were found (fifty years ago), the Zwammerdam ships, were among those that were preserved. This has more recently allowed for a re-examination of their ship constructions using more modern techniques. Research on the constructions including a dendroarchaeological study of the timbers has been undertaken by Y. Vorst. The provenance of the wood has been studied by both researchers, based on a recently published approach (Visser 2021). This approach uses networks to visualize and explore dendrochronological relations based on similarity. In addition, these networks give insight in other aspects of ship building practices, such as wood use and the construction. The combined studies have led to a better understanding of past practices in shipbuilding and timber transport and use during the Roman period.
 
 Visser, R.M. 2021 Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. *Journal of Computer Applications in Archaeology* 4(1): 230--253. DOI: <https://doi.org/10.5334/jcaa.79>.
+
+
+## S2-P-005 {.unnumbered}
+
+**Conservation processes of a painted wooden coffin at Saqqara area**
+
+Abdelmoniem M. Abdelmoniem^1^, Naglaa Mahmoud^1^, Wael S. Mohamed^2^
+
+^*1*^ *Conservation Department, Faculty of Archaeology, Fayoum University, Fayoum, Egypt. ^2^ Polymer department, National Research Centre, Dokki, Giza, Egypt.*
+
+[ama63\@fayoum.edu.eg](mailto:ama63@fayoum.edu.eg){.email}
+
+This paper aims to document the conservation processes of a polychrome wooden coffin at Saqqara dating back to the late period. The exterior part of the coffin is decorated with painted layer, while inside it is covered with a layer of the black resin.
+
+The coffin was in a bad condition. It was covered with a thick layer of dust, loosing parts of the painted and gesso layers, as well as other parts of these layers were lost. Some parts were missing from the foot area of the lid coffin. 2D illustrations and 3D modules were made to document the coffin.
+
+The conservation processes of the wooden coffin included mechanical and chemical cleaning, reattachment of the separated parts of the ground layer and painted layers, filling the edge of the painted layer, and consolidating the black resin layer. The materials used for these processes proved to be stable and retrieval by many researchers.
+
+The conservation process included mechanical cleaning using soft brushes, chemical cleaning using ethyl alcohol and water for painted layer and xylene and water for black resin layer, stabilization of the separated gesso layer using Paraloid B72, filling cracks of the gesso layers using glass microballoon with Paraloid B72, and consolidating the painted layer with KlucelE and black resin layer with Nano Paraloid B72.

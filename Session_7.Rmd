@@ -113,23 +113,6 @@ This experimental study focuses on the effects of carbonization temperature on o
 
 ## S7-O-008 {.unnumbered}
 
-**Genetic analysis of „The Bed of Roses"**
-
-Hilke Schroeder^1^, Lasse Schindler^1^
-
-*^1^ Thuenen Institute of Forest Genetics, Grosshansdorf, Germany.*
-
-<hilke.schroeder@thuenen.de>
-
-A restorer of old furniture asked the Thuenen Institute of Forest Genetics to help him with a genetic analysis of a bed declared as Victorian from the 19. Century but to his opinion clearly older. A first dendrochronological analysis resulted in the 18. Century and best accordance to American oaks. With genetic analysis no age determination is possible but species and origin can be identified. We got samples from the bedposts of the old bed and performed genetic analysis. We found that the bed was made of an European oak species and also the analysis of the origin resulted in Central Europe with a possibility of Britain.
-
-With more expert reports of other scientists (as radiocarbon analysis, another dendrochronological analysis, detailed research of the used paints and some more) it became more and more clear that the restorer maybe bought the „Bed of Roses" -- the bed in which Henry VII and Elizabeth of York put an end to the war of roses.
-
-Using this example, we will explain the use of genetic methods to identify species and origin of wood samples for a broad range of applicabilities. And, of course, we will tell something more about the „Bed of Roses".
-
-
-## S7-O-009 {.unnumbered}
-
 **Old Wood in a New Light -- A dendrochronological database**
 
 Johannes Edvardsson^1^, Philip Buckland^2^, Anton Hansson^1^, Mattias Sjölander^2^, Johan von Boer^2^, Hans Linderson^1^, Björn Gunnarson^3^, Hans W Linderholm^4^, Igor Drobyshev^5^, Björn Nilsson^6^, Dan Hammarlund^1^
@@ -165,6 +148,23 @@ Fusa Miyake^1^
 <fmiyake@isee.nagoya-u.ac.jp>
 
 Tree rings record past extreme solar bursts as radiocarbon spikes. Thus far, several radiocarbon spikes have been reported, such as the 774 CE, 993 CE, and \~660 BCE events. Such signatures of extreme solar bursts are not only important for solar physics research, but also useful for accurate dating. In this presentation, I will introduce the detected radiocarbon spikes and a further exploration efforts of past radiocarbon spikes.
+
+
+## S7-PR-003 {.unnumbered}
+
+**Genetic analysis of „The Bed of Roses"**
+
+Hilke Schroeder^1^, Lasse Schindler^1^
+
+*^1^ Thuenen Institute of Forest Genetics, Grosshansdorf, Germany.*
+
+<hilke.schroeder@thuenen.de>
+
+A restorer of old furniture asked the Thuenen Institute of Forest Genetics to help him with a genetic analysis of a bed declared as Victorian from the 19. Century but to his opinion clearly older. A first dendrochronological analysis resulted in the 18. Century and best accordance to American oaks. With genetic analysis no age determination is possible but species and origin can be identified. We got samples from the bedposts of the old bed and performed genetic analysis. We found that the bed was made of an European oak species and also the analysis of the origin resulted in Central Europe with a possibility of Britain.
+
+With more expert reports of other scientists (as radiocarbon analysis, another dendrochronological analysis, detailed research of the used paints and some more) it became more and more clear that the restorer maybe bought the „Bed of Roses" -- the bed in which Henry VII and Elizabeth of York put an end to the war of roses.
+
+Using this example, we will explain the use of genetic methods to identify species and origin of wood samples for a broad range of applicabilities. And, of course, we will tell something more about the „Bed of Roses".
 
 
 ## S7-P-001 {.unnumbered}
