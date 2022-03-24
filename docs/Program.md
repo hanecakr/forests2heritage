@@ -554,7 +554,7 @@
    <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 15:15 - 19:00 </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 18:30 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> EXCURSIONS (boat trip on the Amsterdam canals, ...) </td>

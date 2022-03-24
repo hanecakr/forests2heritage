@@ -102,7 +102,7 @@ This paper combines conventional and dendro-CT to answer the age question and th
 
 **Out of the woods phase II**
 
-Stephan Nicolaij^1\, 2^, Silke Lange^1\, 3^, Lien Lombaert^4^, Ignace Bourgeois^5^, Natalie Cleeren^6^, Jonathan Jacops^4^, Koen Deforce^7^, Kristof Haneca^8^, Jelte van der Laan^1\, 9^
+Stephan Nicolaij^1,\ 2^, Silke Lange^1,\ 3^, Lien Lombaert^4^, Ignace Bourgeois^5^, Natalie Cleeren^6^, Jonathan Jacops^4^, Koen Deforce^7^, Kristof Haneca^8^, Jelte van der Laan^1,\ 9^
 
 ^*1*^ *WOODAN Foundation, Groningen, The Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ BIAX Consult, Zaandam, the Netherlands. ^4^ Erkend Erfgoeddepot Ename, Oudenaarde, Belgium. ^5^ Provinciaal Archeologisch Depot (PAD), Antwerp, Belgium. ^6^ Natalie Cleeren Archaeological Conservation, Geetbets, Belgium. ^7^ Ghent University, Ghent, Belgium. ^8^ Flanders Heritage Agency, Brussels, Belgium. ^9^ Cambium Botany, Kleine Huisjes, the Netherlands.*
 

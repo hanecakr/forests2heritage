@@ -1,6 +1,6 @@
 # Towards ethical guidelines {.unnumbered}
 
-## S8-O-001 {.unnumbered}
+## S8-PR-001 {.unnumbered}
 
 **(The other) dendroprovenancing: Developing ethical guidelines in dendrochronological research to protect cultural heritage**
 
