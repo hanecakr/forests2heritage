@@ -545,7 +545,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 18:30 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> EXCURSIONS (boat trip on the Amsterdam canals, ...) </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> EXCURSIONS (boat trip on the Amsterdam canals, with drinks and snacks) </td>
   </tr>
 </tbody>
 </table>
@@ -843,7 +843,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 19:00 - … </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;"> DINNER &amp; PARTY </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> DINNER &amp; PARTY at Restaurant 'De Kroon' </td>
   </tr>
 </tbody>
 </table>
