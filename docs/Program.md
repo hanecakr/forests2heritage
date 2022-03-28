@@ -274,12 +274,6 @@
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Connecting ships: using dendrochronological network analysis to determine provenance and ship building practices of Roman-period river barges found in the Lower Rhine region </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S2-P-005](#s2-p-005) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Abdelmoniem M. Abdelmoniem </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Conservation processes of a painted wooden coffin at Saqqara area </td>
-  </tr>
-  <tr>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 15:05 - 15:30 </td>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> coffee </td>
    <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
@@ -434,12 +428,6 @@
    <td style="text-align:left;background-color: #F2F2F2 !important;"> Dendro4Art. The repository for dendrochronological research data on early modern paintings and sculpture </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> poster </td>
-   <td style="text-align:left;width: 100px; background-color: #F2F2F2 !important;"> [S3-P-005](#s3-p-005) </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Rasha Shaheen </td>
-   <td style="text-align:left;background-color: #F2F2F2 !important;"> Preventive Conservation of Egyptian Wooden Statues back to Late Period Displayed at Egyptian Textile Museum </td>
-  </tr>
-  <tr>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 10:35 - 11:00 </td>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> coffee </td>
    <td style="text-align:left;background-color: #EDBB99 !important;">  </td>
@@ -484,20 +472,20 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 12:00 - 12:15 </td>
    <td style="text-align:left;width: 100px; "> [S4-O-005](#s4-o-005) </td>
-   <td style="text-align:left;"> María Martín-Seijo </td>
-   <td style="text-align:left;"> Woody resources and their management during Iron Age in northwest Iberia </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;width: 100px; "> 12:15 - 12:30 </td>
-   <td style="text-align:left;width: 100px; "> [S4-O-006](#s4-o-006) </td>
    <td style="text-align:left;"> Oriol López-Bultó </td>
    <td style="text-align:left;"> Sorting the trees: new evidences of woodland management at La Draga (Banyoles, Spain) </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; "> 12:30 - 12:45 </td>
-   <td style="text-align:left;width: 100px; "> [S4-O-007](#s4-o-007) </td>
+   <td style="text-align:left;width: 100px; "> 12:15 - 12:30 </td>
+   <td style="text-align:left;width: 100px; "> [S4-O-006](#s4-o-006) </td>
    <td style="text-align:left;"> Lisa Shindo </td>
    <td style="text-align:left;"> From the exhaustive study of a mountain village to the restitution of forest: how far can dendrochronology go? </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; "> 12:30 - 12:45 </td>
+   <td style="text-align:left;width: 100px; "> [S4-PR-001](#s4-pr-001) </td>
+   <td style="text-align:left;"> María Martín-Seijo </td>
+   <td style="text-align:left;"> Woody resources and their management during Iron Age in northwest Iberia </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #EDBB99 !important;"> 12:45 - 13:45 </td>

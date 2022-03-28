@@ -200,20 +200,3 @@ Over the past decades various Roman-period river barges were found in the Lower 
 Visser, R.M. 2021 Dendrochronological Provenance Patterns. Network Analysis of Tree-Ring Material Reveals Spatial and Economic Relations of Roman Timber in the Continental North-Western Provinces. *Journal of Computer Applications in Archaeology* 4(1): 230--253. DOI: <https://doi.org/10.5334/jcaa.79>.
 
 
-## S2-P-005 {.unnumbered}
-
-**Conservation processes of a painted wooden coffin at Saqqara area**
-
-Abdelmoniem M. Abdelmoniem^1^, Naglaa Mahmoud^1^, Wael S. Mohamed^2^
-
-^*1*^ *Conservation Department, Faculty of Archaeology, Fayoum University, Fayoum, Egypt. ^2^ Polymer department, National Research Centre, Dokki, Giza, Egypt.*
-
-[ama63\@fayoum.edu.eg](mailto:ama63@fayoum.edu.eg){.email}
-
-This paper aims to document the conservation processes of a polychrome wooden coffin at Saqqara dating back to the late period. The exterior part of the coffin is decorated with painted layer, while inside it is covered with a layer of the black resin.
-
-The coffin was in a bad condition. It was covered with a thick layer of dust, loosing parts of the painted and gesso layers, as well as other parts of these layers were lost. Some parts were missing from the foot area of the lid coffin. 2D illustrations and 3D modules were made to document the coffin.
-
-The conservation processes of the wooden coffin included mechanical and chemical cleaning, reattachment of the separated parts of the ground layer and painted layers, filling the edge of the painted layer, and consolidating the black resin layer. The materials used for these processes proved to be stable and retrieval by many researchers.
-
-The conservation process included mechanical cleaning using soft brushes, chemical cleaning using ethyl alcohol and water for painted layer and xylene and water for black resin layer, stabilization of the separated gesso layer using Paraloid B72, filling cracks of the gesso layers using glass microballoon with Paraloid B72, and consolidating the painted layer with KlucelE and black resin layer with Nano Paraloid B72.

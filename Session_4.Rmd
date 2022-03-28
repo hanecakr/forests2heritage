@@ -64,19 +64,6 @@ Results of this investigation are significant because they constitute the first 
 
 ## S4-O-005 {.unnumbered}
 
-**Woody resources and their management during Iron Age in northwest Iberia**
-
-María Martín-Seijo^1^
-
-^*1*^ *Departamento de Ciencias Históricas, Universidad de Cantabria, Edificio Interfacultativo, Santander, Spain.*
-
-[maria.martin\@unican.es](mailto:maria.martin@unican.es){.email}
-
-Charcoal is the most common archaeobotanical remain recovered from archaeological contexts dated to Iron Age in northern Iberia. This presentation will summarise the results obtained from several case-studies dated to the Iron Age in the northern part of the Iberian Peninsula. Up to now, many charcoals have been analysed providing an excellent opportunity to test the possibilities of going beyond taxonomic identification. In our research we have systematically combined charcoal analysis in tandem with registering dendrological and taphonomic attributes. This has provided information to better characterise the kind of woody resources managed, the combustion process, the depositional and post-depositional processes affecting to archaeobotanical assemblages. But it has also been obtained information about wood uses, woodland management practices, and even about the relationship established between people and their environment.
-
-
-## S4-O-006 {.unnumbered}
-
 **Sorting the trees: new evidences of woodland management at La Draga (Banyoles, Spain)**
 
 Oriol López-Bultó^1^, Patrick Gassmann^2^, Ingrid Bertin^1^, Raquel Piqué^1^
@@ -92,7 +79,7 @@ But recent excavations brought forth new wooden archaeological materials which h
 This paper will present the results of the morphological, technological and dendrological study of the laurel piles in the context of the wooden remains of La Draga site. The results of the different approaches are summarized and contrasted to provide new lights on Neolithic woodland management in Europe. Moreover, it is discussed the role of the laurel tree in the context of the Neolithic.
 
 
-## S4-O-007 {.unnumbered}
+## S4-O-006 {.unnumbered}
 
 **From the exhaustive study of a mountain village to the restitution of forest: how far can dendrochronology go?**
 
@@ -105,6 +92,19 @@ Lisa Shindo^1^
 Since 2014, as part of several research projects on the links between humans and forests in the past, 20 buildings in a village in the southern French Alps (Courbons, 900 m altitude) have been studied by dendrochronology. These are mainly village houses but also a church, a bell tower and a mill. We were interested in the wood used in the structural work, which is only present in the ceilings. These are mostly joisted, but two of them are more elaborated, with visible beams and joists. A total of 155 timbers were studied. The species used are very varied, oak, fir, larch, Scots pine, elm, ash and willow or poplar, as are the growth patterns and felling dates, which range from the 14th to the 19th century. Although the village is mentioned in texts as early as the 12th century, the main felling phases take place in the 15th and 18th centuries (the study of these timbers contributed to the construction of the first oak reference curve at altitude in the southern French Alps).
 
 According to the texts, since at least the 15th century, local wood has been exported to the lowland cities and is at the heart of a very active local market. As we have observed a change in the wood used in the 16^th^ c., we will address the issues of wood resources and forestry management in this region at the crossroads of several trade routes, linking the high mountains, the plains and the Mediterranean Sea.
+
+
+## S4-PR-001 {.unnumbered}
+
+**Woody resources and their management during Iron Age in northwest Iberia**
+
+María Martín-Seijo^1^
+
+^*1*^ *Departamento de Ciencias Históricas, Universidad de Cantabria, Edificio Interfacultativo, Santander, Spain.*
+
+[maria.martin\@unican.es](mailto:maria.martin@unican.es){.email}
+
+Charcoal is the most common archaeobotanical remain recovered from archaeological contexts dated to Iron Age in northern Iberia. This presentation will summarise the results obtained from several case-studies dated to the Iron Age in the northern part of the Iberian Peninsula. Up to now, many charcoals have been analysed providing an excellent opportunity to test the possibilities of going beyond taxonomic identification. In our research we have systematically combined charcoal analysis in tandem with registering dendrological and taphonomic attributes. This has provided information to better characterise the kind of woody resources managed, the combustion process, the depositional and post-depositional processes affecting to archaeobotanical assemblages. But it has also been obtained information about wood uses, woodland management practices, and even about the relationship established between people and their environment.
 
 
 ## S4-P-001 {.unnumbered}

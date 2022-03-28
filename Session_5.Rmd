@@ -5,13 +5,15 @@
 
 **Determining the production place of works of art by dendrochronology: case studies from the Low Countries**
 
-Marta Domínguez-Delmás^1,\ 2^
+Marta Domínguez-Delmás^1,\ 2,\ 3^
 
-*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+*^1^ Amsterdam School for Heritage, Memory and Material Culture, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands ^2^ Department of Conservation & Science, Rijksmuseum, Amsterdam, the Netherlands. ^3^ DendroResearch, Wageningen, the Netherlands.*
 
 <m.dominguezdelmas@uva.nl>
 
-Abstract will be updated soon...
+The Low Countries (current Belgium and Netherlands) were a major centre of production of art objects from the 15th to the 18th centuries. Oak (*Quercus* sp.) was the preferred species, and besides altarpieces, panel paintings and sculptures made with this material, furniture items for households and half-ship models produced at shipyards have all become part of the material cultural heritage of this region. Some artworks were signed by the authors or have quality-control marks such as the hand used by the guild of Saint Luke in Antwerp, but a vast majority remain unattributed.
+
+Dendrochronology is one of the scientific techniques used in the valuation of works of art, as it can provide the date and provenance of the wood and thus place the objects in an exact temporal frame. While it is normally assumed that this science has limited potential to determine the production time and place of the objects, recent finds suggest that in the Low Countries, it may be possible to determine the production place of works of art based on the area supplying the wood, and on inferences about wood derived from individual trees. Given that some parts of the Low Countries were preferentially supplied by specific geographical areas, it is sometimes possible to propose the production region of unattributed works of art. Similarly, linking wooden elements from different objects to individual trees can aid in the attribution of works of art to specific workshops. Several case studies will be presented to illustrate and discuss these propositions. Such results highlight the need to continue exploring and improving methods to determine the geographic origin of the wood and to systematically publish and describe intra-/inter-tree variability to improve inferences about timber derived from the same tree. Furthermore, they represent a major step forward in the valuation and attribution of works of art made of wood.
 
 
 ## S5-O-002 {.unnumbered}
