@@ -47,9 +47,15 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 9:00 - 9:15 </td>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> kickoff </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> Kickoff </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> Marta, Aoife &amp; Kristof </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> Ninja Rijnks-Kleikamp </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;"> International and Interdisciplinary Funding programmes of the Dutch Research Council (NWO) </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
@@ -538,7 +544,7 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 15:00 - 15:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-006](#s5-o-006) </td>
-   <td style="text-align:left;"> Marieke van Vlierden </td>
+   <td style="text-align:left;"> Marieke van Vlierden &amp; Seppe Roels </td>
    <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
   </tr>
   <tr>
@@ -840,7 +846,7 @@
    <td style="text-align:left;"> Clossing words </td>
   </tr>
   <tr>
-   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 19:00 - … </td>
+   <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 18:30 - … </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;"> DINNER &amp; PARTY at Restaurant 'De Kroon' </td>
