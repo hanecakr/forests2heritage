@@ -17,9 +17,9 @@ Tree rings are not always accessible on the outside of objects and thus X-ray co
 
 **Old and new, large and small: Non-invasive techniques applied to a musical instrument**
 
-Tamar Hestrin-Grader^1,\ 2,\ 3^, Manu Frederickx^1,\ 4,\ 5^, Marta Domínguez-Delmás^6^, Wolfgang Gard^7^, Ellen Meijvogel-de Koning^8^, Jan Willem van de Kuilen^7^, Francien Bossema^9^, Tristan van Leeuwen^9^, Paul van Duin^10^, Jan Dorscheid^10^, Tirza Mol^10^, Giovanni Paolo di Stefano^11^
+Tamar Hestrin-Grader^1,\ 2,\ 3^, Manu Frederickx^1,\ 4,\ 5^, Marta Domínguez-Delmás^2,\ 6,\ 7^, Wolfgang Gard^8^, Ellen Meijvogel-de Koning^9^, Jan Willem van de Kuilen^8^, Francien Bossema^10^, Tristan van Leeuwen^10^, Paul van Duin^2^, Jan Dorscheid^2^, Tirza Mol^2^, Giovanni Paolo di Stefano^11^
 
-^*1*^ *KASK & Conservatorium (HOGENT-Howest), Ghent, Belgium. ^2^ Rijksmuseum, Amsterdam, the Netherlands. ^3^ Academy of Creative and Performing Arts, Universiteit Leiden, the Netherlands. ^4^ Objects Conservation, Metropolitan Museum of Art, New York, USA. ^5^ Department of Art, Music and Theatre Sciences, Faculty of Arts and Philosophy, University Ghent, Belgium. ^6^ Institute of Art History, Faculty of Humanities, University of Amsterdam, the Netherlands. ^7^ Biobased Structures and Materials, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^8^ Laboratory of Geoscience and Engineering, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^9^ Computational Imaging, Centrum Wiskunde & Informatica (CWI), Amsterdam, the Netherlands. ^10^ Furniture Conservation, Rijksmuseum Amsterdam, the Netherlands. ^11^ Musical Instruments, Rijksmuseum Amsterdam, the Netherlands.*
+^*1*^ *KASK & Conservatorium (HOGENT-Howest), Ghent, Belgium. ^2^ Department of Conservation & Science, Rijksmuseum, Amsterdam, the Netherlands. ^3^ Academy of Creative and Performing Arts, Universiteit Leiden, the Netherlands. ^4^ Objects Conservation, Metropolitan Museum of Art, New York, USA. ^5^ Department of Art, Music and Theatre Sciences, Faculty of Arts and Philosophy, University Ghent, Belgium. ^6^ Amsterdam School for Heritage, Memory and Material Culture, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands. ^7^ DendroResearch, Wageningen, the Netherlands. ^8^ Biobased Structures and Materials, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^9^ Laboratory of Geoscience and Engineering, Faculty of Civil Engineering and Geosciences, TU Delft, the Netherlands. ^10^ Computational Imaging, Centrum Wiskunde & Informatica (CWI), Amsterdam, the Netherlands. ^11^ Musical Instruments, Rijksmuseum Amsterdam, the Netherlands.*
 
 [manu.frederickx\@metmuseum.org](mailto:manu.frederickx@metmuseum.org){.email} - [tamarhestringrader\@gmail.com](mailto:tamarhestringrader@gmail.com){.email}
 
@@ -104,7 +104,7 @@ This paper combines conventional and dendro-CT to answer the age question and th
 
 Stephan Nicolaij^1,\ 2^, Silke Lange^1,\ 3^, Lien Lombaert^4^, Ignace Bourgeois^5^, Natalie Cleeren^6^, Jonathan Jacops^4^, Koen Deforce^7^, Kristof Haneca^8^, Jelte van der Laan^1,\ 9^
 
-^*1*^ *WOODAN Foundation, Groningen, The Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ BIAX Consult, Zaandam, the Netherlands. ^4^ Erkend Erfgoeddepot Ename, Oudenaarde, Belgium. ^5^ Provinciaal Archeologisch Depot (PAD), Antwerp, Belgium. ^6^ Natalie Cleeren Archaeological Conservation, Geetbets, Belgium. ^7^ Ghent University, Ghent, Belgium. ^8^ Flanders Heritage Agency, Brussels, Belgium. ^9^ Cambium Botany, Kleine Huisjes, the Netherlands.*
+^*1*^ *WOODAN Foundation, Groningen, the Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ BIAX Consult, Zaandam, the Netherlands. ^4^ Erkend Erfgoeddepot Ename, Oudenaarde, Belgium. ^5^ Provinciaal Archeologisch Depot (PAD), Antwerp, Belgium. ^6^ Natalie Cleeren Archaeological Conservation, Geetbets, Belgium. ^7^ Ghent University, Ghent, Belgium. ^8^ Flanders Heritage Agency, Brussels, Belgium. ^9^ Cambium Botany, Kleine Huisjes, the Netherlands.*
 
 [Stephan.nicolaij\@woodan.org](mailto:Stephan.nicolaij@woodan.org){.email}
 

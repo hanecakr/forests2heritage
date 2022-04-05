@@ -4,15 +4,16 @@
 
 **Dating Northern-Netherlands cabinets from the late 17th century**
 
-Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,\ 2^
+Paul van Duin^1^, Iskander Breebaart^1^, Marta Domínguez-Delmás^1,\ 2,\ 3^
 
-*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, The Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+*^1^ Conservation and Science Department, Rijksmuseum, Amsterdam, the Netherlands. ^2^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands. ^3^ DendroResearch, Wageningen, the Netherlands.*
 
 <p.van.duin@rijksmuseum.nl>
 
-Over the last 30 years, a great number of pieces of furniture from the Rijksmuseum collection (Amsterdam, The Netherlands) have been dated by dendrochronology. Furniture from the Northern Netherlands was seldom dated by the maker, and never signed, and few documents have survived that could indicate who made it and when. A very popular type of cabinet around the 1700s was a cabinet on a stand, with large flat surfaces decorated with marquetry with flowers and/or geometrical patterns. An ongoing project aims to identify groups of cabinets that were produced by a same maker, based on similarities in the construction and decorative features, and on dendrochronological dates and groupings of the oak (Quercus sp.) components.
+Over the last 30 years, a great number of pieces of furniture from the Rijksmuseum collection (Amsterdam, The Netherlands) have been dated by dendrochronology. Furniture from the Northern Netherlands was seldom dated by the maker, and never signed, and few documents have survived that could indicate who made it and when. A very popular type of cabinet around the 1700s was a cabinet on a stand, with large flat surfaces decorated with marquetry with flowers and/or geometrical patterns. An ongoing project aims to identify groups of cabinets that were produced by a same maker, based on similarities in the construction and decorative features, and on dendrochronological dates and groupings of the oak (*Quercus* sp.) components. 
 
-Here, we will present the process followed to date the cabinets, from the selection of components to be analysed to the interpretation of the dendrochronological results. A selection of 15 pieces includes the first cabinet ever dated by dendrochronology in the Rijksmuseum, the dolls' house of Petronella Oortman, as well as furniture by Jan van Mekeren with intricate marquetry depicting large bouquets of flowers. Dating furniture differs from dating panel paintings or sculptures, as a cabinet on average consists of 50 to 100 wooden components. In many of those components the end grain is not accessible, or partial dismantling is needed to access it, hence conscious choices must be made. The dates and provenance of the wood have been compared to previously existing art-historical dates, to assess the added value of dendrochronological dating and the contribution of this science to understanding developments in cabinetmaking.
+Here, we will present the process followed to date the cabinets, from the selection of components to be analysed to the interpretation of the dendrochronological results. A selection of 15 pieces includes the first cabinet ever dated by dendrochronology in the Rijksmuseum, the dolls’ house of Petronella Oortman, as well as furniture by Jan van Mekeren with intricate marquetry depicting large bouquets of flowers. Dating furniture differs from dating panel paintings or sculptures, as a cabinet on average consists of 50 to 100 wooden components. In many of those components the end grain is not accessible, or partial dismantling is needed to access it, hence conscious choices must be made. The dates and provenance of the wood have been compared to previously existing art-historical dates, to assess the added value of dendrochronological dating and the contribution of this science to understanding developments in cabinetmaking.
+
 
 
 ## S3-O-002 {.unnumbered}
@@ -78,7 +79,7 @@ The *nudsugana* are subjectivized sculptures with their own life and agency whic
 
 Tirza Mol^1^, Paul van Duin^2^, Jeroen ter Brugge^3^, Marta Domínguez-Delmás^4^
 
-*^1^ Shipmodel and furniture conservator at Rijksmuseum, Amsterdam, The Netherlands. ^2^ Head of furniture conservation at Rijksmuseum, Amsterdam, The Netherlands. ^3^ Curator of maritime collections at Rijksmuseum, Amsterdam, The Netherlands. ^4^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, The Netherlands.*
+*^1^ Shipmodel and furniture conservator at Rijksmuseum, Amsterdam, the Netherlands. ^2^ Head of furniture conservation at Rijksmuseum, Amsterdam, the Netherlands. ^3^ Curator of maritime collections at Rijksmuseum, Amsterdam, the Netherlands. ^4^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands.*
 
 <T.Mol@rijksmuseum.nl>
 
@@ -87,6 +88,7 @@ The maritime collection of the Rijksmuseum (Amsterdam) contains around 1800 navy
 Despite the great number of half models in the Rijksmuseum collection, little is known about their production and function. Many models are not attributed to a specific dockyard, are not associated with actual ships, and have therefore been assigned broad production date ranges. This paper describes how systematic technical research can contribute to the knowledge about the provenance of the half models and their possible role in the Dutch maritime shipbuilding industry.
 
 A reconstruction of a half model was made to understand the construction sequence. Visual inspection and tool traces recording were used to study the construction process, and dendrochronological research was used to date the models and establish their potential production shipyard. By clustering the models according to stylistic features, materials and tool traces, as well as dendrochronological data, we have been able to attribute groups of them to specific shipyards and to connect some of them to actual ships. This paper shares the preliminary results of this fascinating research.
+
 
 
 ## S3-O-007 {.unnumbered}
@@ -112,7 +114,7 @@ For all of them, the dendrochronological analysis during a conservation-restorat
 
 Jørgen Wadum^1,\ 2^, Marta Domínguez-Delmás^3^, Angela Jager^4^
 
-*^1^ Nivaagaard Collection, Nivå, Denmark. ^2^ Wadum Art Technological Studies (WATS), Vanlose, Denmark. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, The Netherlands. ^4^ RKD -- Netherlands Institute for Art History, The Hague, The Netherlands.*
+*^1^ Nivaagaard Collection, Nivå, Denmark. ^2^ Wadum Art Technological Studies (WATS), Vanlose, Denmark. ^3^ Institute of Art History, Faculty of Humanities, University of Amsterdam, the Netherlands. ^4^ RKD -- Netherlands Institute for Art History, The Hague, the Netherlands.*
 
 <WATS@jorgenwadum.com>
 
