@@ -747,7 +747,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;"> Session 7 </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Non-invasive techniques for the study of wooden cultural heritage </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Novel methods for dating and provenance analysis </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;">  </td>
@@ -801,7 +801,7 @@
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;"> Session 7 cont. </td>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;font-weight: bold;">  </td>
    <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;">  </td>
-   <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Non-invasive techniques for the study of wooden cultural heritage </td>
+   <td style="text-align:left;background-color: #D6EAF8 !important;font-weight: bold;"> Novel methods for dating and provenance analysis </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 15:30 - 15:45 </td>
