@@ -393,7 +393,7 @@
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; "> 10:00 - 10:15 </td>
-   <td style="text-align:left;width: 100px; "> [S3-O-007](#s3-o-007) </td>
+   <td style="text-align:left;width: 100px; "> [S3-PR-007](#s3-pr-007) </td>
    <td style="text-align:left;"> Pascale Fraiture </td>
    <td style="text-align:left;"> Three altarpieces attributed to the Borman dynasty studied by dendrochronology </td>
   </tr>
@@ -544,7 +544,7 @@
   <tr>
    <td style="text-align:left;width: 100px; "> 15:00 - 15:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-006](#s5-o-006) </td>
-   <td style="text-align:left;"> Marieke van Vlierden &amp; Seppe Roels </td>
+   <td style="text-align:left;"> Suzanne Laemers </td>
    <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
   </tr>
   <tr>

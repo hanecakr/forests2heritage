@@ -95,9 +95,9 @@ As a result, an increasingly clearer picture is emerging of the ever-shifting re
 
 **MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
 
-Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^
+Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^, Suzanne Laemers^5^
 
-*^1^ Independent art historian, Utrecht, the Netherlands. ^2^ Associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^4^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany.*
+*^1^ Independent art historian, Utrecht, the Netherlands. ^2^ Associated researcher MARKS ON ART database, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands. ^3^ Independent conservator-restorer of polychrome sculpture, Malines, Belgium. ^4^ Manager ad interim and Head of Collections Suermondt-Ludwig-Museum, Aachen, Germany. ^5^ Project manager MARKS ON ART/sculpture, RKD -- Netherlands Institute for Art History, The Hague, the Netherlands.*
 
 <info@mariekevanvlierden.nl> - <conservatie@sepperoels.be>
 

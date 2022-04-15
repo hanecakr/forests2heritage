@@ -77,9 +77,9 @@ The *nudsugana* are subjectivized sculptures with their own life and agency whic
 
 **Looking into Rijksmuseum's maritime collection: provenance and function of 18th and 19th century half hull models**
 
-Tirza Mol^1^, Paul van Duin^2^, Jeroen ter Brugge^3^, Marta Domínguez-Delmás^4^
+Tirza Mol^1^, Paul van Duin^2^, Jeroen ter Brugge^3^, Davina Kuh Jakobi^4^, Marta Domínguez-Delmás^5^
 
-*^1^ Shipmodel and furniture conservator at Rijksmuseum, Amsterdam, the Netherlands. ^2^ Head of furniture conservation at Rijksmuseum, Amsterdam, the Netherlands. ^3^ Curator of maritime collections at Rijksmuseum, Amsterdam, the Netherlands. ^4^ Institute of Art History, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands.*
+*^1^ Shipmodel and furniture conservator at Rijksmuseum, Amsterdam, the Netherlands. ^2^ Head of furniture conservation at Rijksmuseum, Amsterdam, the Netherlands. ^3^ Curator of maritime collections at Rijksmuseum, Amsterdam, the Netherlands. ^4^ Conservator, Whaley Historic House Museum, USA. ^5^ Research Associate Amsterdam School for Heritage, Memory and Material Culture, Faculty of Humanities, University of Amsterdam, Amsterdam, the Netherlands.*
 
 <T.Mol@rijksmuseum.nl>
 
@@ -91,7 +91,7 @@ A reconstruction of a half model was made to understand the construction sequenc
 
 
 
-## S3-O-007 {.unnumbered}
+## S3-PR-007 {.unnumbered}
 
 **Three altarpieces attributed to the Borman dynasty studied by dendrochronology**
 
