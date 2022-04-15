@@ -93,7 +93,7 @@ As a result, an increasingly clearer picture is emerging of the ever-shifting re
 
 ## S5-O-006 {.unnumbered}
 
-**MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700**
+**MARKS ON ART database: marks on paintings and sculpture, 1300-1700**
 
 Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^, Suzanne Laemers^5^
 
@@ -101,11 +101,10 @@ Marieke van Vlierden^1,\ 2^, Seppe Roels^2,\ 3^, Michael Rief^4^, Suzanne Laemer
 
 <info@mariekevanvlierden.nl> - <conservatie@sepperoels.be>
 
-The RKD -- Netherlands Institute for Art History has been developing the MARKS ON ART database in close cooperation with the two specialists who devised it, art historian Marieke van Vlierden and conservator-restorer Seppe Roels. The purpose of this new database, which will become accessible online in due course, is to gather and share detailed information on a range of different marks that can be found on sculptures, furniture and the backs of panel paintings, dating from 1300 to 1700.
+The RKD – Netherlands Institute for Art History has been developing the MARKS ON ART database in close cooperation with the two specialists who devised it, art historian Marieke van Vlierden and conservator-restorer Seppe Roels. The purpose of this new database, which will become accessible online in due course, is to gather and share detailed information on a range of different marks that can be found on sculptures, furniture and the backs of panel paintings, dating from 1300 to 1700.
 
-Besides the more commonly encountered marks – signatures, monograms, master's marks, quality control marks and panel maker’s marks which provide unique information about such things as the maker, when and where the object was produced, – the MARKS ON ART database also includes so-called forest marks. Those large marks are exclusively found on Baltic wainscot, for example on the backs of panel paintings, sculptures, retables and pieces of furniture. They are probably marks of the owner of the forest or the wood (timber) merchant. Created or added in an early stage of processing the basic raw material, the above mentioned marks provide unique information about the trade and transportation of the wood of which the works of art are made.
+Besides the more commonly encountered marks – signatures, monograms, master’s marks, quality control marks and panel maker’s marks which provide unique information about such things as the maker, when and where the object was produced – Marieke van Vlierden and Seppe Roels also document marks that less frequently occur, such as forest marks which can be related to trade and transportation of the wood of which the works of art are made.
 
-35 forest marks have been documented so far in MARKS ON ART database. In the presentation we will give an introduction to these marks and zoom in on the 10 marks found on the back of an Antwerp retable with the Youth and Passion of Christ in M-Museum, Louvain, dated c. 1520-1525.
 
 
 ## S5-O-007 {.unnumbered}

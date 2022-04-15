@@ -545,7 +545,7 @@
    <td style="text-align:left;width: 100px; "> 15:00 - 15:15 </td>
    <td style="text-align:left;width: 100px; "> [S5-O-006](#s5-o-006) </td>
    <td style="text-align:left;"> Suzanne Laemers </td>
-   <td style="text-align:left;"> MARKS ON ART database: forest marks on paintings and sculpture, 1300-1700 </td>
+   <td style="text-align:left;"> MARKS ON ART database: marks on paintings and sculpture, 1300-1700 </td>
   </tr>
   <tr>
    <td style="text-align:left;width: 100px; background-color: #D6EAF8 !important;"> 17:00 - 18:30 </td>
