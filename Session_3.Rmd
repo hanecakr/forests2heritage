@@ -154,6 +154,20 @@ Kristof Haneca^1^, Koen Deforce^2,\ 3^, Luc Allemeersch^4^
 
 <Kristof.Haneca@vlaanderen.be>
 
+```{r, echo=FALSE }
+
+downloadthis::download_link(
+  link = "https://github.com/hanecakr/forests2heritage/raw/main/posters/S3-P-002_poster_Haneca.pdf",
+  button_label = "Download pdf",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+
+```
+
+
 A heavy and impressive chest -- part of the museum collection of the city of Antwerp -- is believed to have served as the container to hold and protect the cities privileges, liberties and other important historical documents. However, so far little material-technical research and historical research has been undertaken, and it remained unclear how old this chest actually is.
 
 A recent dendrochronological survey revealed that the chest was mainly constructed with wide Silver fir planks (Abies alba), although the bottom was made of oak. The tree-ring pattern of the lid of the chest was dated to 1005 - 1294 CE, suggesting a felling date early in the 14th century. The wood originates from the Vosges mountains in France, and hence was transported towards the city of Antwerp that already in the 13th century developed as an important trade centre along the river Scheldt. The tree-ring pattern of the bottom plank could not be measured, but the presence of caulking material in some large cracks and metal clamps (sintels) revealed that this repurposed timber must originate from a medieval ship. The archaeobotanical and palynological examination of the caulking material (mosses) points towards two different locations where the ship was repaired, with at least one location outside the Low Countries.

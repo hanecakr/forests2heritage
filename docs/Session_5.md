@@ -244,6 +244,14 @@ Kristof Haneca^1^, Koen De Groote^1^
 
 <Kristof.Haneca@vlaanderen.be>
 
+
+```{=html}
+<a href="https://github.com/hanecakr/forests2heritage/raw/main/posters/S5-P-001_poster_Haneca.pdf">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download pdf</button>
+</a>
+```
+
+
 In the centre of the medieval city of Ypres a graveyard was unearthed (field campaign 2017-2018), and over 1075 inhumation burials recorded. Many of the deceased were buried in wooden coffins, a considerable number of which have been very well preserved. As the stratigraphy of the graveyard does not allow to accurately reconstruct the chronology and expansion of the burial site, an intensive dendrochronological survey was set-up in order to date the wooden coffins.
 
 Most coffins were made exclusively of oak, although for some the lid was made of poplar/willow. In rare cases beech, elm or alder was used. In total 735 samples were analysed, resulting in 383 unique tree-ring series of which 242 series could be dated (124 remain undated). These dates allowed to precisely date the construction of 84 coffins and revealed that the site was in use as a burial site from c. 1200 CE onwards, which seems to correspond to the oldest phase of the Saint-Nicolas' Church. Around c. 1375 CE, burials ended quite abruptly on this graveyard. For the construction of the coffins imported, high-quality timbers were used. Provenance analysis indicates that wainscot oak boards originate from the Southern Baltic or NW Germany. Very few timbers from local forests were used for the production of the coffins, what might indicate that a rather privileged class was buried on this graveyard.
