@@ -7,6 +7,7 @@
 library(tidyverse)
 library(readxl)
 library(kableExtra)
+library(downloadthis)
 
 opts <- options(knitr.kable.NA = "")
 

@@ -172,6 +172,14 @@ We here present an overview of all dendrochronologically analysed roof construct
 These new results and the wider dataset for the Ghent region now allow to develop a typology for (late)medieval roof constructions and a better understanding of the procurement, trade and transport of building timber, from the early 13th century up to the beginning of the Early Modern era.
 
 
+
+```{=html}
+<a href="https://github.com/hanecakr/forests2heritage/posters/S1-P-002_poster_Debonne.pdf">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download pdf</button>
+</a>
+```
+
+
 ## S1-P-003 {.unnumbered}
 
 **Utilization of wood species in timber constructions across the Czech lands from the 15th to the 19th century**
