@@ -228,6 +228,20 @@ Maks Merela^1^, Katarina Čufar^1^, Luka Krže^1^, Angela Balzano^1^
 
 <Maks.Merela@bf.uni-lj.si>
 
+```{r, echo=FALSE }
+
+downloadthis::download_link(
+  link = "https://github.com/hanecakr/forests2heritage/raw/main/posters/S1-P-005_poster_Merela.pdf",
+  button_label = "Download pdf",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+
+```
+
+
 We intend to present some methodological approaches for the application of wood anatomy and dendrochronology to various cultural heritage objects. An appropriate combination of microscopic techniques allows the detection of anatomical features for wood identification, while another combination of microscopic techniques may be optimal to determine the state of preservation of the wood at the cellular level. The latter is particularly important in the study of archaeological waterlogged wood, where assessing the degree of cell wall degradation determines the research potential of the wood and the conservation of particular objects. We will present the results of light microscopy (different light modes), epifluorescence, confocal laser scanning microscopy, digital microscopy, and scanning electron microscopy on various cultural heritage objects. We will discuss when wood is considered sufficiently preserved for tree-ring analysis and show examples of dendrochronological studies on various cultural heritage objects as well as on waterlogged objects.
 
 Finally, we will address the need for ongoing maintenance of reference chronologies, which must be available for different wood species and time periods, as well as the optimal selection of wood for radiocarbon dating and wiggle matching when dendrochronological dating is unsuccessful or not possible.

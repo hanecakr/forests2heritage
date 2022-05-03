@@ -100,13 +100,27 @@ This paper combines conventional and dendro-CT to answer the age question and th
 
 ## S6-P-002 {.unnumbered}
 
-**Out of the woods phase II**
+**WOODAN. Synthesizing data on archaeological wooden objects from Flanders (N-Belgium)**
 
 Stephan Nicolaij^1,\ 2^, Silke Lange^1,\ 3^, Lien Lombaert^4^, Ignace Bourgeois^5^, Natalie Cleeren^6^, Jonathan Jacops^4^, Koen Deforce^7^, Kristof Haneca^8^, Jelte van der Laan^1,\ 9^
 
 ^*1*^ *WOODAN Foundation, Groningen, the Netherlands. ^2^ Qursi Software, Groningen, the Netherlands. ^3^ BIAX Consult, Zaandam, the Netherlands. ^4^ Erkend Erfgoeddepot Ename, Oudenaarde, Belgium. ^5^ Provinciaal Archeologisch Depot (PAD), Antwerp, Belgium. ^6^ Natalie Cleeren Archaeological Conservation, Geetbets, Belgium. ^7^ Ghent University, Ghent, Belgium. ^8^ Flanders Heritage Agency, Brussels, Belgium. ^9^ Cambium Botany, Kleine Huisjes, the Netherlands.*
 
 [Stephan.nicolaij\@woodan.org](mailto:Stephan.nicolaij@woodan.org){.email}
+
+```{r, echo=FALSE }
+
+downloadthis::download_link(
+  link = "https://github.com/hanecakr/forests2heritage/raw/main/posters/S6-P-002_poster_vanderLaan.pdf",
+  button_label = "Download pdf",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+
+```
+
 
 Over the last decades universities, government institutions and commercial companies have collected a huge amount of information on archaeological wooden artefacts. This information is scattered however, and there is no clear overview of what we know about wood utilisation and its development trough time within a larger region. As most publications are focused on specific sites or excavations, it is often hard to place artifacts in a broader context. In 2018 the WOODAN Foundation started collecting data on wooden artefacts with the mission to function as a central platform to find, analyse and publish information on these artefacts.
 
