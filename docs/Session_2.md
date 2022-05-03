@@ -152,6 +152,14 @@ Angela Balzano^1^, Maks Merela^1^, Katarina Čufar^1^
 
 [Angela.Balzano\@bf.uni-lj.si](mailto:Angela.Balzano@bf.uni-lj.si){.email}
 
+
+```{=html}
+<a href="https://github.com/hanecakr/forests2heritage/raw/main/posters/S2-P-001_poster_Balzano.pdf">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download pdf</button>
+</a>
+```
+
+
 Waterlogged archaeological wood (WAW) from prehistoric pile-dwelling settlements in Ljubljansko barje, Slovenia, was examined using various microscopic techniques. We have performed light microscopy (LM) using bright field, polarization and fluorescence modes with different sample preparation methods (cutting of frozen WAW, cutting after embedding in paraffin). Unstained and stained sections with safranin and astra blue or acridine orange and chrysoidin were considered. We have developed an improved protocol for scanning electron microscopy (SEM) and energy dispersive X-ray spectroscopy (EDX) based on the observation of sections obtained with a razor blade from frozen samples and fixed with albumin on sample supports to prevent cracking and collapse of the highly degraded wood. Advantages of applied techniques will be shown for WAW of Quercus, Faxinus, Acer, Salix and Populus with an age of about 4,500 years.
 
 Sections from frozen WAW, approximately 20-30 µm thick and 1cm2 in size, allowed recognition of cellular and tissue level structures with LM. Embedding in paraffin provided thinner but smaller sections which tended to tear.
