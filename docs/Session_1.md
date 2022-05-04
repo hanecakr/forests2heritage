@@ -216,9 +216,9 @@ Dendrochronological analyses will then be used as a tool to further understand t
 
 **Methodological approach of wood anatomy and dendrochronology in cultural heritage**
 
-Maks Merela^1^, Katarina Čufar^1^, Luka Krže^1^, Angela Balzano^1^
+Maks Merela^1^, Katarina Čufar^1^, Luka Krže^1^, Angela Balzano^1^, Andrej Gaspari^2^
 
-*^1^Biotechnical Faculty, University of Ljubljana, Department of Wood Science and Technology, Ljubljana, Slovenia.*
+*^1^University of Ljubljana, Biotechnical Faculty, Department of Wood Science and Technology, Ljubljana, Slovenia. ^2^University of Ljubljana, Faculty of Arts, Department of Archaeology, Ljubljana, Slovenia*
 
 <Maks.Merela@bf.uni-lj.si>
 
