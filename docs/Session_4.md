@@ -134,6 +134,14 @@ Caroline Vermeeren^1^, Kirsti Hänninen, Welmoed A. Out^2^
 
 [vermeeren\@biax.nl](mailto:vermeeren@biax.nl){.email}
 
+
+```{=html}
+<a href="https://github.com/hanecakr/forests2heritage/raw/main/posters/S4-P-002_poster_Vermeeren.pdf">
+<button class="btn btn-danger"><i class="fa fa-save"></i> Download pdf</button>
+</a>
+```
+
+
 From written and iconographic sources there is proof for wood management in the historical period, but when did this practice start? It is often assumed that this could have been as far back as the Neolithic. To investigate woodland management, a model was made using the combination of diameter and number of annual rings (figure 1). Management (pollarding and coppicing) results in a higher quantity and quality of wood, due to better access to light. The managed trees are supposed to produce fast growing branches (managed spurts) with thicker annual rings. This was tested on modern trees resulting in reference graphs per taxon. Case studies for the Neolithic from different parts of Europe are compared to these graphs of which some will be presented. A management signal could not be found. Different possibilities are discussed to explain this result.
 
 ![figure 1: growth model of managed (hatched) and unmanaged wood/trees, combination of diameter and age.](./figures/Vermeeren.png){width=90%}
